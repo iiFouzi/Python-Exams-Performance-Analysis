@@ -21,8 +21,8 @@ If you used any external data sources or references, summarize them here (add li
 ## What I did (Summary of steps) 🔧
 1. Data ingestion and validation
 2. Data cleaning and preprocessing (handling missing values, normalizing columns, renaming variables for clarity)
-3. Exploratory data analysis (descriptive statistics, distributions, correlations)
-4. Visualizations to uncover relationships between features and exam performance (bar charts, histograms, boxplots, heatmaps)
+3. Exploratory data analysis (descriptive statistics, distributions, correlations) (todo)
+4. Visualizations to uncover relationships between features and exam performance (bar charts, histograms, boxplots, heatmaps) (almost done)
 5. Interpretation of key findings and suggestions for educators
 
 ## Key Findings ✨
@@ -63,7 +63,7 @@ If you want, create a `requirements.txt` with exact package versions for reprodu
 3. Inspect or modify analysis cells to explore alternate hypotheses or add models.
 
 ## Next Steps & Ideas 🚀
-- Add predictive modeling (regression/classification) to predict pass/fail or score ranges
+- Add predictive modeling (regression/classification) to predict pass/fail or score ranges (done)
 - Perform feature engineering and evaluate feature importance
 - Extend dataset with demographic or time-on-task data if available
 - Create a small dashboard for interactive exploration (Streamlit / Voila)
