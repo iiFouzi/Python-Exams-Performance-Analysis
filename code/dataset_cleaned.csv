@@ -1,0 +1,3001 @@
+student_id,age,country,prior_programming_experience,weeks_in_course,hours_spent_learning_per_week,practice_problems_solved,projects_completed,tutorial_videos_watched,uses_kaggle,participates_in_discussion_forums,debugging_sessions_per_week,self_reported_confidence_python,final_exam_score,passed_exam,decision
+1,54,Pakistan,Beginner,12,12.2,60,1,24,0,1,4,10,53.8,0,Failed
+2,44,Nigeria,No prior experience,15,14.2,52,1,32,0,0,5,7,31.9,0,Failed
+3,30,India,Intermediate,5,7.7,71,1,43,0,0,6,3,59.4,0,Failed
+4,23,Nigeria,Beginner,4,5.6,64,2,40,1,0,3,10,58.8,0,Failed
+5,36,UK,No prior experience,3,3.5,62,1,47,1,0,3,7,24.8,0,Failed
+6,54,Brazil,Intermediate,10,8.4,64,0,35,0,1,3,3,43.8,0,Failed
+7,34,USA,No prior experience,1,12.3,60,1,35,0,0,5,2,40.8,0,Failed
+8,38,Nigeria,No prior experience,3,6.3,56,3,41,1,1,7,1,24.7,0,Failed
+9,26,Bangladesh,Beginner,3,0.0,52,1,26,0,0,5,6,20.7,0,Failed
+10,26,Brazil,Beginner,7,9.0,60,1,42,1,1,6,3,45.3,0,Failed
+11,39,Brazil,Intermediate,7,10.0,58,3,47,0,0,2,10,65.6,1,Passed
+12,51,Nigeria,No prior experience,13,2.2,69,3,41,0,0,2,2,14.6,0,Failed
+13,39,Brazil,Beginner,15,7.5,57,1,34,1,1,5,3,28.9,0,Failed
+14,18,Germany,No prior experience,12,8.4,69,0,36,0,1,5,8,39.6,0,Failed
+15,37,Nigeria,No prior experience,1,6.8,55,4,40,0,1,3,3,14.9,0,Failed
+16,17,India,Intermediate,3,4.6,61,2,46,0,0,9,4,49.7,0,Failed
+17,39,Pakistan,Intermediate,13,10.0,61,1,40,0,0,4,2,43.0,0,Failed
+18,45,UK,No prior experience,8,5.8,58,3,40,1,0,6,8,35.2,0,Failed
+19,53,Indonesia,Beginner,9,2.5,72,1,39,0,1,6,6,18.9,0,Failed
+20,17,Other,No prior experience,7,0.9,70,1,46,1,0,4,9,30.6,0,Failed
+21,36,Brazil,Intermediate,7,10.8,70,4,41,0,0,8,8,76.0,1,Passed
+22,48,India,No prior experience,12,8.8,54,4,40,0,1,5,4,42.4,0,Failed
+23,27,USA,No prior experience,15,7.3,57,1,48,1,1,5,8,33.3,0,Failed
+24,37,USA,Beginner,11,5.7,56,2,41,1,1,7,1,35.0,0,Failed
+25,40,Other,Beginner,8,5.4,51,4,48,0,0,6,9,55.0,0,Failed
+26,42,UK,Beginner,6,3.8,68,2,34,0,1,6,5,29.0,0,Failed
+27,43,Brazil,No prior experience,11,5.7,69,2,52,0,0,7,4,27.6,0,Failed
+28,31,Germany,No prior experience,3,0.6,59,1,43,1,0,6,5,1.1,0,Failed
+29,30,Other,Beginner,15,4.8,63,2,36,0,1,9,1,26.5,0,Failed
+30,18,UK,No prior experience,1,6.1,47,1,39,0,1,4,2,8.8,0,Failed
+31,52,Brazil,Intermediate,7,8.8,66,3,45,0,1,5,2,53.5,0,Failed
+32,22,India,No prior experience,1,6.9,59,4,44,0,0,10,9,47.0,0,Failed
+33,36,Pakistan,Beginner,1,9.4,62,3,37,1,1,4,6,45.2,0,Failed
+34,24,Germany,Beginner,9,11.0,63,1,49,0,0,1,3,45.8,0,Failed
+35,54,Indonesia,No prior experience,13,10.2,45,0,36,0,1,7,4,39.6,0,Failed
+36,33,USA,Beginner,10,8.4,43,1,34,0,0,2,1,33.3,0,Failed
+37,19,Bangladesh,Intermediate,7,7.0,61,4,32,0,0,7,7,68.3,1,Passed
+38,40,India,No prior experience,13,4.1,42,1,34,0,0,6,7,10.1,0,Failed
+39,29,USA,Advanced,11,9.2,57,2,39,0,0,5,8,72.2,1,Passed
+40,24,Nigeria,Beginner,13,12.0,54,0,45,0,0,5,1,39.5,0,Failed
+41,41,Bangladesh,No prior experience,4,8.0,63,5,47,1,1,1,9,61.0,1,Passed
+42,17,USA,Beginner,6,12.8,52,2,43,1,0,4,2,61.8,1,Passed
+43,35,UK,No prior experience,1,2.4,49,1,50,0,1,7,1,2.6,0,Failed
+44,43,Germany,Intermediate,7,3.5,39,3,37,0,1,3,1,24.2,0,Failed
+45,22,USA,Intermediate,12,9.6,73,4,31,0,1,9,8,82.6,1,Passed
+46,23,Indonesia,Intermediate,15,7.8,71,1,41,0,0,6,3,49.0,0,Failed
+47,50,Pakistan,Advanced,6,10.9,75,1,39,1,1,7,6,70.3,1,Passed
+48,29,UK,Intermediate,4,7.0,69,4,55,1,0,4,6,63.9,1,Passed
+49,32,India,Beginner,7,4.4,70,4,28,1,1,4,2,36.2,0,Failed
+50,51,India,No prior experience,3,6.4,56,1,42,0,1,3,2,17.3,0,Failed
+51,19,India,Beginner,1,2.4,54,2,36,1,0,6,1,41.5,0,Failed
+52,17,India,No prior experience,4,3.6,49,3,38,0,1,2,9,27.8,0,Failed
+53,21,Pakistan,Intermediate,3,9.9,55,2,37,1,0,7,1,51.2,0,Failed
+54,19,USA,Beginner,1,9.6,57,3,32,0,0,5,6,59.4,0,Failed
+55,44,Brazil,No prior experience,2,8.1,56,2,45,0,0,1,9,34.9,0,Failed
+56,33,USA,No prior experience,11,1.8,69,8,35,0,1,8,6,53.6,0,Failed
+57,41,Nigeria,Beginner,5,5.9,57,2,37,0,1,7,6,58.2,0,Failed
+58,49,Germany,Beginner,15,3.3,73,1,38,1,0,1,4,16.2,0,Failed
+59,25,Bangladesh,Beginner,8,10.5,57,1,43,1,0,2,5,33.4,0,Failed
+60,51,Brazil,Beginner,1,5.2,69,0,40,1,0,3,1,23.4,0,Failed
+61,29,Brazil,Beginner,4,3.7,67,0,42,1,1,7,3,41.4,0,Failed
+62,46,USA,Beginner,14,7.1,71,2,37,0,1,4,6,45.2,0,Failed
+63,30,Brazil,No prior experience,4,5.1,58,1,35,0,1,2,2,18.6,0,Failed
+64,23,Other,No prior experience,5,11.5,57,3,37,0,1,6,1,24.6,0,Failed
+65,29,Other,Beginner,7,4.8,64,2,38,1,1,2,1,39.6,0,Failed
+66,38,Nigeria,Beginner,13,2.8,61,1,28,0,0,7,1,22.1,0,Failed
+67,36,Bangladesh,No prior experience,12,0.5,53,1,41,0,0,3,10,8.0,0,Failed
+68,31,Indonesia,Beginner,8,6.9,51,2,38,0,1,4,10,58.3,0,Failed
+69,33,Pakistan,No prior experience,15,5.3,54,4,36,1,1,6,1,35.1,0,Failed
+70,39,USA,Beginner,6,2.7,59,2,49,1,1,4,6,39.4,0,Failed
+71,41,Pakistan,Beginner,1,10.6,48,2,45,0,0,6,10,53.7,0,Failed
+72,40,Indonesia,Beginner,7,9.0,58,1,36,1,0,5,4,28.6,0,Failed
+73,44,USA,Intermediate,3,6.9,65,1,36,0,0,5,4,43.6,0,Failed
+74,30,USA,No prior experience,15,11.1,63,1,38,0,1,5,4,20.9,0,Failed
+75,16,Bangladesh,Advanced,13,9.0,61,1,35,1,1,7,8,73.6,1,Passed
+76,40,Pakistan,Beginner,13,4.5,54,2,27,0,0,6,7,39.4,0,Failed
+77,22,Other,Beginner,13,3.9,69,2,40,0,1,4,5,42.9,0,Failed
+78,24,India,Beginner,6,9.5,54,4,38,1,0,5,7,59.4,0,Failed
+79,39,Pakistan,Beginner,15,8.2,65,3,39,1,0,6,8,70.3,1,Passed
+80,16,Germany,Beginner,8,7.5,74,4,40,1,0,3,10,52.9,0,Failed
+81,23,Germany,Beginner,7,4.5,57,5,49,0,1,6,8,56.5,0,Failed
+82,39,USA,No prior experience,10,8.8,53,3,38,0,1,10,7,51.6,0,Failed
+83,26,India,No prior experience,6,4.7,51,2,31,0,1,5,7,28.8,0,Failed
+84,32,UK,Beginner,9,6.7,61,1,36,1,1,8,9,45.1,0,Failed
+85,23,Indonesia,No prior experience,9,11.3,56,3,51,0,0,6,5,46.7,0,Failed
+86,50,Nigeria,Beginner,1,5.0,60,2,35,0,0,5,8,37.2,0,Failed
+87,50,India,No prior experience,1,2.3,66,0,35,0,1,5,2,7.0,0,Failed
+88,48,Nigeria,Intermediate,1,3.8,42,4,34,1,1,7,8,64.8,1,Passed
+89,20,Pakistan,Intermediate,8,10.0,59,3,47,0,0,7,1,46.2,0,Failed
+90,54,Pakistan,Advanced,12,7.8,54,2,31,0,0,4,9,75.3,1,Passed
+91,43,Nigeria,Beginner,13,6.6,58,0,41,0,0,6,1,31.7,0,Failed
+92,22,Indonesia,Intermediate,14,5.5,50,1,41,0,0,4,8,32.1,0,Failed
+93,24,India,Intermediate,12,8.5,61,6,40,0,0,8,3,44.2,0,Failed
+94,23,UK,Beginner,14,4.5,68,1,50,0,0,4,4,15.6,0,Failed
+95,27,USA,No prior experience,10,7.9,61,3,43,1,1,2,10,45.2,0,Failed
+96,49,Bangladesh,Advanced,7,4.8,73,2,35,0,0,5,7,78.6,1,Passed
+97,48,Pakistan,Beginner,3,4.3,58,4,47,0,1,6,10,61.9,1,Passed
+98,38,Germany,Beginner,13,5.1,59,0,49,0,1,4,3,36.2,0,Failed
+99,39,Indonesia,No prior experience,2,5.9,57,2,38,1,0,5,9,40.0,0,Failed
+100,52,Bangladesh,No prior experience,4,6.9,69,3,38,0,1,7,3,36.5,0,Failed
+101,50,UK,Intermediate,3,7.7,59,1,40,1,0,8,8,41.6,0,Failed
+102,37,Brazil,Beginner,7,0.0,53,0,40,1,1,4,8,34.5,0,Failed
+103,42,USA,No prior experience,10,4.6,62,1,45,0,0,5,3,10.5,0,Failed
+104,50,Pakistan,No prior experience,15,5.8,70,4,47,0,0,6,3,24.7,0,Failed
+105,16,USA,Beginner,15,11.5,56,2,52,1,1,2,10,58.9,0,Failed
+106,50,Bangladesh,Beginner,8,3.8,68,1,29,1,0,3,5,39.0,0,Failed
+107,52,USA,No prior experience,6,7.5,68,1,42,1,0,6,8,34.9,0,Failed
+108,29,Brazil,Intermediate,3,11.5,52,2,33,1,0,3,6,62.9,1,Passed
+109,18,Bangladesh,No prior experience,6,3.1,47,1,41,0,0,5,5,10.4,0,Failed
+110,16,Pakistan,Beginner,15,8.2,45,3,48,1,1,8,5,62.2,1,Passed
+111,20,India,Beginner,2,4.6,62,4,46,0,0,2,6,31.2,0,Failed
+112,41,Germany,No prior experience,15,5.5,58,2,37,0,0,3,8,26.3,0,Failed
+113,29,Bangladesh,Intermediate,12,4.6,53,2,43,1,0,3,6,53.6,0,Failed
+114,54,Other,Intermediate,7,4.8,50,4,30,0,0,7,7,58.6,0,Failed
+115,42,Brazil,Intermediate,14,15.2,75,1,43,0,1,7,9,91.4,1,Passed
+116,24,Bangladesh,No prior experience,11,9.5,61,1,43,0,0,7,7,34.8,0,Failed
+117,30,Bangladesh,No prior experience,10,10.3,56,2,44,0,1,3,9,37.6,0,Failed
+118,30,Other,No prior experience,14,8.5,51,1,38,1,1,2,10,28.9,0,Failed
+119,41,Pakistan,Beginner,7,2.2,53,1,47,0,0,4,1,4.9,0,Failed
+120,28,Bangladesh,Intermediate,4,8.2,55,3,52,1,1,5,3,55.2,0,Failed
+121,47,Germany,Intermediate,13,10.2,76,5,51,0,1,7,6,72.8,1,Passed
+122,54,USA,Intermediate,8,4.4,53,3,45,0,0,5,3,45.1,0,Failed
+123,47,Pakistan,Advanced,4,9.9,73,1,35,0,0,4,2,46.0,0,Failed
+124,19,Germany,Intermediate,7,9.1,59,2,53,0,0,9,5,61.2,1,Passed
+125,45,Pakistan,No prior experience,4,12.6,61,6,43,0,0,6,1,46.7,0,Failed
+126,52,Germany,No prior experience,13,5.7,52,1,48,1,0,12,5,35.7,0,Failed
+127,38,Brazil,Beginner,12,3.7,59,2,41,0,1,3,8,44.0,0,Failed
+128,54,Germany,No prior experience,5,5.9,57,4,45,0,1,4,9,50.2,0,Failed
+129,30,Nigeria,No prior experience,7,11.3,53,3,31,0,1,6,10,48.8,0,Failed
+130,44,Germany,Beginner,13,1.5,61,2,38,0,1,6,6,41.2,0,Failed
+131,51,India,Intermediate,14,0.8,56,0,37,0,1,4,4,29.2,0,Failed
+132,28,India,No prior experience,14,7.3,60,5,41,1,1,2,3,32.8,0,Failed
+133,47,Indonesia,Intermediate,13,5.7,49,0,31,0,1,5,8,40.0,0,Failed
+134,22,Nigeria,Intermediate,10,7.0,60,1,26,0,0,8,2,47.8,0,Failed
+135,37,Nigeria,Beginner,3,9.8,69,2,42,0,0,6,8,59.2,0,Failed
+136,43,USA,No prior experience,10,5.3,59,2,44,0,0,2,7,26.5,0,Failed
+137,17,Nigeria,No prior experience,5,1.4,60,4,50,0,0,4,2,19.3,0,Failed
+138,21,USA,Intermediate,11,13.1,52,3,45,1,0,4,2,66.5,1,Passed
+139,43,Indonesia,Intermediate,14,4.0,50,2,50,1,0,4,2,34.3,0,Failed
+140,43,Indonesia,Intermediate,3,3.8,64,2,43,0,0,2,1,39.1,0,Failed
+141,35,Brazil,Beginner,5,10.3,66,1,45,1,1,5,7,51.6,0,Failed
+142,45,India,No prior experience,14,5.8,63,1,37,0,1,8,8,28.4,0,Failed
+143,26,Germany,No prior experience,3,6.8,60,1,47,1,1,4,7,15.1,0,Failed
+144,43,Germany,Intermediate,11,8.4,63,6,54,1,0,7,4,80.2,1,Passed
+145,40,Other,No prior experience,10,10.3,63,0,38,0,1,2,9,21.8,0,Failed
+146,54,Other,No prior experience,11,6.0,65,3,48,0,1,3,2,16.2,0,Failed
+147,48,UK,Beginner,7,11.6,60,4,37,0,1,3,5,62.6,1,Passed
+148,16,Pakistan,No prior experience,13,0.6,59,3,33,0,1,5,2,0.1,0,Failed
+149,42,Brazil,No prior experience,1,9.3,57,3,38,0,0,4,3,36.8,0,Failed
+150,28,UK,Beginner,9,4.5,52,0,49,1,0,6,2,18.0,0,Failed
+151,18,UK,No prior experience,9,11.1,67,0,36,0,1,6,8,40.9,0,Failed
+152,54,Bangladesh,No prior experience,5,7.4,62,2,40,0,0,4,10,25.1,0,Failed
+153,21,Bangladesh,Intermediate,9,5.0,59,2,44,1,0,3,6,47.0,0,Failed
+154,23,UK,Intermediate,10,9.0,59,0,35,1,0,2,5,53.8,0,Failed
+155,42,Nigeria,No prior experience,13,9.7,71,1,38,0,0,5,5,29.1,0,Failed
+156,24,Pakistan,Intermediate,15,8.9,51,0,34,1,1,5,9,48.7,0,Failed
+157,52,Brazil,Beginner,6,3.9,47,6,48,1,0,3,2,48.4,0,Failed
+158,48,UK,Beginner,15,5.5,57,2,43,0,0,2,1,7.9,0,Failed
+159,39,Germany,Intermediate,5,7.0,59,5,40,0,1,3,6,76.0,1,Passed
+160,30,Pakistan,Intermediate,13,6.9,69,4,29,1,0,4,8,59.9,0,Failed
+161,47,Bangladesh,Intermediate,3,9.2,67,1,40,1,1,8,8,78.7,1,Passed
+162,47,Germany,No prior experience,11,1.0,55,4,30,0,0,5,6,27.4,0,Failed
+163,39,Bangladesh,No prior experience,11,8.0,60,4,37,0,1,7,3,34.7,0,Failed
+164,27,Bangladesh,Intermediate,8,6.1,66,2,31,1,0,2,3,51.7,0,Failed
+165,54,Pakistan,Beginner,4,4.5,63,1,35,1,1,7,2,18.3,0,Failed
+166,17,Bangladesh,No prior experience,10,4.8,77,2,37,1,0,4,2,17.2,0,Failed
+167,18,Indonesia,Intermediate,13,6.4,53,2,44,1,1,3,2,43.8,0,Failed
+168,52,India,Intermediate,15,0.0,77,2,37,1,0,5,7,50.8,0,Failed
+169,32,Indonesia,Intermediate,13,4.9,66,4,34,1,0,4,10,67.4,1,Passed
+170,17,India,No prior experience,3,4.4,59,0,35,1,1,7,9,22.6,0,Failed
+171,17,Other,Intermediate,13,8.6,61,1,44,1,0,7,10,61.0,1,Passed
+172,43,Other,No prior experience,6,4.6,58,1,39,0,1,6,7,21.4,0,Failed
+173,38,Bangladesh,No prior experience,8,6.4,67,2,46,1,1,6,8,38.6,0,Failed
+174,52,Brazil,Beginner,13,11.6,52,3,37,0,0,3,5,56.5,0,Failed
+175,47,Brazil,No prior experience,15,10.0,61,0,32,0,0,9,2,24.7,0,Failed
+176,48,India,No prior experience,9,9.7,56,1,33,0,1,4,8,36.3,0,Failed
+177,16,Germany,Beginner,14,5.5,59,1,46,0,0,7,5,47.4,0,Failed
+178,34,Pakistan,No prior experience,6,8.6,53,0,50,0,0,6,9,32.1,0,Failed
+179,17,Bangladesh,No prior experience,5,6.3,52,1,39,1,1,1,6,23.3,0,Failed
+180,41,Pakistan,No prior experience,12,6.4,56,2,30,1,0,0,7,31.7,0,Failed
+181,47,Indonesia,Beginner,11,8.2,65,1,35,1,1,5,1,36.8,0,Failed
+182,21,Brazil,Beginner,2,5.2,72,2,42,1,0,7,8,50.0,0,Failed
+183,47,Nigeria,Intermediate,2,11.5,55,3,41,0,1,6,7,81.4,1,Passed
+184,19,Indonesia,Intermediate,9,6.5,64,3,46,0,0,5,7,61.9,1,Passed
+185,26,Indonesia,Beginner,2,8.9,48,2,47,0,0,1,7,48.4,0,Failed
+186,32,India,Intermediate,2,11.4,65,2,33,0,1,5,7,77.6,1,Passed
+187,53,USA,No prior experience,3,10.1,46,0,35,1,0,8,1,32.8,0,Failed
+188,39,Indonesia,No prior experience,3,2.8,54,1,36,0,0,9,9,6.8,0,Failed
+189,20,Bangladesh,Intermediate,4,8.3,52,1,43,0,1,3,7,39.5,0,Failed
+190,49,UK,Beginner,7,9.6,56,2,43,0,1,3,7,40.6,0,Failed
+191,21,UK,Advanced,9,9.7,52,6,45,0,0,3,1,60.9,1,Passed
+192,37,Bangladesh,Beginner,2,3.7,67,1,41,0,0,3,6,59.6,0,Failed
+193,26,USA,Intermediate,4,5.0,47,1,40,1,1,7,10,63.9,1,Passed
+194,31,USA,Beginner,9,10.0,66,3,45,0,0,5,8,54.4,0,Failed
+195,48,India,Beginner,14,4.7,61,4,36,0,1,5,5,47.4,0,Failed
+196,24,Brazil,Beginner,2,6.1,66,1,39,0,0,3,1,21.6,0,Failed
+197,21,Pakistan,Intermediate,10,11.7,58,2,38,1,1,7,5,57.9,0,Failed
+198,31,USA,Beginner,11,6.9,67,2,51,0,0,7,2,22.3,0,Failed
+199,44,Nigeria,Advanced,13,4.8,57,1,50,0,0,2,2,31.8,0,Failed
+200,18,India,No prior experience,1,4.4,54,1,33,0,0,6,4,19.7,0,Failed
+201,35,Other,No prior experience,10,8.0,65,0,47,1,0,5,4,19.1,0,Failed
+202,51,Germany,Beginner,8,3.0,66,1,47,1,0,2,10,32.3,0,Failed
+203,34,Other,Beginner,9,6.3,54,2,50,0,0,5,7,56.9,0,Failed
+204,41,India,Intermediate,7,8.0,63,3,32,1,1,1,9,70.5,1,Passed
+205,18,Indonesia,No prior experience,8,10.9,70,2,52,0,0,4,2,43.2,0,Failed
+206,34,Pakistan,Beginner,4,9.0,72,5,28,0,1,7,8,62.9,1,Passed
+207,35,Germany,Beginner,4,4.9,71,1,37,0,0,5,8,48.8,0,Failed
+208,47,Other,Beginner,13,10.5,67,1,45,0,1,5,8,58.3,0,Failed
+209,22,Germany,Intermediate,2,6.1,58,1,34,1,1,2,9,43.1,0,Failed
+210,48,Nigeria,No prior experience,8,3.3,55,3,27,1,1,5,9,31.9,0,Failed
+211,54,Nigeria,Beginner,15,6.5,68,2,42,0,0,6,10,35.8,0,Failed
+212,33,Nigeria,Advanced,11,11.3,56,0,36,0,1,3,7,63.1,1,Passed
+213,16,India,Intermediate,2,7.5,62,2,30,0,0,6,5,47.1,0,Failed
+214,26,Pakistan,Beginner,9,7.0,54,2,39,0,0,4,7,45.0,0,Failed
+215,43,India,Beginner,14,11.9,63,1,37,1,1,5,7,52.9,0,Failed
+216,40,UK,No prior experience,4,2.7,52,0,31,1,0,4,10,26.4,0,Failed
+217,38,Indonesia,Beginner,1,3.1,62,1,35,1,0,9,10,40.4,0,Failed
+218,46,Indonesia,Intermediate,13,2.2,60,3,34,0,0,11,7,54.5,0,Failed
+219,45,Nigeria,Beginner,4,8.1,58,1,48,1,0,5,8,50.4,0,Failed
+220,50,UK,No prior experience,3,7.5,58,5,32,0,0,4,2,30.4,0,Failed
+221,22,USA,No prior experience,12,11.6,59,2,42,1,1,5,4,49.6,0,Failed
+222,31,USA,No prior experience,6,7.7,50,3,39,0,0,4,9,42.6,0,Failed
+223,41,Nigeria,No prior experience,7,5.8,55,2,39,0,1,6,4,26.7,0,Failed
+224,17,Other,No prior experience,8,7.0,58,0,33,0,1,4,2,9.1,0,Failed
+225,16,India,Beginner,2,7.4,65,1,45,0,1,5,7,35.7,0,Failed
+226,27,Nigeria,No prior experience,6,2.0,61,1,38,1,1,5,6,18.7,0,Failed
+227,20,Brazil,No prior experience,15,15.1,50,3,43,1,1,3,4,46.5,0,Failed
+228,52,Germany,Beginner,6,8.6,55,4,57,1,0,2,8,52.2,0,Failed
+229,47,Indonesia,No prior experience,10,7.6,46,2,42,0,0,7,6,25.0,0,Failed
+230,24,USA,No prior experience,12,8.8,60,3,47,0,1,6,8,33.8,0,Failed
+231,50,Bangladesh,No prior experience,5,9.1,55,0,44,1,1,4,4,37.2,0,Failed
+232,34,USA,No prior experience,10,6.6,55,0,39,1,1,4,2,22.9,0,Failed
+233,31,Indonesia,Beginner,10,5.1,65,1,54,0,0,4,6,26.4,0,Failed
+234,18,Germany,No prior experience,7,8.8,67,2,38,1,0,3,9,42.5,0,Failed
+235,35,Indonesia,Intermediate,3,8.2,63,2,43,1,0,5,9,49.5,0,Failed
+236,39,Bangladesh,Advanced,4,4.6,67,2,54,1,1,5,9,69.7,1,Passed
+237,48,Nigeria,Intermediate,10,11.3,63,2,39,0,1,0,3,55.5,0,Failed
+238,39,UK,Beginner,13,7.9,58,0,45,1,1,6,3,30.3,0,Failed
+239,26,Bangladesh,Intermediate,9,9.2,60,2,34,0,1,5,10,59.9,0,Failed
+240,23,Indonesia,Beginner,4,11.2,60,1,36,1,0,9,3,49.1,0,Failed
+241,51,Indonesia,No prior experience,3,7.1,64,0,42,0,1,4,5,17.4,0,Failed
+242,53,Brazil,Beginner,14,8.0,54,1,60,1,0,8,5,49.0,0,Failed
+243,35,Brazil,Intermediate,2,9.4,64,1,24,1,1,7,5,69.3,1,Passed
+244,50,Pakistan,No prior experience,5,4.8,53,0,39,0,0,4,8,18.6,0,Failed
+245,40,Brazil,No prior experience,4,7.2,66,2,40,1,0,6,10,51.7,0,Failed
+246,50,India,Intermediate,13,7.4,55,2,37,0,0,9,8,53.1,0,Failed
+247,40,UK,Intermediate,13,4.1,61,2,33,0,1,7,8,54.0,0,Failed
+248,44,Germany,No prior experience,8,14.0,62,2,41,0,1,1,9,57.1,0,Failed
+249,33,Bangladesh,Beginner,7,2.8,81,0,47,0,0,7,10,38.4,0,Failed
+250,33,Indonesia,No prior experience,6,3.1,54,3,41,1,1,9,6,32.8,0,Failed
+251,17,Pakistan,Intermediate,11,10.9,63,0,41,0,1,4,2,41.1,0,Failed
+252,50,Pakistan,No prior experience,12,9.1,60,2,44,1,1,5,9,56.7,0,Failed
+253,31,Germany,No prior experience,2,3.9,73,0,47,0,0,2,6,9.6,0,Failed
+254,51,UK,Intermediate,3,8.8,69,4,32,1,0,5,1,63.6,1,Passed
+255,48,Bangladesh,Beginner,10,11.4,69,0,31,0,0,2,5,35.5,0,Failed
+256,19,USA,Beginner,9,6.9,62,5,37,0,0,0,7,43.5,0,Failed
+257,48,Brazil,Beginner,13,14.8,59,4,39,1,1,4,1,66.2,1,Passed
+258,29,Nigeria,No prior experience,9,1.8,68,0,41,0,0,5,7,26.9,0,Failed
+259,36,Pakistan,Beginner,15,9.1,74,0,38,1,0,5,5,37.2,0,Failed
+260,35,Brazil,No prior experience,5,10.5,52,2,45,0,0,5,5,24.0,0,Failed
+261,23,Brazil,Beginner,14,9.7,54,3,40,0,0,5,2,39.3,0,Failed
+262,22,India,No prior experience,3,6.4,61,1,45,1,1,6,4,23.1,0,Failed
+263,18,UK,Beginner,2,6.1,40,1,50,1,1,8,9,47.2,0,Failed
+264,32,Nigeria,Advanced,8,8.3,69,2,45,0,0,6,2,48.1,0,Failed
+265,48,USA,Advanced,15,9.4,57,4,35,1,1,2,9,92.8,1,Passed
+266,27,Indonesia,Beginner,6,8.8,63,1,51,0,0,5,8,58.6,0,Failed
+267,37,India,No prior experience,10,10.1,64,1,44,0,1,1,4,31.2,0,Failed
+268,37,Brazil,Beginner,11,3.9,58,0,48,0,0,3,2,10.8,0,Failed
+269,45,Brazil,Intermediate,12,6.3,51,1,36,1,0,10,6,60.1,1,Passed
+270,53,Other,No prior experience,7,4.2,48,0,31,0,1,3,7,8.2,0,Failed
+271,53,Nigeria,Advanced,1,5.8,54,1,45,0,1,6,2,53.2,0,Failed
+272,23,Nigeria,No prior experience,1,10.0,46,2,40,1,0,3,8,35.2,0,Failed
+273,42,Other,Advanced,10,7.3,61,3,25,0,1,3,9,63.3,1,Passed
+274,42,Nigeria,Intermediate,2,14.8,47,1,43,0,1,6,5,79.5,1,Passed
+275,49,Brazil,Intermediate,10,7.6,63,4,41,0,0,5,6,54.0,0,Failed
+276,36,Pakistan,No prior experience,15,7.2,55,3,34,0,0,5,6,31.1,0,Failed
+277,45,Bangladesh,No prior experience,3,7.3,75,2,30,0,0,3,10,38.7,0,Failed
+278,48,Brazil,Beginner,12,5.1,67,1,37,0,1,4,2,31.0,0,Failed
+279,43,India,No prior experience,1,6.8,66,3,45,0,1,4,1,29.4,0,Failed
+280,48,UK,No prior experience,14,10.4,53,3,45,0,1,7,5,40.3,0,Failed
+281,20,Other,Beginner,5,7.3,67,2,47,1,1,3,6,52.6,0,Failed
+282,34,USA,Beginner,15,4.6,62,1,31,1,1,2,1,19.1,0,Failed
+283,19,Indonesia,Beginner,15,4.2,49,2,53,1,0,4,8,31.0,0,Failed
+284,50,USA,Beginner,3,5.6,54,2,51,0,0,4,5,45.6,0,Failed
+285,32,Brazil,No prior experience,1,7.2,80,4,51,0,0,4,5,45.6,0,Failed
+286,43,India,Advanced,8,10.6,49,1,37,1,1,2,8,68.6,1,Passed
+287,45,Brazil,No prior experience,12,3.0,46,0,44,1,1,6,8,27.5,0,Failed
+288,44,UK,Beginner,11,6.0,52,7,45,0,0,7,9,70.6,1,Passed
+289,21,Pakistan,Beginner,6,7.4,70,1,40,0,0,7,4,45.8,0,Failed
+290,50,Indonesia,Intermediate,9,1.5,73,2,36,1,1,4,3,56.4,0,Failed
+291,52,UK,No prior experience,3,4.5,58,1,47,0,0,4,10,26.2,0,Failed
+292,39,Other,Beginner,9,5.0,46,7,46,0,1,4,2,47.8,0,Failed
+293,44,Other,Beginner,9,4.6,63,1,40,0,0,5,1,22.2,0,Failed
+294,46,Brazil,No prior experience,15,7.6,57,4,34,1,1,7,10,32.9,0,Failed
+295,50,India,Beginner,12,6.5,54,0,55,1,1,6,5,28.6,0,Failed
+296,48,UK,Advanced,15,5.3,54,1,41,1,0,3,6,61.7,1,Passed
+297,36,Germany,Advanced,13,8.3,76,3,47,1,1,8,8,79.9,1,Passed
+298,47,India,No prior experience,12,12.2,82,5,40,0,0,4,6,54.3,0,Failed
+299,38,Pakistan,No prior experience,1,11.9,68,3,38,1,0,4,2,46.1,0,Failed
+300,48,Other,No prior experience,3,1.2,56,1,34,0,0,1,8,11.7,0,Failed
+301,18,Brazil,Beginner,6,8.7,62,1,41,0,1,3,5,43.1,0,Failed
+302,33,Nigeria,No prior experience,8,6.5,64,3,30,1,0,5,3,40.1,0,Failed
+303,40,Other,No prior experience,4,7.5,45,1,33,0,0,6,6,26.9,0,Failed
+304,46,Indonesia,Advanced,5,5.8,58,3,42,0,1,7,6,51.9,0,Failed
+305,18,Bangladesh,Advanced,9,7.4,71,2,27,1,0,5,3,76.8,1,Passed
+306,39,Nigeria,No prior experience,6,7.5,62,0,45,1,0,8,7,26.2,0,Failed
+307,47,Brazil,No prior experience,12,5.3,55,0,37,0,0,3,7,19.9,0,Failed
+308,37,Germany,Beginner,7,4.3,60,2,42,0,1,5,7,42.4,0,Failed
+309,38,Nigeria,No prior experience,7,5.7,63,3,43,0,1,2,8,27.9,0,Failed
+310,17,Indonesia,Beginner,4,7.7,52,1,40,1,0,5,7,45.4,0,Failed
+311,42,India,Beginner,4,8.8,46,2,49,0,1,2,4,35.2,0,Failed
+312,17,Germany,Intermediate,4,9.6,73,1,50,1,0,6,5,58.7,0,Failed
+313,41,Other,Intermediate,14,5.5,63,1,50,0,1,7,4,54.3,0,Failed
+314,32,Germany,Beginner,15,7.9,64,1,48,0,0,3,2,28.0,0,Failed
+315,48,UK,Beginner,11,9.9,53,3,43,0,0,4,7,36.5,0,Failed
+316,24,Indonesia,No prior experience,5,10.5,60,1,33,0,1,5,3,21.0,0,Failed
+317,54,Nigeria,Beginner,5,6.8,58,4,47,1,0,6,1,56.0,0,Failed
+318,44,UK,Beginner,8,6.3,60,3,38,1,0,6,1,47.7,0,Failed
+319,41,Germany,No prior experience,9,7.6,81,4,40,0,1,5,9,55.3,0,Failed
+320,50,UK,No prior experience,2,3.6,67,2,30,0,1,4,3,21.4,0,Failed
+321,40,USA,No prior experience,11,6.4,61,1,35,1,0,7,7,44.5,0,Failed
+322,39,Indonesia,Advanced,7,9.2,56,1,45,0,1,6,9,81.6,1,Passed
+323,28,Pakistan,No prior experience,1,8.9,50,2,45,1,1,4,7,30.0,0,Failed
+324,22,India,No prior experience,1,6.2,62,2,40,0,0,5,8,34.3,0,Failed
+325,51,Germany,Beginner,4,7.7,56,2,48,0,1,7,6,52.3,0,Failed
+326,35,Indonesia,Beginner,10,4.5,52,4,48,0,1,3,3,34.3,0,Failed
+327,16,Pakistan,No prior experience,7,9.1,85,1,44,0,1,4,1,32.3,0,Failed
+328,23,Pakistan,Advanced,2,6.8,52,2,47,0,0,3,10,60.9,1,Passed
+329,31,Brazil,Intermediate,11,6.2,66,1,41,1,0,6,8,56.1,0,Failed
+330,29,UK,Beginner,2,5.9,79,1,43,0,0,8,6,42.3,0,Failed
+331,27,Pakistan,Beginner,1,6.8,58,3,55,0,0,2,2,48.7,0,Failed
+332,38,USA,No prior experience,10,5.7,64,1,49,0,0,8,10,40.4,0,Failed
+333,30,Indonesia,No prior experience,2,9.0,64,4,32,1,0,1,8,37.4,0,Failed
+334,43,Bangladesh,Intermediate,13,5.8,65,2,40,1,0,7,4,69.9,1,Passed
+335,49,Bangladesh,No prior experience,15,11.8,55,0,43,1,0,9,10,46.7,0,Failed
+336,17,Germany,No prior experience,7,11.4,67,5,48,0,0,8,9,49.1,0,Failed
+337,47,Other,Beginner,9,4.3,61,3,41,1,0,3,9,40.3,0,Failed
+338,38,UK,No prior experience,6,7.2,68,2,39,1,0,3,9,27.1,0,Failed
+339,37,Other,Advanced,10,5.0,68,0,32,0,1,5,4,47.2,0,Failed
+340,40,Pakistan,No prior experience,2,6.0,52,0,43,0,0,8,6,31.9,0,Failed
+341,37,Indonesia,Intermediate,12,13.0,55,4,36,1,1,6,4,75.0,1,Passed
+342,37,Germany,Beginner,15,6.1,57,1,35,0,1,5,10,46.2,0,Failed
+343,21,Nigeria,Intermediate,10,8.1,64,1,48,0,1,14,10,84.9,1,Passed
+344,30,Pakistan,No prior experience,15,8.6,63,1,35,0,1,5,5,21.0,0,Failed
+345,52,UK,Beginner,10,4.0,64,4,31,0,0,2,7,47.1,0,Failed
+346,48,Bangladesh,Intermediate,13,4.4,64,1,37,0,0,8,7,57.4,0,Failed
+347,23,Brazil,Beginner,9,3.4,64,6,35,1,0,4,10,54.2,0,Failed
+348,20,Indonesia,Beginner,7,4.3,58,3,36,1,0,4,6,48.8,0,Failed
+349,54,India,Beginner,11,0.0,65,0,47,0,0,4,10,29.5,0,Failed
+350,19,Other,Intermediate,1,8.6,56,1,36,0,1,6,4,39.9,0,Failed
+351,21,Germany,Beginner,12,13.2,64,3,40,1,0,3,5,68.0,1,Passed
+352,47,Other,Advanced,9,7.4,56,2,38,1,1,6,5,69.8,1,Passed
+353,45,Indonesia,No prior experience,2,2.8,61,2,38,0,1,3,9,26.1,0,Failed
+354,50,Other,Beginner,4,5.1,60,2,38,1,1,6,6,46.8,0,Failed
+355,31,Indonesia,Intermediate,9,5.6,64,1,47,1,0,3,4,59.5,0,Failed
+356,28,Other,Beginner,4,3.9,50,1,34,0,1,6,6,31.2,0,Failed
+357,45,USA,Intermediate,3,9.6,63,2,46,0,0,4,7,55.4,0,Failed
+358,34,Nigeria,Advanced,1,9.4,58,1,38,0,0,7,7,56.5,0,Failed
+359,32,Pakistan,Beginner,7,3.5,66,2,42,1,1,5,10,42.6,0,Failed
+360,34,Pakistan,No prior experience,15,9.2,71,2,28,0,0,10,3,26.0,0,Failed
+361,43,UK,No prior experience,6,11.6,70,2,35,0,0,7,6,36.5,0,Failed
+362,41,India,Intermediate,10,12.7,49,2,39,0,1,2,7,62.9,1,Passed
+363,52,India,Intermediate,4,15.6,65,3,43,1,0,5,1,78.5,1,Passed
+364,41,UK,No prior experience,6,4.3,60,1,33,0,1,6,4,9.5,0,Failed
+365,38,Brazil,No prior experience,6,15.5,55,6,37,1,1,4,7,60.4,1,Passed
+366,24,Pakistan,No prior experience,13,5.9,51,2,35,1,0,5,10,31.2,0,Failed
+367,27,Brazil,Intermediate,4,5.2,67,1,43,1,1,6,1,45.2,0,Failed
+368,16,Indonesia,No prior experience,14,8.0,64,0,29,1,1,8,8,38.7,0,Failed
+369,16,Indonesia,Beginner,13,5.3,56,2,39,0,0,7,6,40.9,0,Failed
+370,49,Bangladesh,Beginner,6,8.2,46,1,39,1,0,4,6,42.5,0,Failed
+371,47,Other,Intermediate,10,3.0,48,1,41,1,1,6,3,39.6,0,Failed
+372,40,India,Beginner,11,6.3,70,1,40,1,1,4,6,32.7,0,Failed
+373,16,Bangladesh,Beginner,8,10.9,61,1,37,1,1,5,4,35.4,0,Failed
+374,31,Nigeria,No prior experience,13,6.8,59,2,40,1,0,10,9,21.8,0,Failed
+375,54,UK,Beginner,3,7.4,55,0,34,0,0,3,4,18.3,0,Failed
+376,20,UK,Intermediate,4,8.4,58,1,46,0,1,3,6,50.8,0,Failed
+377,37,Indonesia,Advanced,10,10.5,60,3,38,0,0,6,6,78.0,1,Passed
+378,44,Pakistan,No prior experience,13,2.0,48,1,47,0,1,4,1,0.0,0,Failed
+379,18,Brazil,No prior experience,12,8.8,51,2,44,1,1,6,4,25.7,0,Failed
+380,27,India,No prior experience,14,6.2,65,1,38,0,0,6,9,25.0,0,Failed
+381,41,Bangladesh,Beginner,15,7.5,59,0,34,0,1,8,10,40.7,0,Failed
+382,31,Brazil,Intermediate,1,10.2,66,3,45,1,0,7,6,67.0,1,Passed
+383,52,Bangladesh,No prior experience,4,3.4,68,1,47,1,1,3,4,8.3,0,Failed
+384,37,Other,Beginner,11,4.0,59,7,48,1,0,5,7,60.4,1,Passed
+385,44,Nigeria,No prior experience,10,1.2,74,3,39,1,0,3,10,24.9,0,Failed
+386,29,Nigeria,No prior experience,10,5.4,55,0,34,0,1,7,7,29.6,0,Failed
+387,43,Brazil,Beginner,12,11.0,57,3,39,1,1,3,5,64.9,1,Passed
+388,20,Brazil,No prior experience,14,6.6,47,3,31,0,0,4,4,16.0,0,Failed
+389,45,Brazil,Beginner,9,3.0,54,3,37,1,0,6,4,30.4,0,Failed
+390,20,Bangladesh,Intermediate,8,5.5,59,0,34,0,0,6,7,57.6,0,Failed
+391,27,Other,Beginner,11,2.5,60,0,43,1,0,8,6,18.3,0,Failed
+392,31,USA,No prior experience,4,3.6,60,1,41,1,1,7,4,20.4,0,Failed
+393,41,Brazil,Advanced,12,8.2,48,2,42,0,0,4,3,69.0,1,Passed
+394,41,Pakistan,Beginner,7,3.5,53,1,47,1,1,4,2,19.7,0,Failed
+395,36,India,Intermediate,10,10.3,75,7,42,1,1,4,4,74.4,1,Passed
+396,54,India,No prior experience,3,6.8,60,1,52,1,1,6,7,28.0,0,Failed
+397,51,Bangladesh,No prior experience,9,7.3,69,0,48,0,1,7,2,18.5,0,Failed
+398,48,Brazil,No prior experience,10,6.2,66,2,34,0,0,8,9,36.1,0,Failed
+399,45,Indonesia,No prior experience,4,9.3,48,3,42,0,0,3,9,38.8,0,Failed
+400,52,UK,Beginner,2,9.3,59,3,36,0,1,4,6,55.3,0,Failed
+401,38,USA,Advanced,10,8.0,51,2,26,0,1,1,9,44.9,0,Failed
+402,25,Pakistan,Beginner,5,8.7,58,2,43,1,0,5,1,40.5,0,Failed
+403,20,Other,No prior experience,2,6.4,59,1,46,0,1,5,6,19.4,0,Failed
+404,51,Indonesia,Beginner,14,8.6,65,1,49,1,1,5,3,54.3,0,Failed
+405,49,Nigeria,No prior experience,10,6.0,77,2,31,0,1,1,6,35.2,0,Failed
+406,46,Indonesia,Beginner,6,7.0,72,1,47,0,1,7,5,52.0,0,Failed
+407,25,Bangladesh,Beginner,11,6.2,60,1,44,0,1,3,5,43.9,0,Failed
+408,34,USA,Intermediate,10,5.6,51,3,31,1,1,6,1,49.7,0,Failed
+409,47,Germany,Advanced,1,4.9,52,2,34,1,0,4,5,52.9,0,Failed
+410,16,Germany,No prior experience,14,8.4,52,2,50,0,1,3,6,29.6,0,Failed
+411,20,Brazil,Beginner,6,10.9,67,1,34,0,0,9,1,49.6,0,Failed
+412,19,Brazil,Advanced,4,10.5,71,2,25,0,0,4,10,76.2,1,Passed
+413,31,Bangladesh,Intermediate,3,3.2,64,3,42,1,1,8,7,60.7,1,Passed
+414,39,Other,Beginner,2,10.9,59,1,43,1,1,6,1,42.9,0,Failed
+415,31,Brazil,Advanced,7,6.0,46,3,29,1,1,2,7,62.9,1,Passed
+416,17,UK,No prior experience,9,8.8,67,3,43,0,0,9,9,56.6,0,Failed
+417,43,USA,Advanced,12,4.3,66,2,39,0,0,4,7,56.3,0,Failed
+418,47,Bangladesh,No prior experience,3,7.4,53,3,37,0,0,6,10,29.6,0,Failed
+419,42,India,Beginner,6,7.9,67,6,52,0,0,8,5,70.5,1,Passed
+420,35,Nigeria,Intermediate,9,2.5,68,3,41,0,1,9,3,49.5,0,Failed
+421,39,Bangladesh,No prior experience,2,8.8,60,1,32,0,0,5,7,24.1,0,Failed
+422,27,Bangladesh,Beginner,7,11.0,51,2,44,0,0,7,6,46.4,0,Failed
+423,50,Germany,No prior experience,5,6.5,47,2,34,0,0,6,8,24.2,0,Failed
+424,48,Pakistan,Advanced,5,11.1,59,2,38,0,1,5,8,71.5,1,Passed
+425,48,Other,Intermediate,11,6.4,50,3,41,0,0,6,10,74.0,1,Passed
+426,52,Pakistan,Intermediate,7,9.5,53,2,37,1,1,6,6,71.2,1,Passed
+427,27,UK,Beginner,9,0.3,53,5,39,1,0,6,7,33.8,0,Failed
+428,18,India,Intermediate,4,14.3,63,2,33,0,0,6,3,60.0,1,Passed
+429,16,Germany,Beginner,9,11.5,67,0,45,1,1,5,4,44.7,0,Failed
+430,48,India,Beginner,15,6.1,50,0,39,1,0,6,7,15.7,0,Failed
+431,25,UK,Intermediate,14,1.1,70,1,44,0,1,3,6,35.6,0,Failed
+432,44,Pakistan,Beginner,13,7.9,51,3,33,0,1,2,3,44.0,0,Failed
+433,28,Bangladesh,No prior experience,11,2.7,63,1,39,1,1,11,10,30.0,0,Failed
+434,27,Brazil,No prior experience,10,8.3,58,1,45,1,1,8,7,45.8,0,Failed
+435,46,Brazil,No prior experience,9,8.2,55,2,45,0,1,8,3,32.4,0,Failed
+436,17,Indonesia,Intermediate,13,4.2,50,1,38,0,1,1,10,57.9,0,Failed
+437,50,Nigeria,Beginner,4,10.4,49,2,45,1,0,7,8,60.1,1,Passed
+438,38,Other,Intermediate,3,9.4,57,3,29,0,0,6,7,62.3,1,Passed
+439,32,UK,Beginner,2,9.9,56,5,42,1,1,3,4,52.4,0,Failed
+440,41,Nigeria,No prior experience,9,7.0,51,3,36,0,1,9,1,16.7,0,Failed
+441,23,Other,No prior experience,12,2.8,52,1,34,1,0,7,6,19.0,0,Failed
+442,44,Nigeria,Intermediate,2,9.9,50,3,40,0,0,5,5,67.0,1,Passed
+443,41,Pakistan,Beginner,6,6.2,54,0,41,0,0,4,9,36.3,0,Failed
+444,25,Other,Advanced,5,2.8,48,5,32,1,1,6,10,79.2,1,Passed
+445,41,Pakistan,Beginner,14,11.1,70,3,29,0,0,6,6,63.2,1,Passed
+446,49,Bangladesh,Beginner,5,13.3,64,1,44,0,1,1,1,40.8,0,Failed
+447,22,Germany,Beginner,4,6.9,46,3,40,1,1,7,3,47.6,0,Failed
+448,19,Pakistan,Advanced,6,13.5,70,0,36,0,1,4,2,70.3,1,Passed
+449,26,Brazil,Intermediate,5,7.3,66,4,42,0,0,4,3,50.2,0,Failed
+450,44,Nigeria,No prior experience,11,5.9,74,2,45,0,1,6,1,26.2,0,Failed
+451,51,Indonesia,Beginner,4,5.1,69,0,35,1,1,2,2,31.4,0,Failed
+452,40,USA,Beginner,13,11.9,55,0,57,1,0,5,8,54.1,0,Failed
+453,36,Other,Intermediate,9,4.7,75,1,34,1,0,2,3,46.1,0,Failed
+454,51,UK,No prior experience,13,9.2,55,1,43,0,1,5,9,41.2,0,Failed
+455,25,Indonesia,Intermediate,6,5.3,68,1,52,0,1,5,4,65.9,1,Passed
+456,52,Brazil,Advanced,11,5.6,68,0,49,0,0,1,2,47.5,0,Failed
+457,24,Pakistan,No prior experience,10,10.1,57,2,47,1,0,7,7,53.5,0,Failed
+458,39,Germany,Intermediate,10,5.9,47,3,41,1,0,3,9,45.1,0,Failed
+459,50,Bangladesh,No prior experience,13,5.8,60,2,45,1,1,4,5,30.1,0,Failed
+460,50,USA,No prior experience,10,10.4,74,1,33,1,1,2,1,16.3,0,Failed
+461,51,India,No prior experience,13,11.8,67,3,38,0,0,5,9,45.6,0,Failed
+462,33,Indonesia,No prior experience,3,8.9,45,1,39,0,0,4,9,41.7,0,Failed
+463,54,Germany,Intermediate,10,5.0,61,5,36,1,1,6,7,75.9,1,Passed
+464,47,India,No prior experience,6,5.5,68,2,56,0,1,2,1,21.7,0,Failed
+465,39,USA,No prior experience,14,7.2,61,2,42,0,1,2,4,35.1,0,Failed
+466,38,UK,No prior experience,1,8.0,62,4,45,1,1,7,1,40.0,0,Failed
+467,47,UK,No prior experience,5,4.0,63,1,44,0,0,2,3,8.7,0,Failed
+468,52,Nigeria,No prior experience,10,9.2,66,0,41,0,1,7,7,18.0,0,Failed
+469,27,USA,Beginner,6,7.3,83,3,30,0,0,2,1,45.6,0,Failed
+470,28,USA,No prior experience,15,1.9,78,1,46,1,1,7,8,21.1,0,Failed
+471,38,India,Intermediate,11,4.2,64,1,38,0,1,7,10,54.8,0,Failed
+472,40,Germany,Intermediate,8,5.5,57,4,52,1,1,6,4,61.0,1,Passed
+473,50,Other,No prior experience,11,6.8,65,2,45,0,1,7,4,27.1,0,Failed
+474,45,India,Intermediate,15,12.7,61,1,46,1,0,7,1,60.9,1,Passed
+475,32,Bangladesh,No prior experience,15,7.7,73,3,32,0,0,4,5,48.9,0,Failed
+476,35,UK,No prior experience,9,4.5,65,1,35,1,0,4,8,26.5,0,Failed
+477,40,UK,No prior experience,11,7.7,64,3,46,0,1,2,8,38.6,0,Failed
+478,37,Nigeria,No prior experience,3,5.9,56,4,41,1,1,3,7,36.9,0,Failed
+479,28,Bangladesh,Beginner,2,8.0,56,4,36,1,1,4,7,57.6,0,Failed
+480,34,UK,Intermediate,13,8.7,71,1,40,0,1,5,8,70.3,1,Passed
+481,51,India,No prior experience,4,10.6,61,4,46,0,0,3,8,20.5,0,Failed
+482,27,Bangladesh,Intermediate,8,6.9,71,0,28,0,0,4,1,35.6,0,Failed
+483,34,India,No prior experience,11,11.9,59,0,47,1,0,2,2,6.1,0,Failed
+484,27,Other,Intermediate,8,9.7,57,0,39,0,1,6,10,55.9,0,Failed
+485,24,Other,No prior experience,3,4.9,52,1,50,0,1,4,8,23.8,0,Failed
+486,22,UK,No prior experience,4,13.6,66,4,34,1,0,3,1,52.9,0,Failed
+487,43,UK,No prior experience,3,8.0,54,1,42,1,1,7,9,42.4,0,Failed
+488,29,Germany,No prior experience,10,4.5,56,2,42,0,0,5,9,38.0,0,Failed
+489,46,Other,Beginner,2,12.0,62,1,49,0,0,9,10,57.2,0,Failed
+490,34,Indonesia,Intermediate,4,13.2,57,5,40,0,1,7,2,68.2,1,Passed
+491,31,Indonesia,No prior experience,6,6.9,54,1,42,0,0,3,6,16.4,0,Failed
+492,20,Nigeria,Intermediate,11,5.5,47,1,48,0,1,4,4,46.8,0,Failed
+493,50,Other,Beginner,14,6.5,46,2,44,1,0,8,10,60.8,1,Passed
+494,27,India,Intermediate,11,9.1,53,2,31,0,0,7,7,61.8,1,Passed
+495,40,India,No prior experience,5,10.8,70,2,41,0,1,5,2,30.8,0,Failed
+496,36,Brazil,Beginner,3,8.7,53,2,49,0,1,3,10,41.6,0,Failed
+497,51,Bangladesh,Advanced,2,7.3,65,1,29,1,1,6,1,55.6,0,Failed
+498,38,Pakistan,Beginner,9,11.5,66,2,43,0,0,2,9,62.5,1,Passed
+499,31,Indonesia,Beginner,15,6.1,56,4,43,1,0,11,9,50.3,0,Failed
+500,54,UK,No prior experience,1,10.1,43,4,34,0,0,4,9,58.3,0,Failed
+501,54,Nigeria,No prior experience,9,6.1,71,4,30,0,0,7,5,35.0,0,Failed
+502,29,Pakistan,Beginner,1,8.3,75,4,30,1,1,7,3,66.2,1,Passed
+503,46,USA,Intermediate,15,6.7,75,1,38,0,0,6,6,45.1,0,Failed
+504,20,Nigeria,No prior experience,14,6.8,48,6,36,1,0,7,10,48.4,0,Failed
+505,50,USA,Beginner,7,5.9,58,4,38,1,1,4,1,54.3,0,Failed
+506,38,Other,Beginner,6,11.0,60,2,44,0,1,2,10,48.8,0,Failed
+507,44,USA,Beginner,7,4.8,79,1,54,1,0,8,8,53.3,0,Failed
+508,26,USA,Beginner,15,4.8,70,1,53,1,0,5,10,40.6,0,Failed
+509,33,Germany,Intermediate,3,13.4,60,2,43,1,0,5,4,59.8,0,Failed
+510,27,Germany,No prior experience,14,9.9,58,4,32,0,0,3,2,32.7,0,Failed
+511,24,Germany,Intermediate,3,0.0,68,2,35,0,0,4,4,31.3,0,Failed
+512,25,Other,No prior experience,13,5.3,44,1,36,0,1,2,1,9.6,0,Failed
+513,32,Pakistan,No prior experience,11,1.6,67,4,35,1,0,7,10,36.0,0,Failed
+514,53,Nigeria,No prior experience,1,4.1,62,1,39,0,0,6,10,20.1,0,Failed
+515,22,Nigeria,No prior experience,4,0.0,70,3,46,0,0,1,8,20.4,0,Failed
+516,28,UK,No prior experience,12,6.6,56,6,56,0,1,4,6,58.7,0,Failed
+517,24,Germany,No prior experience,2,3.6,52,0,52,1,1,6,1,1.5,0,Failed
+518,42,Other,Intermediate,10,7.2,58,3,37,0,1,7,1,44.1,0,Failed
+519,17,UK,No prior experience,8,2.1,60,3,33,0,0,6,2,7.5,0,Failed
+520,20,Bangladesh,Intermediate,3,7.2,61,2,45,1,1,4,7,53.3,0,Failed
+521,44,UK,No prior experience,7,5.8,55,0,53,0,0,4,2,2.6,0,Failed
+522,52,Pakistan,Advanced,7,11.5,66,4,28,0,0,10,3,69.9,1,Passed
+523,53,Indonesia,Intermediate,12,11.2,54,6,45,0,1,5,9,92.8,1,Passed
+524,34,USA,No prior experience,9,9.4,60,3,33,0,1,8,1,34.1,0,Failed
+525,23,Germany,Intermediate,6,6.0,64,3,41,0,1,8,9,66.1,1,Passed
+526,16,Indonesia,Beginner,1,13.0,65,1,42,0,1,3,6,72.5,1,Passed
+527,37,UK,Intermediate,8,2.3,59,1,40,0,0,6,9,49.9,0,Failed
+528,32,Other,Beginner,1,2.8,59,2,35,1,0,7,10,72.2,1,Passed
+529,22,USA,Beginner,3,6.7,67,2,54,0,0,6,8,59.9,0,Failed
+530,40,Nigeria,Intermediate,11,13.8,61,2,41,0,0,5,7,60.6,1,Passed
+531,19,India,Beginner,5,6.4,56,2,39,0,1,6,10,38.9,0,Failed
+532,51,USA,No prior experience,8,6.5,50,2,47,0,1,2,7,22.9,0,Failed
+533,21,Pakistan,Intermediate,9,2.7,60,4,43,1,1,4,6,54.9,0,Failed
+534,46,Pakistan,Beginner,15,9.8,59,2,34,0,1,4,8,62.5,1,Passed
+535,34,UK,Beginner,7,9.9,67,0,44,0,1,2,9,44.4,0,Failed
+536,54,Bangladesh,No prior experience,9,9.4,62,2,46,1,0,3,8,38.6,0,Failed
+537,42,Pakistan,Beginner,11,5.1,68,2,44,1,0,5,9,39.8,0,Failed
+538,25,Pakistan,Advanced,3,4.9,60,3,35,1,1,5,5,71.5,1,Passed
+539,41,Other,No prior experience,13,3.1,58,2,34,1,1,5,3,27.5,0,Failed
+540,34,UK,Beginner,5,7.3,51,3,40,0,0,8,4,49.8,0,Failed
+541,54,USA,Beginner,10,3.8,47,2,29,1,1,3,4,32.0,0,Failed
+542,18,Bangladesh,Intermediate,8,3.5,66,4,47,1,1,3,9,74.2,1,Passed
+543,28,Indonesia,Beginner,12,5.7,67,1,24,0,1,5,9,47.2,0,Failed
+544,43,India,No prior experience,1,5.5,60,1,39,1,0,1,1,18.7,0,Failed
+545,35,Germany,Advanced,8,5.4,57,1,40,0,1,5,5,49.4,0,Failed
+546,43,Nigeria,Beginner,7,8.4,64,1,39,1,0,5,2,36.0,0,Failed
+547,23,Pakistan,No prior experience,1,7.2,61,2,55,0,1,3,5,34.8,0,Failed
+548,54,UK,No prior experience,13,6.1,54,3,45,0,0,4,5,23.5,0,Failed
+549,16,Germany,Beginner,13,7.5,67,7,38,0,0,5,3,77.7,1,Passed
+550,18,Nigeria,No prior experience,10,4.0,71,3,34,0,1,4,4,30.1,0,Failed
+551,28,Nigeria,No prior experience,12,7.3,57,2,33,0,0,8,7,35.8,0,Failed
+552,43,Indonesia,Intermediate,10,7.5,59,2,37,0,1,3,10,70.2,1,Passed
+553,40,Indonesia,No prior experience,15,2.5,56,2,39,1,1,5,4,21.3,0,Failed
+554,48,Indonesia,Intermediate,12,10.0,64,1,32,1,1,7,3,61.2,1,Passed
+555,53,Brazil,No prior experience,6,4.4,71,1,49,0,0,8,10,27.1,0,Failed
+556,21,Brazil,Intermediate,1,7.3,52,3,33,1,0,5,4,52.4,0,Failed
+557,47,Nigeria,Intermediate,2,10.5,62,3,33,0,0,1,2,55.6,0,Failed
+558,36,Indonesia,No prior experience,5,9.8,55,3,42,1,0,4,1,22.3,0,Failed
+559,31,Other,Beginner,2,7.1,65,2,36,0,1,3,5,55.6,0,Failed
+560,36,Pakistan,No prior experience,14,5.9,61,4,33,1,0,4,9,32.1,0,Failed
+561,26,Germany,Intermediate,10,9.8,66,2,40,1,0,4,9,60.1,1,Passed
+562,52,Germany,Intermediate,1,9.0,67,2,33,0,0,1,1,48.0,0,Failed
+563,51,Brazil,Beginner,6,5.1,71,2,39,0,0,3,1,35.2,0,Failed
+564,50,Nigeria,Beginner,8,4.6,68,1,44,1,1,10,8,41.9,0,Failed
+565,34,UK,No prior experience,8,0.8,53,2,33,1,1,2,7,12.9,0,Failed
+566,35,USA,Intermediate,13,7.5,57,0,52,0,1,4,7,47.8,0,Failed
+567,33,USA,Beginner,13,6.8,59,3,42,0,0,5,9,51.6,0,Failed
+568,29,Brazil,No prior experience,8,10.4,64,3,44,1,1,8,5,51.9,0,Failed
+569,30,UK,Beginner,11,8.1,69,3,32,1,1,4,8,52.4,0,Failed
+570,46,Brazil,No prior experience,6,11.0,56,3,44,0,1,2,7,38.7,0,Failed
+571,16,USA,Intermediate,11,4.9,50,1,43,1,1,2,2,41.7,0,Failed
+572,18,UK,No prior experience,3,10.4,50,1,34,0,0,5,2,30.5,0,Failed
+573,31,Indonesia,Beginner,1,5.4,63,2,33,1,0,4,4,45.2,0,Failed
+574,38,Nigeria,No prior experience,2,9.3,60,2,40,1,1,4,1,32.1,0,Failed
+575,26,Germany,No prior experience,5,2.6,49,0,40,0,1,7,10,1.3,0,Failed
+576,27,Other,Beginner,13,7.7,51,0,54,0,0,5,5,25.9,0,Failed
+577,25,Bangladesh,Advanced,10,1.0,52,0,56,1,0,3,5,35.5,0,Failed
+578,47,Nigeria,Intermediate,5,6.2,58,2,47,0,1,2,1,52.0,0,Failed
+579,31,Indonesia,No prior experience,10,8.3,60,1,35,1,1,4,5,20.4,0,Failed
+580,23,USA,No prior experience,14,5.4,65,3,44,1,1,5,4,20.4,0,Failed
+581,53,Indonesia,Intermediate,1,3.8,67,1,45,0,1,4,10,56.6,0,Failed
+582,27,Brazil,Beginner,1,9.5,56,2,50,1,0,3,5,51.5,0,Failed
+583,39,UK,No prior experience,15,6.7,78,3,41,0,0,5,4,27.8,0,Failed
+584,43,Germany,Intermediate,9,5.5,68,1,35,1,1,4,9,53.9,0,Failed
+585,23,Pakistan,Intermediate,2,7.1,68,4,40,1,1,7,9,89.0,1,Passed
+586,43,Brazil,Advanced,7,14.9,52,1,49,1,0,8,3,63.8,1,Passed
+587,51,Nigeria,Advanced,10,10.5,50,2,45,0,0,5,3,55.5,0,Failed
+588,41,Brazil,Intermediate,4,10.5,53,1,40,0,1,3,3,55.5,0,Failed
+589,23,Nigeria,No prior experience,7,8.3,61,4,42,0,0,7,7,44.2,0,Failed
+590,43,Pakistan,No prior experience,8,7.5,73,4,33,0,1,8,1,36.0,0,Failed
+591,43,India,Beginner,5,0.0,61,0,28,0,1,7,4,5.9,0,Failed
+592,52,Germany,Beginner,13,5.0,54,3,43,1,1,6,9,44.2,0,Failed
+593,51,Other,Beginner,12,5.6,58,1,37,0,1,6,8,38.1,0,Failed
+594,42,Other,Beginner,12,1.4,61,2,41,0,0,1,3,38.3,0,Failed
+595,32,Bangladesh,Beginner,1,3.5,61,0,43,0,1,3,8,27.1,0,Failed
+596,24,Indonesia,Beginner,4,1.1,52,2,42,0,0,3,6,14.7,0,Failed
+597,48,India,No prior experience,10,6.9,63,3,40,1,1,4,10,40.7,0,Failed
+598,35,Other,No prior experience,3,9.5,57,0,50,0,1,2,3,14.7,0,Failed
+599,28,Brazil,Beginner,10,10.3,73,4,41,0,0,10,9,75.0,1,Passed
+600,43,Indonesia,Intermediate,15,8.2,62,0,30,0,0,4,10,32.5,0,Failed
+601,44,India,No prior experience,12,4.1,74,6,42,0,0,4,7,38.9,0,Failed
+602,28,UK,Beginner,5,1.2,83,4,43,0,1,7,8,63.9,1,Passed
+603,50,UK,Intermediate,10,1.7,51,7,38,1,0,3,10,74.2,1,Passed
+604,21,Indonesia,Beginner,13,3.2,61,0,43,1,1,4,2,24.6,0,Failed
+605,33,Nigeria,No prior experience,10,4.3,70,2,46,0,1,5,3,18.7,0,Failed
+606,20,Nigeria,Beginner,13,6.5,71,0,47,0,1,7,7,47.5,0,Failed
+607,40,Brazil,No prior experience,6,4.0,68,1,42,1,1,6,2,24.3,0,Failed
+608,17,India,Advanced,2,8.0,49,2,50,0,0,4,6,54.2,0,Failed
+609,25,India,No prior experience,7,6.3,59,2,34,0,1,4,7,37.8,0,Failed
+610,45,Indonesia,Beginner,13,7.0,54,2,32,0,0,6,6,58.5,0,Failed
+611,20,USA,No prior experience,3,10.4,61,1,42,1,0,2,5,27.7,0,Failed
+612,48,UK,Beginner,15,3.5,59,4,41,1,0,3,9,41.8,0,Failed
+613,16,India,Beginner,1,8.3,60,2,44,0,1,6,3,49.9,0,Failed
+614,33,Indonesia,No prior experience,10,7.0,65,3,42,0,0,2,5,37.9,0,Failed
+615,47,Pakistan,Beginner,3,6.0,62,2,40,1,1,4,5,41.4,0,Failed
+616,26,Bangladesh,No prior experience,9,9.7,74,3,45,1,0,4,8,38.8,0,Failed
+617,36,Pakistan,No prior experience,10,9.6,52,1,44,1,1,6,8,40.4,0,Failed
+618,41,Germany,Beginner,11,4.2,59,2,38,1,1,5,1,9.3,0,Failed
+619,40,Brazil,No prior experience,11,6.5,69,5,59,1,1,4,6,50.1,0,Failed
+620,37,India,Intermediate,15,7.8,54,3,37,0,1,5,6,34.3,0,Failed
+621,42,Germany,Beginner,6,6.2,59,2,36,0,1,9,10,48.4,0,Failed
+622,28,Other,Beginner,11,8.8,71,0,47,0,0,9,2,47.4,0,Failed
+623,48,Germany,No prior experience,6,7.8,59,1,43,0,0,8,5,43.6,0,Failed
+624,49,Indonesia,Beginner,4,12.5,66,2,46,1,1,7,6,71.3,1,Passed
+625,50,India,Intermediate,15,2.4,59,4,30,1,0,6,3,50.9,0,Failed
+626,16,Bangladesh,No prior experience,8,6.6,63,1,36,1,0,5,1,21.9,0,Failed
+627,36,Indonesia,Intermediate,5,4.3,53,5,40,1,0,3,9,67.2,1,Passed
+628,21,Indonesia,No prior experience,7,8.8,55,3,41,0,1,4,2,21.5,0,Failed
+629,43,Brazil,Intermediate,9,2.1,58,2,40,1,0,6,4,46.4,0,Failed
+630,32,Brazil,No prior experience,13,8.0,76,5,34,0,0,2,9,47.2,0,Failed
+631,20,UK,Intermediate,13,5.1,46,3,43,1,0,5,9,64.7,1,Passed
+632,46,UK,Beginner,14,4.8,55,1,48,0,1,2,8,45.6,0,Failed
+633,20,Nigeria,No prior experience,5,2.7,54,2,44,0,1,0,4,9.7,0,Failed
+634,53,USA,No prior experience,11,5.6,60,3,31,0,1,9,1,24.5,0,Failed
+635,18,India,Beginner,14,10.3,62,0,35,0,0,2,7,42.6,0,Failed
+636,38,India,Advanced,5,6.9,59,2,32,0,1,6,2,60.1,1,Passed
+637,52,Germany,No prior experience,14,8.9,56,3,45,0,0,5,8,57.1,0,Failed
+638,52,India,No prior experience,4,12.0,55,2,39,0,1,6,10,44.8,0,Failed
+639,25,India,Beginner,6,7.8,57,0,43,1,1,7,10,33.3,0,Failed
+640,25,USA,Beginner,2,5.3,60,1,37,1,1,6,2,31.6,0,Failed
+641,34,Other,Beginner,3,8.4,63,1,35,1,1,4,10,67.8,1,Passed
+642,32,UK,Beginner,1,5.4,59,2,35,1,1,5,3,41.4,0,Failed
+643,36,UK,No prior experience,2,5.5,68,2,35,0,1,7,6,31.3,0,Failed
+644,29,Bangladesh,Advanced,2,2.4,65,3,33,1,0,4,4,47.9,0,Failed
+645,24,India,Beginner,8,9.8,58,4,38,0,0,2,2,46.1,0,Failed
+646,16,USA,No prior experience,8,5.8,52,2,52,0,1,5,1,30.8,0,Failed
+647,28,UK,Intermediate,2,7.5,53,0,46,1,1,6,3,54.5,0,Failed
+648,19,USA,Beginner,13,3.9,53,0,40,0,0,6,4,34.4,0,Failed
+649,16,Pakistan,No prior experience,14,8.3,67,3,38,0,1,4,9,33.7,0,Failed
+650,47,Other,Beginner,6,4.7,62,2,45,1,0,2,9,50.5,0,Failed
+651,49,India,No prior experience,15,6.6,69,1,46,1,0,5,5,11.2,0,Failed
+652,43,Bangladesh,Beginner,5,9.6,66,5,42,1,0,5,5,63.1,1,Passed
+653,46,Germany,Intermediate,3,9.4,59,1,50,0,1,5,7,61.8,1,Passed
+654,23,UK,No prior experience,5,6.9,60,3,47,1,1,2,8,48.8,0,Failed
+655,54,Pakistan,Beginner,5,1.7,62,4,37,1,1,6,3,48.0,0,Failed
+656,41,USA,Intermediate,5,16.0,55,4,32,1,1,4,5,91.7,1,Passed
+657,49,Brazil,Advanced,3,12.2,49,6,34,1,1,1,7,100.0,1,Passed
+658,18,Indonesia,Beginner,15,9.2,65,1,25,0,1,5,2,37.4,0,Failed
+659,27,India,Beginner,3,4.7,64,4,42,0,0,8,9,44.0,0,Failed
+660,16,India,Beginner,4,6.7,49,4,28,1,1,8,3,52.4,0,Failed
+661,20,Pakistan,Advanced,7,5.4,52,1,36,1,0,5,7,64.7,1,Passed
+662,45,USA,Intermediate,12,10.8,57,1,38,0,1,7,9,60.8,1,Passed
+663,45,Nigeria,No prior experience,12,7.8,67,3,39,1,1,8,9,48.9,0,Failed
+664,32,India,Beginner,12,4.6,64,7,41,0,1,1,3,59.6,0,Failed
+665,38,Nigeria,Beginner,14,5.6,68,7,46,0,0,4,2,68.5,1,Passed
+666,30,Brazil,Intermediate,2,10.4,62,1,44,0,0,5,5,44.9,0,Failed
+667,52,Pakistan,Beginner,10,11.8,58,2,34,0,0,1,5,56.8,0,Failed
+668,36,USA,Beginner,4,11.6,59,3,33,0,0,7,8,59.8,0,Failed
+669,29,USA,Advanced,4,9.3,64,2,40,1,1,3,6,71.9,1,Passed
+670,17,Other,No prior experience,1,6.2,48,4,33,0,0,3,7,41.3,0,Failed
+671,26,Indonesia,No prior experience,10,0.0,46,3,53,0,1,3,8,15.1,0,Failed
+672,54,UK,Beginner,8,7.9,61,0,36,1,0,9,9,50.8,0,Failed
+673,53,UK,No prior experience,1,7.0,50,1,35,0,1,4,4,13.3,0,Failed
+674,49,Germany,No prior experience,8,7.4,46,1,38,1,1,3,5,21.0,0,Failed
+675,53,Bangladesh,No prior experience,7,7.2,65,4,39,1,0,1,4,47.0,0,Failed
+676,49,Pakistan,Beginner,9,3.0,59,5,38,0,0,5,9,54.7,0,Failed
+677,33,Brazil,Intermediate,8,8.7,37,2,38,1,1,4,2,58.4,0,Failed
+678,45,USA,Beginner,5,8.9,54,2,33,1,1,5,8,36.0,0,Failed
+679,30,Indonesia,Beginner,8,9.0,66,6,41,1,0,8,7,82.7,1,Passed
+680,42,Nigeria,No prior experience,14,9.8,57,2,44,0,0,2,7,25.3,0,Failed
+681,49,Pakistan,Intermediate,15,8.8,67,3,51,0,1,2,8,63.4,1,Passed
+682,53,Germany,Intermediate,11,5.8,66,2,32,0,0,2,1,37.8,0,Failed
+683,48,Pakistan,Beginner,10,6.8,73,5,33,1,0,1,1,52.2,0,Failed
+684,39,Germany,No prior experience,12,7.3,60,0,58,1,1,8,7,34.5,0,Failed
+685,30,USA,No prior experience,15,7.3,75,0,39,1,1,11,2,32.0,0,Failed
+686,45,Bangladesh,No prior experience,12,10.0,50,0,36,0,0,2,4,20.5,0,Failed
+687,32,Germany,Beginner,3,8.9,50,1,42,0,1,3,6,43.5,0,Failed
+688,20,USA,Intermediate,15,13.2,61,3,47,0,1,2,5,68.1,1,Passed
+689,44,USA,Intermediate,10,13.6,57,1,42,0,1,7,5,66.6,1,Passed
+690,19,Bangladesh,Beginner,7,7.2,60,3,37,1,0,9,6,56.0,0,Failed
+691,25,UK,Intermediate,12,0.0,49,1,40,0,0,4,10,26.4,0,Failed
+692,32,Pakistan,Advanced,4,10.7,42,3,41,0,0,4,7,76.1,1,Passed
+693,25,India,No prior experience,5,5.4,59,1,41,1,0,5,2,18.4,0,Failed
+694,32,India,Beginner,9,4.6,62,4,42,0,1,2,4,51.7,0,Failed
+695,35,Nigeria,Advanced,7,5.8,67,1,29,1,1,7,7,77.8,1,Passed
+696,39,Nigeria,No prior experience,4,5.7,62,6,36,0,1,4,5,54.9,0,Failed
+697,20,India,Advanced,6,8.8,71,6,40,1,1,6,10,74.3,1,Passed
+698,49,Brazil,Advanced,10,2.3,62,3,43,0,1,5,9,59.2,0,Failed
+699,21,India,Beginner,14,3.8,60,1,44,0,1,5,6,25.9,0,Failed
+700,17,Nigeria,Intermediate,11,8.0,70,1,36,1,0,2,4,51.6,0,Failed
+701,28,Indonesia,Intermediate,7,8.9,57,2,39,1,1,6,10,64.0,1,Passed
+702,26,Nigeria,Beginner,13,8.9,58,2,44,0,1,8,4,55.1,0,Failed
+703,38,Brazil,No prior experience,10,4.6,58,0,38,1,0,5,3,6.4,0,Failed
+704,31,Pakistan,No prior experience,13,4.1,53,2,41,1,0,3,6,23.4,0,Failed
+705,46,India,No prior experience,9,5.5,61,1,30,0,0,5,8,17.2,0,Failed
+706,26,Bangladesh,Beginner,4,7.7,65,5,49,1,1,9,1,59.5,0,Failed
+707,31,Indonesia,No prior experience,10,11.5,54,1,45,0,0,2,2,2.9,0,Failed
+708,23,USA,No prior experience,3,0.9,66,1,37,0,1,7,4,7.4,0,Failed
+709,19,Brazil,No prior experience,8,6.3,67,2,43,0,0,4,7,16.2,0,Failed
+710,19,Nigeria,Intermediate,15,3.0,64,0,40,0,0,7,2,41.5,0,Failed
+711,40,Bangladesh,Advanced,1,2.0,75,1,39,0,1,8,10,64.9,1,Passed
+712,18,Germany,Advanced,9,9.9,54,3,26,0,1,3,8,73.9,1,Passed
+713,47,UK,Beginner,13,8.6,66,0,42,0,0,3,3,29.7,0,Failed
+714,18,India,Intermediate,1,8.3,52,4,35,1,1,7,2,60.3,1,Passed
+715,42,UK,Intermediate,2,9.8,64,1,49,1,0,6,7,71.4,1,Passed
+716,44,Brazil,Beginner,13,5.6,60,0,47,0,1,8,10,42.9,0,Failed
+717,47,Germany,Beginner,8,5.7,61,4,40,0,1,8,9,54.7,0,Failed
+718,34,Germany,No prior experience,9,13.6,52,3,43,1,0,4,4,29.5,0,Failed
+719,36,Germany,Advanced,7,6.3,54,1,30,0,1,5,2,46.1,0,Failed
+720,20,USA,Beginner,3,9.2,60,3,40,0,0,6,9,56.3,0,Failed
+721,33,Brazil,Beginner,7,7.0,45,2,45,0,0,3,10,47.2,0,Failed
+722,43,Pakistan,Beginner,6,1.5,60,3,34,1,0,4,5,39.1,0,Failed
+723,37,UK,No prior experience,2,0.9,52,1,45,0,0,6,10,22.7,0,Failed
+724,36,Pakistan,No prior experience,3,5.3,55,1,42,0,1,5,7,22.1,0,Failed
+725,21,Bangladesh,Beginner,11,10.2,47,2,38,1,1,5,10,49.9,0,Failed
+726,16,Other,No prior experience,13,9.4,55,1,42,0,1,6,5,27.7,0,Failed
+727,20,Indonesia,Intermediate,12,9.7,60,6,42,0,0,6,5,68.2,1,Passed
+728,27,Indonesia,Beginner,13,4.0,62,3,35,1,1,4,6,30.2,0,Failed
+729,41,Pakistan,Beginner,10,11.8,57,5,43,0,0,9,5,69.3,1,Passed
+730,49,Other,Beginner,10,4.1,70,1,41,1,1,6,8,28.6,0,Failed
+731,29,Other,Beginner,13,7.6,61,1,35,0,1,0,4,25.7,0,Failed
+732,41,India,Beginner,12,7.0,51,3,33,0,0,2,3,35.8,0,Failed
+733,42,Bangladesh,Beginner,15,6.5,65,0,40,0,1,5,3,44.6,0,Failed
+734,24,Brazil,Intermediate,5,11.0,50,1,43,1,1,1,2,45.4,0,Failed
+735,41,Other,Intermediate,10,4.9,57,0,27,0,1,5,8,27.5,0,Failed
+736,37,Nigeria,Intermediate,4,3.0,70,2,38,0,1,3,7,49.1,0,Failed
+737,45,Indonesia,No prior experience,2,7.1,47,2,35,1,1,5,6,28.5,0,Failed
+738,32,Nigeria,Beginner,4,5.8,59,2,33,1,1,7,2,30.8,0,Failed
+739,41,Bangladesh,Advanced,12,17.1,50,1,50,0,1,7,2,73.9,1,Passed
+740,51,Other,Beginner,8,9.0,54,1,43,0,0,6,10,42.4,0,Failed
+741,16,UK,No prior experience,5,5.8,48,1,37,0,1,6,1,15.0,0,Failed
+742,23,Indonesia,Beginner,5,3.8,48,1,52,0,0,1,10,27.4,0,Failed
+743,50,India,No prior experience,13,1.4,75,1,44,1,1,7,2,10.7,0,Failed
+744,30,India,No prior experience,12,3.9,63,0,37,1,1,6,9,30.9,0,Failed
+745,37,Germany,Advanced,12,7.3,75,2,36,0,1,5,1,60.0,1,Passed
+746,29,USA,Beginner,10,11.3,41,3,30,0,1,3,10,52.1,0,Failed
+747,41,Other,No prior experience,3,10.4,46,2,37,1,1,6,4,45.6,0,Failed
+748,43,Bangladesh,Advanced,13,7.7,64,6,33,1,0,3,2,79.8,1,Passed
+749,38,Indonesia,Advanced,8,6.0,57,2,44,0,1,3,5,46.6,0,Failed
+750,29,USA,Beginner,6,7.8,54,7,31,0,0,7,10,61.0,1,Passed
+751,39,Bangladesh,No prior experience,2,5.4,68,0,35,0,1,4,8,22.2,0,Failed
+752,17,Pakistan,Intermediate,2,12.2,62,2,43,1,0,3,1,65.7,1,Passed
+753,41,Other,Intermediate,9,6.4,53,2,41,0,1,5,9,40.6,0,Failed
+754,29,Brazil,Beginner,13,6.7,59,4,48,1,0,5,7,45.4,0,Failed
+755,22,Brazil,Intermediate,7,0.4,62,2,37,0,0,4,5,48.6,0,Failed
+756,18,Other,Beginner,10,6.4,55,1,32,1,0,6,5,30.0,0,Failed
+757,38,Germany,No prior experience,9,9.5,64,1,44,0,0,3,9,28.2,0,Failed
+758,33,Germany,Beginner,14,3.8,59,6,41,0,0,3,9,44.5,0,Failed
+759,53,Brazil,No prior experience,6,4.7,52,3,40,0,1,8,2,27.3,0,Failed
+760,50,UK,Intermediate,15,9.4,46,0,35,0,1,3,8,36.5,0,Failed
+761,30,Indonesia,Beginner,5,2.6,62,2,41,0,0,8,5,33.4,0,Failed
+762,40,Brazil,No prior experience,12,10.2,66,5,40,1,1,4,2,50.7,0,Failed
+763,52,UK,Beginner,1,5.4,72,1,37,0,1,7,9,47.1,0,Failed
+764,43,USA,No prior experience,12,5.8,53,2,37,0,0,3,4,20.4,0,Failed
+765,25,UK,No prior experience,6,3.6,64,0,34,0,0,3,5,5.2,0,Failed
+766,54,USA,Beginner,6,8.1,44,3,44,0,1,3,7,56.1,0,Failed
+767,32,Bangladesh,No prior experience,3,14.4,61,1,34,0,0,7,2,37.3,0,Failed
+768,54,Nigeria,Intermediate,3,9.3,60,2,38,0,0,7,5,46.7,0,Failed
+769,37,Bangladesh,No prior experience,15,4.4,52,2,41,0,1,3,8,20.6,0,Failed
+770,41,Brazil,Beginner,3,10.4,63,3,29,0,1,0,1,58.9,0,Failed
+771,40,USA,Intermediate,3,6.0,70,3,38,0,0,3,8,63.4,1,Passed
+772,32,Brazil,Beginner,7,11.1,73,1,31,0,1,5,2,50.6,0,Failed
+773,28,Other,Beginner,10,9.4,67,1,42,0,1,2,4,32.6,0,Failed
+774,35,Indonesia,Advanced,11,0.0,54,1,38,1,1,7,3,52.0,0,Failed
+775,40,India,No prior experience,2,4.0,65,0,36,0,0,6,2,0.0,0,Failed
+776,19,Brazil,No prior experience,10,9.8,65,5,42,0,0,5,10,57.9,0,Failed
+777,25,Indonesia,Beginner,13,7.5,75,2,39,1,1,4,10,56.2,0,Failed
+778,18,UK,No prior experience,10,3.9,65,2,53,0,0,9,2,18.5,0,Failed
+779,33,Bangladesh,Advanced,2,5.1,78,2,43,0,1,6,10,82.9,1,Passed
+780,51,UK,No prior experience,3,1.3,60,2,29,0,0,4,6,5.4,0,Failed
+781,37,India,Intermediate,10,6.7,54,1,32,1,0,5,3,46.0,0,Failed
+782,49,USA,Intermediate,12,13.6,54,1,38,1,1,10,10,79.0,1,Passed
+783,23,Other,No prior experience,7,9.4,59,1,48,1,0,4,4,30.6,0,Failed
+784,34,Indonesia,Beginner,3,13.6,59,0,37,1,0,3,4,56.7,0,Failed
+785,52,Other,No prior experience,7,9.6,55,4,42,1,1,7,2,40.4,0,Failed
+786,21,Nigeria,Beginner,9,10.1,42,3,45,1,0,10,4,55.3,0,Failed
+787,41,Brazil,No prior experience,11,12.9,62,2,41,0,1,5,2,45.2,0,Failed
+788,49,USA,Advanced,10,8.1,51,5,46,0,0,3,4,66.0,1,Passed
+789,21,Nigeria,Advanced,12,6.4,66,4,34,1,0,3,8,75.5,1,Passed
+790,52,Pakistan,No prior experience,15,10.1,56,3,51,1,0,5,9,37.0,0,Failed
+791,48,Brazil,No prior experience,11,11.4,60,3,50,0,1,8,4,48.4,0,Failed
+792,37,UK,Intermediate,4,5.6,49,2,29,0,0,5,4,44.0,0,Failed
+793,36,Bangladesh,No prior experience,7,4.8,67,1,34,1,0,3,7,29.8,0,Failed
+794,21,Indonesia,Intermediate,9,7.4,58,4,32,0,1,4,1,54.0,0,Failed
+795,21,India,Beginner,14,9.5,53,3,36,0,1,4,7,48.4,0,Failed
+796,19,India,Beginner,8,9.4,55,2,44,1,1,6,9,60.3,1,Passed
+797,45,UK,Intermediate,8,2.7,54,5,36,0,0,4,4,62.7,1,Passed
+798,26,Germany,Beginner,9,12.7,52,3,45,0,1,5,2,57.1,0,Failed
+799,45,India,Advanced,14,5.1,63,1,50,1,1,6,4,48.2,0,Failed
+800,46,Indonesia,Advanced,5,6.2,58,1,36,0,1,5,2,53.6,0,Failed
+801,39,UK,No prior experience,14,4.3,60,3,31,1,1,7,10,56.0,0,Failed
+802,24,USA,No prior experience,5,15.1,67,0,40,1,1,6,7,41.1,0,Failed
+803,18,India,Advanced,3,7.7,50,4,33,1,1,6,6,71.8,1,Passed
+804,46,Other,Advanced,5,4.4,72,1,29,1,0,5,2,36.5,0,Failed
+805,52,UK,No prior experience,8,9.6,70,1,49,0,1,3,6,33.5,0,Failed
+806,51,Indonesia,Intermediate,12,9.3,61,2,34,0,1,5,9,61.9,1,Passed
+807,39,Other,Beginner,5,6.4,70,3,46,1,1,4,8,60.4,1,Passed
+808,46,Brazil,No prior experience,4,9.5,54,2,39,0,1,3,9,37.8,0,Failed
+809,21,Brazil,Intermediate,8,4.5,51,2,44,0,1,3,5,46.9,0,Failed
+810,17,India,No prior experience,7,5.5,52,2,38,1,1,4,10,38.2,0,Failed
+811,35,Other,Advanced,15,1.0,73,1,40,1,0,5,2,31.9,0,Failed
+812,43,Bangladesh,No prior experience,14,3.0,48,1,55,1,1,3,5,25.0,0,Failed
+813,26,Brazil,Beginner,14,12.4,57,3,47,1,0,4,10,70.4,1,Passed
+814,19,Bangladesh,No prior experience,6,11.9,59,0,30,1,1,2,3,34.4,0,Failed
+815,30,USA,Beginner,5,7.2,59,2,47,1,1,2,4,46.2,0,Failed
+816,21,UK,Beginner,14,12.0,51,3,38,0,1,2,7,59.4,0,Failed
+817,45,Nigeria,No prior experience,5,6.5,68,4,50,0,0,4,2,30.3,0,Failed
+818,53,Indonesia,Beginner,13,6.3,67,5,39,1,0,1,6,51.7,0,Failed
+819,17,UK,Beginner,10,7.2,52,0,26,0,1,6,1,31.9,0,Failed
+820,30,Indonesia,No prior experience,2,6.6,63,2,40,1,0,9,10,44.3,0,Failed
+821,26,Other,Intermediate,13,6.4,67,2,40,1,0,7,3,50.9,0,Failed
+822,23,USA,No prior experience,15,10.4,67,1,46,1,1,7,7,52.7,0,Failed
+823,41,Pakistan,Beginner,4,7.5,64,0,52,1,0,3,5,35.8,0,Failed
+824,20,India,Beginner,8,9.1,62,1,33,1,0,6,8,52.7,0,Failed
+825,21,Indonesia,Beginner,8,10.1,63,3,26,0,1,4,7,46.5,0,Failed
+826,41,Indonesia,No prior experience,11,8.2,52,1,40,0,1,9,7,27.5,0,Failed
+827,19,Other,Beginner,1,4.1,53,2,40,0,1,7,1,20.6,0,Failed
+828,34,Bangladesh,Beginner,2,2.9,57,0,32,0,1,5,1,8.5,0,Failed
+829,35,UK,Intermediate,5,7.4,57,2,44,0,1,2,6,52.7,0,Failed
+830,48,Pakistan,Intermediate,9,6.5,58,4,38,1,0,4,8,61.7,1,Passed
+831,35,Germany,Beginner,10,7.3,57,1,40,0,1,4,3,42.1,0,Failed
+832,27,India,No prior experience,11,7.0,75,2,39,0,0,1,8,28.0,0,Failed
+833,16,Nigeria,No prior experience,12,14.8,73,2,45,0,0,10,8,60.0,1,Passed
+834,41,Germany,No prior experience,13,3.0,61,1,36,0,0,5,1,1.1,0,Failed
+835,29,UK,No prior experience,11,1.0,56,4,33,0,1,7,5,24.0,0,Failed
+836,53,India,Beginner,7,8.0,65,1,44,0,1,4,9,40.0,0,Failed
+837,52,Indonesia,No prior experience,10,5.9,56,1,24,1,0,6,10,34.5,0,Failed
+838,26,Nigeria,No prior experience,5,7.9,72,1,50,0,0,2,10,47.1,0,Failed
+839,51,Bangladesh,No prior experience,1,8.8,63,3,47,0,1,8,3,27.9,0,Failed
+840,28,Pakistan,No prior experience,15,10.9,53,3,40,0,0,4,9,47.9,0,Failed
+841,18,Bangladesh,No prior experience,15,2.5,63,3,42,1,1,3,9,45.5,0,Failed
+842,48,USA,No prior experience,6,5.3,62,4,40,1,0,4,1,20.9,0,Failed
+843,21,Other,Beginner,12,8.3,69,2,33,1,0,5,2,54.7,0,Failed
+844,25,India,Beginner,8,9.3,51,3,44,1,0,3,3,46.1,0,Failed
+845,20,Bangladesh,No prior experience,7,13.6,66,0,39,0,0,4,4,30.5,0,Failed
+846,38,Germany,Beginner,2,9.9,67,2,44,0,1,3,5,47.7,0,Failed
+847,25,Other,No prior experience,12,6.8,53,1,42,0,1,3,5,18.8,0,Failed
+848,17,Bangladesh,No prior experience,5,4.3,63,1,40,1,0,7,10,20.6,0,Failed
+849,28,Brazil,No prior experience,14,5.3,62,0,35,0,1,5,5,12.1,0,Failed
+850,17,USA,Beginner,11,5.2,60,1,40,1,1,6,3,52.1,0,Failed
+851,35,UK,Beginner,4,9.0,59,2,32,0,0,9,6,37.0,0,Failed
+852,16,Pakistan,No prior experience,9,7.8,65,4,40,0,1,7,4,41.5,0,Failed
+853,52,USA,No prior experience,10,3.0,55,5,39,0,1,6,9,38.3,0,Failed
+854,24,Other,Intermediate,1,5.7,65,1,37,1,0,8,2,44.9,0,Failed
+855,32,Brazil,No prior experience,12,9.6,58,2,35,0,0,3,1,16.5,0,Failed
+856,24,India,No prior experience,6,8.1,53,2,48,1,1,7,7,23.8,0,Failed
+857,26,Germany,Intermediate,3,8.7,63,2,41,0,1,5,9,67.8,1,Passed
+858,30,Pakistan,Intermediate,11,8.1,57,0,38,0,0,10,10,51.7,0,Failed
+859,39,Pakistan,Beginner,9,11.9,62,3,39,0,0,5,9,63.4,1,Passed
+860,53,USA,Beginner,5,7.7,58,2,46,0,0,8,3,35.2,0,Failed
+861,50,Other,No prior experience,13,5.8,71,1,39,0,0,11,1,24.5,0,Failed
+862,45,India,No prior experience,6,4.3,50,4,44,0,0,4,9,32.6,0,Failed
+863,46,Indonesia,Beginner,11,7.7,69,0,45,0,0,4,7,41.1,0,Failed
+864,20,Brazil,No prior experience,9,0.0,70,4,43,1,0,5,8,35.4,0,Failed
+865,29,Indonesia,Beginner,9,6.4,52,4,49,0,1,4,6,49.9,0,Failed
+866,26,Germany,Advanced,8,6.4,64,1,36,0,0,5,10,59.3,0,Failed
+867,24,India,Advanced,9,2.9,69,1,37,1,0,5,6,62.7,1,Passed
+868,49,India,No prior experience,4,4.2,68,1,49,1,0,12,4,40.7,0,Failed
+869,27,Brazil,Beginner,6,9.4,71,4,41,0,0,4,2,54.8,0,Failed
+870,50,Nigeria,Beginner,5,7.7,76,0,35,1,0,1,1,9.0,0,Failed
+871,50,Indonesia,Intermediate,5,7.3,53,2,38,1,1,7,6,51.8,0,Failed
+872,16,Bangladesh,No prior experience,4,7.9,59,2,37,0,0,5,9,33.1,0,Failed
+873,37,Pakistan,No prior experience,2,7.3,51,2,37,0,0,3,10,28.4,0,Failed
+874,44,Nigeria,No prior experience,12,10.7,55,4,48,0,1,3,10,39.2,0,Failed
+875,23,Bangladesh,No prior experience,6,7.4,73,4,50,0,1,3,2,30.4,0,Failed
+876,26,Other,No prior experience,9,2.6,57,4,30,1,0,6,1,20.3,0,Failed
+877,52,Brazil,Intermediate,12,11.9,61,2,38,0,0,7,1,58.8,0,Failed
+878,29,Other,Beginner,1,8.1,63,4,43,0,1,6,7,58.9,0,Failed
+879,45,Pakistan,No prior experience,14,5.2,69,3,36,1,1,8,1,22.4,0,Failed
+880,50,UK,Beginner,7,3.2,75,2,35,1,0,7,9,37.6,0,Failed
+881,36,Bangladesh,No prior experience,6,8.2,66,4,50,0,0,4,9,42.5,0,Failed
+882,52,Nigeria,Intermediate,3,6.6,56,2,35,1,0,4,3,44.3,0,Failed
+883,20,Bangladesh,Advanced,1,11.7,66,2,55,1,0,5,2,76.5,1,Passed
+884,34,Bangladesh,Advanced,13,6.0,71,1,48,1,0,3,9,58.2,0,Failed
+885,29,Brazil,Intermediate,4,4.5,64,2,55,0,1,4,3,48.9,0,Failed
+886,41,Other,No prior experience,15,9.7,51,0,55,0,0,2,2,15.3,0,Failed
+887,19,Indonesia,No prior experience,14,9.8,60,2,40,0,0,4,4,27.0,0,Failed
+888,40,UK,Beginner,9,7.5,56,1,44,0,1,4,7,44.8,0,Failed
+889,40,Brazil,Advanced,15,9.0,53,1,38,0,1,6,4,57.2,0,Failed
+890,33,Germany,No prior experience,2,6.9,75,3,54,1,0,12,8,57.4,0,Failed
+891,23,Brazil,No prior experience,3,7.7,62,3,42,0,1,4,5,40.3,0,Failed
+892,54,Pakistan,Intermediate,2,10.5,70,2,43,0,0,1,2,49.3,0,Failed
+893,29,UK,No prior experience,14,8.9,62,3,49,1,0,2,10,58.1,0,Failed
+894,47,India,Beginner,2,6.5,59,2,48,0,1,7,4,26.3,0,Failed
+895,53,Germany,Beginner,10,11.1,67,2,29,1,0,3,7,67.3,1,Passed
+896,48,USA,No prior experience,11,0.0,65,1,41,1,1,6,1,19.1,0,Failed
+897,38,Brazil,No prior experience,11,13.2,70,2,36,1,0,4,7,38.9,0,Failed
+898,30,Bangladesh,Intermediate,8,1.9,60,0,36,0,0,2,3,24.4,0,Failed
+899,48,Indonesia,Beginner,3,5.1,59,1,38,1,1,6,7,32.1,0,Failed
+900,40,India,Advanced,7,6.9,59,2,38,1,0,7,3,58.4,0,Failed
+901,32,Brazil,No prior experience,8,6.6,59,1,43,1,0,3,8,39.1,0,Failed
+902,48,Brazil,No prior experience,3,10.0,61,1,34,1,1,5,4,30.4,0,Failed
+903,17,Nigeria,Intermediate,2,3.8,52,3,39,0,0,6,1,24.8,0,Failed
+904,29,Nigeria,Beginner,13,7.8,70,3,39,0,0,9,1,51.4,0,Failed
+905,54,India,No prior experience,13,5.3,64,3,41,1,1,6,4,34.2,0,Failed
+906,21,Other,Intermediate,8,7.9,51,2,51,1,0,6,9,53.5,0,Failed
+907,21,Nigeria,No prior experience,3,6.8,57,4,33,1,1,3,5,49.1,0,Failed
+908,18,Bangladesh,No prior experience,7,7.3,68,2,38,0,1,4,5,36.3,0,Failed
+909,22,Germany,No prior experience,12,5.4,72,2,29,0,0,6,3,20.2,0,Failed
+910,23,USA,Beginner,1,5.5,66,1,46,0,0,3,5,36.3,0,Failed
+911,30,UK,Beginner,14,7.9,63,1,44,1,1,4,7,57.5,0,Failed
+912,44,USA,Beginner,15,9.8,60,1,49,1,0,5,3,47.6,0,Failed
+913,48,USA,Intermediate,12,5.2,66,1,37,0,1,7,5,37.0,0,Failed
+914,45,UK,Advanced,6,4.4,78,1,38,1,0,6,3,51.4,0,Failed
+915,54,Nigeria,No prior experience,12,8.8,62,3,43,0,0,8,1,15.4,0,Failed
+916,42,India,No prior experience,12,6.9,63,2,49,0,0,5,6,28.4,0,Failed
+917,51,UK,No prior experience,13,9.5,65,0,40,0,1,3,3,6.6,0,Failed
+918,44,Pakistan,No prior experience,9,4.3,69,2,43,1,0,5,2,22.4,0,Failed
+919,53,Other,Beginner,12,1.7,56,1,31,1,1,3,3,29.8,0,Failed
+920,48,Germany,Intermediate,3,5.4,60,2,31,0,1,4,5,47.9,0,Failed
+921,52,Indonesia,Intermediate,14,4.7,61,2,33,0,0,1,5,33.7,0,Failed
+922,42,Nigeria,No prior experience,7,6.8,57,4,48,1,0,3,9,42.6,0,Failed
+923,48,Other,No prior experience,13,5.1,58,5,40,0,0,2,9,41.3,0,Failed
+924,19,UK,Beginner,6,9.2,57,1,40,1,1,4,2,46.8,0,Failed
+925,37,Pakistan,No prior experience,8,6.1,64,0,38,1,1,4,6,17.7,0,Failed
+926,17,Indonesia,Beginner,3,7.5,66,1,32,0,0,3,9,47.8,0,Failed
+927,25,Germany,Advanced,3,7.5,59,4,34,0,0,1,9,65.3,1,Passed
+928,20,Germany,Beginner,4,7.6,55,2,46,0,0,4,6,34.9,0,Failed
+929,25,Nigeria,Intermediate,3,6.9,71,1,34,0,0,2,1,51.2,0,Failed
+930,48,UK,Beginner,9,8.5,59,1,34,1,1,3,1,51.0,0,Failed
+931,53,Other,No prior experience,11,4.6,44,4,35,0,0,1,9,22.9,0,Failed
+932,28,India,Beginner,4,11.2,59,2,36,1,0,5,3,57.6,0,Failed
+933,46,Other,No prior experience,6,6.3,57,1,30,0,1,6,5,27.3,0,Failed
+934,51,Other,No prior experience,8,3.1,61,2,37,1,0,8,6,21.0,0,Failed
+935,39,Germany,Beginner,11,7.6,67,2,29,0,0,5,1,35.3,0,Failed
+936,30,India,Intermediate,13,4.4,61,5,33,1,0,3,1,57.6,0,Failed
+937,44,India,No prior experience,8,9.0,47,3,34,1,1,7,4,40.4,0,Failed
+938,23,Nigeria,Beginner,15,13.6,73,4,38,0,0,7,6,80.6,1,Passed
+939,20,Indonesia,Intermediate,5,4.6,55,1,37,0,0,4,8,37.9,0,Failed
+940,44,Brazil,Intermediate,5,8.0,61,2,35,1,0,4,7,66.4,1,Passed
+941,19,USA,Intermediate,6,1.7,58,2,38,0,0,5,2,41.0,0,Failed
+942,27,USA,No prior experience,10,8.4,66,0,30,0,0,4,4,31.2,0,Failed
+943,17,Germany,Advanced,7,4.3,63,1,36,1,0,4,5,51.9,0,Failed
+944,42,Brazil,No prior experience,13,5.1,60,0,32,0,0,5,8,27.4,0,Failed
+945,46,Indonesia,Beginner,13,3.7,48,3,36,0,0,4,7,48.5,0,Failed
+946,51,Brazil,No prior experience,10,9.2,56,3,39,1,0,1,4,34.9,0,Failed
+947,51,Nigeria,Beginner,14,10.0,73,1,41,1,1,5,8,58.6,0,Failed
+948,41,Other,No prior experience,7,7.1,73,0,38,0,1,3,8,27.7,0,Failed
+949,42,Germany,Beginner,13,4.4,61,1,47,0,0,6,4,38.0,0,Failed
+950,20,India,No prior experience,4,11.8,67,2,30,1,0,7,2,45.9,0,Failed
+951,35,Germany,No prior experience,6,4.7,54,1,38,0,0,3,3,15.7,0,Failed
+952,26,USA,Beginner,7,0.5,60,0,40,1,0,4,5,26.0,0,Failed
+953,25,Indonesia,Intermediate,5,8.4,51,2,33,0,0,5,1,39.6,0,Failed
+954,53,Brazil,Advanced,5,3.7,70,5,38,1,0,5,5,68.0,1,Passed
+955,21,Indonesia,No prior experience,2,10.0,70,0,36,0,0,5,4,15.5,0,Failed
+956,23,Nigeria,Intermediate,7,5.9,51,2,38,1,1,5,5,68.1,1,Passed
+957,38,Germany,Beginner,12,8.8,59,3,44,0,0,3,1,37.7,0,Failed
+958,41,UK,No prior experience,6,11.2,67,2,37,0,1,5,10,53.4,0,Failed
+959,27,Germany,No prior experience,11,3.4,76,2,45,0,1,3,7,20.6,0,Failed
+960,41,India,Beginner,1,5.3,53,2,42,0,1,4,10,41.5,0,Failed
+961,28,Germany,Advanced,4,6.8,49,2,44,0,1,7,9,59.8,0,Failed
+962,33,Pakistan,Beginner,3,11.6,53,3,46,1,0,5,5,49.5,0,Failed
+963,40,Nigeria,Beginner,12,5.0,49,1,42,1,0,5,3,29.5,0,Failed
+964,48,Bangladesh,Beginner,15,5.2,64,6,54,0,0,2,9,63.9,1,Passed
+965,27,Nigeria,No prior experience,3,8.4,65,2,30,0,0,6,6,32.7,0,Failed
+966,51,Brazil,Intermediate,7,5.3,49,4,43,1,0,2,6,50.2,0,Failed
+967,19,Bangladesh,Intermediate,11,7.5,50,1,45,0,1,1,10,52.9,0,Failed
+968,20,Brazil,No prior experience,12,2.3,66,2,43,0,0,4,10,33.7,0,Failed
+969,52,Brazil,Intermediate,10,13.6,62,1,42,0,0,5,3,68.4,1,Passed
+970,23,India,No prior experience,4,3.0,54,2,44,0,1,6,1,18.6,0,Failed
+971,43,India,Advanced,15,6.0,67,1,36,0,0,8,4,60.3,1,Passed
+972,46,Other,Beginner,12,6.9,64,7,48,1,0,5,4,62.6,1,Passed
+973,24,USA,No prior experience,8,12.7,61,2,40,0,0,9,3,33.1,0,Failed
+974,44,Other,Beginner,11,3.0,54,0,38,1,1,2,5,24.2,0,Failed
+975,29,Other,Beginner,9,13.0,70,1,40,0,1,3,9,61.0,1,Passed
+976,37,USA,No prior experience,3,9.3,61,4,39,0,1,3,9,55.8,0,Failed
+977,26,UK,Beginner,5,8.3,58,3,36,0,0,6,8,47.7,0,Failed
+978,38,Bangladesh,Beginner,4,4.0,68,0,36,1,1,13,10,38.8,0,Failed
+979,16,Indonesia,Intermediate,14,8.7,59,1,30,0,0,4,6,35.4,0,Failed
+980,52,Other,No prior experience,12,4.8,62,0,46,0,1,6,4,24.6,0,Failed
+981,36,Germany,Beginner,10,10.8,71,3,40,0,1,5,2,52.3,0,Failed
+982,41,Germany,No prior experience,15,4.1,58,3,36,0,1,3,10,20.3,0,Failed
+983,51,Brazil,Intermediate,6,6.7,58,2,37,0,1,4,3,44.0,0,Failed
+984,38,USA,No prior experience,11,5.3,61,0,46,0,0,9,9,19.5,0,Failed
+985,16,Brazil,Advanced,10,4.0,69,2,46,0,0,4,1,47.3,0,Failed
+986,30,Pakistan,Intermediate,4,9.2,59,3,40,1,1,2,7,71.9,1,Passed
+987,36,Pakistan,Beginner,8,8.6,72,1,33,0,0,6,10,43.2,0,Failed
+988,24,Indonesia,Beginner,3,10.6,52,3,43,1,1,5,6,64.1,1,Passed
+989,24,India,No prior experience,11,1.7,67,4,40,0,1,5,2,17.5,0,Failed
+990,25,India,No prior experience,5,10.2,65,4,40,0,0,9,5,39.9,0,Failed
+991,41,USA,Intermediate,13,14.5,58,3,45,1,1,6,2,63.5,1,Passed
+992,50,USA,Advanced,1,5.6,54,3,38,1,0,3,9,68.7,1,Passed
+993,40,Other,No prior experience,13,12.7,55,1,49,1,0,5,5,39.1,0,Failed
+994,41,Pakistan,Beginner,15,6.2,60,2,40,1,0,6,6,41.0,0,Failed
+995,26,Other,Intermediate,6,2.9,65,1,36,1,0,4,4,40.1,0,Failed
+996,53,India,Beginner,11,6.1,61,2,29,0,1,3,1,29.7,0,Failed
+997,17,Bangladesh,No prior experience,5,10.1,63,4,34,0,0,0,3,42.0,0,Failed
+998,22,Bangladesh,No prior experience,8,4.5,63,0,51,0,1,5,5,15.3,0,Failed
+999,33,USA,No prior experience,9,5.2,52,2,38,1,0,3,3,18.9,0,Failed
+1000,42,Brazil,Intermediate,8,8.8,73,2,40,1,1,7,8,83.4,1,Passed
+1001,49,India,Beginner,8,7.0,55,3,39,1,1,4,2,64.2,1,Passed
+1002,42,Bangladesh,Beginner,12,8.8,73,1,36,0,0,2,2,29.8,0,Failed
+1003,32,India,Advanced,14,7.7,68,1,40,1,1,7,1,72.1,1,Passed
+1004,39,Nigeria,Beginner,13,8.4,66,4,30,0,1,2,1,38.3,0,Failed
+1005,40,Germany,Intermediate,3,5.7,74,5,40,1,1,3,4,73.6,1,Passed
+1006,22,Pakistan,Beginner,4,7.7,52,2,47,0,1,4,8,61.5,1,Passed
+1007,21,Other,No prior experience,15,4.2,61,1,45,1,1,6,8,33.0,0,Failed
+1008,39,India,Advanced,11,10.9,55,2,44,0,1,11,8,80.5,1,Passed
+1009,48,Germany,Beginner,4,5.1,69,3,49,0,0,5,1,22.9,0,Failed
+1010,44,Nigeria,No prior experience,15,10.4,63,2,28,1,0,6,1,25.5,0,Failed
+1011,37,Other,No prior experience,15,6.3,55,4,38,1,1,9,7,38.2,0,Failed
+1012,41,India,No prior experience,14,7.6,58,3,33,0,0,4,7,27.9,0,Failed
+1013,43,USA,Beginner,11,5.5,53,3,39,1,0,0,10,47.7,0,Failed
+1014,36,Germany,Intermediate,5,4.0,58,2,52,1,0,6,5,52.2,0,Failed
+1015,22,Other,Advanced,13,1.8,62,4,43,0,0,6,8,48.0,0,Failed
+1016,32,India,Advanced,9,3.8,48,4,44,0,0,3,6,47.8,0,Failed
+1017,35,Germany,No prior experience,12,6.0,57,2,41,0,1,8,1,30.9,0,Failed
+1018,35,Nigeria,Beginner,9,7.6,58,2,37,0,1,4,7,43.2,0,Failed
+1019,37,India,No prior experience,10,10.0,66,0,53,1,0,7,8,32.1,0,Failed
+1020,43,India,Intermediate,13,5.7,73,1,38,0,1,7,8,59.8,0,Failed
+1021,22,India,Beginner,12,4.4,59,2,49,1,0,6,10,57.7,0,Failed
+1022,16,Indonesia,Beginner,14,2.7,57,1,38,1,0,6,9,23.0,0,Failed
+1023,47,USA,Intermediate,1,8.4,66,4,39,1,1,6,3,57.3,0,Failed
+1024,28,Nigeria,Beginner,14,11.1,74,0,32,1,1,1,2,37.0,0,Failed
+1025,45,Other,No prior experience,14,10.8,60,2,25,1,0,6,8,52.2,0,Failed
+1026,38,Indonesia,Advanced,8,9.1,54,2,33,0,0,5,4,75.5,1,Passed
+1027,34,Brazil,Advanced,14,8.9,56,4,29,1,0,8,2,72.4,1,Passed
+1028,47,Indonesia,No prior experience,1,12.1,58,1,44,1,1,1,2,33.5,0,Failed
+1029,45,Pakistan,Beginner,2,8.0,73,4,30,0,0,2,2,41.7,0,Failed
+1030,44,Pakistan,Advanced,7,8.9,59,2,34,1,0,8,5,69.3,1,Passed
+1031,44,India,No prior experience,15,6.0,63,3,47,0,1,6,8,38.5,0,Failed
+1032,45,Indonesia,Beginner,8,2.9,48,2,42,0,1,7,9,30.0,0,Failed
+1033,31,Brazil,No prior experience,1,4.9,59,1,36,1,1,6,6,27.0,0,Failed
+1034,34,Indonesia,Beginner,15,7.0,56,1,36,1,1,3,8,49.7,0,Failed
+1035,33,USA,No prior experience,3,7.2,72,4,41,1,0,2,6,46.6,0,Failed
+1036,16,USA,Beginner,7,12.8,64,2,41,0,1,3,1,40.7,0,Failed
+1037,29,Brazil,No prior experience,13,7.2,49,1,41,1,0,9,9,27.4,0,Failed
+1038,17,Indonesia,Beginner,9,10.5,49,3,39,1,1,4,10,58.3,0,Failed
+1039,43,Germany,Advanced,8,5.7,61,3,36,0,0,2,7,66.9,1,Passed
+1040,45,USA,Intermediate,8,6.1,50,0,40,0,1,8,2,39.8,0,Failed
+1041,53,USA,Intermediate,15,3.0,63,5,43,1,0,6,3,67.0,1,Passed
+1042,19,Bangladesh,Beginner,9,4.8,61,0,45,0,0,4,2,24.2,0,Failed
+1043,16,Indonesia,No prior experience,10,8.6,57,5,45,0,0,9,9,62.3,1,Passed
+1044,23,USA,No prior experience,3,7.0,73,1,49,0,1,6,8,45.3,0,Failed
+1045,44,Nigeria,Advanced,8,9.8,48,2,48,1,0,4,5,62.8,1,Passed
+1046,54,Indonesia,Beginner,1,7.5,54,4,30,0,0,4,4,46.0,0,Failed
+1047,18,Pakistan,No prior experience,8,5.9,63,1,43,0,0,5,7,23.3,0,Failed
+1048,47,Bangladesh,Intermediate,13,13.4,54,1,39,0,0,3,9,69.4,1,Passed
+1049,25,USA,No prior experience,7,6.7,67,2,42,0,1,6,8,40.5,0,Failed
+1050,25,Bangladesh,No prior experience,13,10.5,52,5,45,0,0,4,8,53.7,0,Failed
+1051,34,Pakistan,Advanced,15,5.8,51,3,47,0,0,5,2,56.4,0,Failed
+1052,49,Brazil,Intermediate,8,9.1,57,4,40,0,1,4,10,75.3,1,Passed
+1053,48,Brazil,Beginner,1,9.8,50,1,43,0,1,4,9,62.6,1,Passed
+1054,38,Indonesia,Advanced,6,7.6,60,1,42,1,1,2,2,53.6,0,Failed
+1055,43,Pakistan,Beginner,7,0.0,61,6,39,0,1,5,8,46.5,0,Failed
+1056,47,UK,Intermediate,14,7.1,58,1,47,1,0,2,5,43.4,0,Failed
+1057,22,UK,No prior experience,11,10.7,50,1,31,1,1,5,6,38.3,0,Failed
+1058,44,Indonesia,No prior experience,5,8.6,71,2,19,0,1,7,10,46.2,0,Failed
+1059,23,India,Beginner,14,8.3,49,2,34,0,1,6,9,50.1,0,Failed
+1060,16,Bangladesh,Intermediate,5,1.8,62,2,50,1,1,4,8,48.1,0,Failed
+1061,18,Bangladesh,Beginner,7,4.8,57,1,41,1,0,0,5,32.5,0,Failed
+1062,39,Brazil,No prior experience,15,8.2,45,6,27,0,0,3,6,45.4,0,Failed
+1063,38,UK,No prior experience,11,8.2,67,2,26,0,1,5,5,23.4,0,Failed
+1064,23,Other,Intermediate,15,10.6,47,1,44,0,0,9,9,66.9,1,Passed
+1065,52,USA,No prior experience,3,6.6,55,1,48,1,1,3,5,14.7,0,Failed
+1066,18,USA,Beginner,6,8.2,54,4,31,1,1,7,6,72.5,1,Passed
+1067,48,USA,No prior experience,7,7.0,65,2,26,0,0,4,1,17.9,0,Failed
+1068,43,Brazil,No prior experience,1,4.0,59,1,42,0,0,6,8,32.2,0,Failed
+1069,23,Pakistan,Beginner,12,0.2,68,0,46,0,0,5,8,25.5,0,Failed
+1070,49,Germany,Beginner,2,8.3,72,1,35,1,0,6,8,61.3,1,Passed
+1071,50,UK,No prior experience,12,7.5,62,1,38,0,0,2,7,37.4,0,Failed
+1072,47,UK,No prior experience,4,5.1,56,2,28,1,0,5,7,30.4,0,Failed
+1073,39,Other,Intermediate,13,2.1,42,4,43,0,0,8,6,42.1,0,Failed
+1074,29,Bangladesh,No prior experience,8,8.9,65,1,49,1,0,6,7,29.2,0,Failed
+1075,47,India,Beginner,11,6.2,51,3,47,0,0,9,9,53.9,0,Failed
+1076,31,Indonesia,Advanced,13,8.7,52,2,43,1,1,7,5,71.0,1,Passed
+1077,19,Bangladesh,No prior experience,14,12.6,53,2,43,0,1,3,9,51.8,0,Failed
+1078,52,Pakistan,Advanced,10,0.6,69,4,39,1,0,2,9,65.8,1,Passed
+1079,36,Indonesia,No prior experience,6,4.9,62,1,48,0,0,8,4,23.6,0,Failed
+1080,29,UK,Beginner,1,6.4,61,1,34,1,0,3,9,43.2,0,Failed
+1081,46,Pakistan,Beginner,10,11.4,70,2,43,0,0,7,8,63.2,1,Passed
+1082,33,Indonesia,Advanced,5,2.1,56,2,27,0,1,6,5,54.6,0,Failed
+1083,22,Other,No prior experience,7,12.8,63,3,47,0,0,2,10,57.6,0,Failed
+1084,25,Other,Beginner,15,7.4,59,1,37,0,0,4,3,35.8,0,Failed
+1085,22,Nigeria,Advanced,13,6.7,51,3,32,0,1,5,9,82.5,1,Passed
+1086,48,Germany,Beginner,6,6.4,46,1,36,0,1,5,3,45.3,0,Failed
+1087,38,Other,Beginner,13,5.7,56,1,38,0,1,4,3,39.2,0,Failed
+1088,36,UK,No prior experience,13,10.1,66,3,28,0,0,5,3,33.9,0,Failed
+1089,34,India,Intermediate,12,3.8,64,2,44,0,1,5,1,49.1,0,Failed
+1090,34,USA,No prior experience,9,8.0,60,5,38,0,1,10,6,54.9,0,Failed
+1091,51,Nigeria,No prior experience,8,5.8,69,0,42,0,1,3,3,10.8,0,Failed
+1092,44,USA,Beginner,15,4.7,55,6,47,0,1,3,10,77.1,1,Passed
+1093,33,Germany,No prior experience,4,14.8,64,1,51,1,1,2,3,50.6,0,Failed
+1094,17,Indonesia,Advanced,13,8.3,40,2,43,0,1,3,9,65.8,1,Passed
+1095,16,Brazil,Advanced,11,8.8,56,4,33,1,0,0,7,75.6,1,Passed
+1096,20,Other,Intermediate,12,10.4,54,3,40,0,0,6,8,58.6,0,Failed
+1097,35,India,Intermediate,5,2.7,52,3,41,1,1,4,1,42.9,0,Failed
+1098,26,Germany,Beginner,7,12.3,75,1,40,0,1,9,8,66.1,1,Passed
+1099,17,USA,No prior experience,8,0.0,53,2,27,1,1,6,8,17.9,0,Failed
+1100,18,Nigeria,Intermediate,5,4.7,75,4,37,0,0,6,8,56.5,0,Failed
+1101,38,Other,No prior experience,9,5.6,67,0,43,0,0,5,6,24.1,0,Failed
+1102,27,UK,No prior experience,14,8.7,69,2,51,0,0,5,10,40.5,0,Failed
+1103,35,Other,Intermediate,10,7.7,54,2,35,0,1,4,5,46.6,0,Failed
+1104,20,Nigeria,Beginner,12,6.5,68,1,39,0,0,4,4,38.4,0,Failed
+1105,52,Nigeria,Intermediate,4,7.0,54,1,47,0,1,7,9,48.4,0,Failed
+1106,53,Brazil,No prior experience,4,4.1,51,4,38,1,1,7,7,36.9,0,Failed
+1107,45,Other,Beginner,13,2.5,56,3,39,0,0,1,1,34.5,0,Failed
+1108,24,Other,No prior experience,8,9.2,40,4,34,0,1,2,1,33.9,0,Failed
+1109,49,Brazil,Beginner,1,9.1,71,2,42,1,1,10,1,54.2,0,Failed
+1110,50,Pakistan,Intermediate,8,11.8,58,3,29,1,0,7,4,67.8,1,Passed
+1111,37,Pakistan,Beginner,5,4.6,57,2,34,0,0,5,9,24.4,0,Failed
+1112,39,Indonesia,No prior experience,13,9.1,54,3,35,1,1,5,3,32.2,0,Failed
+1113,32,Pakistan,No prior experience,14,6.1,58,3,41,0,0,8,10,39.2,0,Failed
+1114,25,Bangladesh,No prior experience,11,10.6,62,0,58,0,1,7,1,31.4,0,Failed
+1115,45,Other,Beginner,1,10.1,54,1,44,0,1,4,1,29.6,0,Failed
+1116,38,India,Advanced,4,7.6,54,3,36,0,0,7,3,67.7,1,Passed
+1117,47,Other,No prior experience,2,6.0,60,2,47,0,0,5,7,33.8,0,Failed
+1118,32,Bangladesh,Intermediate,4,9.9,77,1,34,0,0,4,8,63.1,1,Passed
+1119,32,Bangladesh,Intermediate,8,8.9,56,1,34,0,0,5,4,55.5,0,Failed
+1120,29,USA,Beginner,5,4.9,51,1,38,0,1,4,2,15.9,0,Failed
+1121,24,Other,Beginner,1,3.0,66,2,40,1,1,5,7,35.1,0,Failed
+1122,17,Germany,Intermediate,7,6.1,61,3,39,1,0,6,9,65.8,1,Passed
+1123,40,Bangladesh,No prior experience,1,11.5,61,1,38,1,1,4,10,38.9,0,Failed
+1124,54,India,No prior experience,9,10.4,62,0,54,1,0,6,6,32.0,0,Failed
+1125,24,Brazil,No prior experience,3,3.7,64,1,35,1,1,9,2,27.9,0,Failed
+1126,37,Indonesia,Advanced,12,3.5,61,1,37,1,0,4,9,34.1,0,Failed
+1127,19,USA,Advanced,3,10.8,57,1,27,0,0,6,7,86.4,1,Passed
+1128,41,Brazil,Intermediate,15,3.6,71,2,30,0,1,2,9,58.9,0,Failed
+1129,44,USA,No prior experience,15,8.5,75,1,43,0,1,8,2,30.1,0,Failed
+1130,49,India,Beginner,6,5.2,65,3,48,0,0,2,10,46.9,0,Failed
+1131,38,Nigeria,No prior experience,10,11.9,59,0,36,0,0,3,4,28.1,0,Failed
+1132,52,Other,No prior experience,6,4.7,52,7,42,0,0,4,6,38.7,0,Failed
+1133,26,UK,Beginner,13,10.4,64,2,43,1,0,5,10,62.0,1,Passed
+1134,21,Germany,Advanced,11,7.6,71,1,43,0,0,7,7,67.6,1,Passed
+1135,33,Brazil,Advanced,11,7.8,61,3,39,0,1,4,3,62.6,1,Passed
+1136,36,Other,Beginner,6,1.1,66,1,37,0,1,11,10,42.3,0,Failed
+1137,51,Germany,No prior experience,13,0.4,62,2,37,1,1,2,5,11.1,0,Failed
+1138,53,Nigeria,No prior experience,1,6.3,75,0,39,0,0,6,4,22.9,0,Failed
+1139,49,UK,No prior experience,5,7.7,62,3,38,0,1,3,5,38.7,0,Failed
+1140,32,Germany,Intermediate,12,3.6,59,2,47,1,0,3,6,64.2,1,Passed
+1141,52,Germany,Intermediate,6,3.7,59,4,36,1,0,5,6,58.6,0,Failed
+1142,40,Brazil,Beginner,8,8.7,60,0,51,1,1,5,7,63.9,1,Passed
+1143,53,Pakistan,Beginner,13,8.7,41,3,49,1,0,7,6,54.8,0,Failed
+1144,27,UK,No prior experience,1,6.6,53,1,34,0,0,6,6,23.2,0,Failed
+1145,38,Other,No prior experience,5,9.3,60,2,50,1,0,4,4,26.2,0,Failed
+1146,37,Nigeria,Beginner,3,3.5,49,1,27,0,0,3,2,16.4,0,Failed
+1147,36,UK,No prior experience,2,5.9,68,2,35,1,0,7,10,47.4,0,Failed
+1148,42,India,Beginner,11,11.9,65,3,40,0,1,3,7,52.0,0,Failed
+1149,46,Pakistan,Intermediate,8,7.2,54,3,42,0,0,3,7,51.4,0,Failed
+1150,21,India,Beginner,7,7.4,59,4,30,0,0,4,3,44.5,0,Failed
+1151,42,Nigeria,No prior experience,10,13.9,70,1,51,0,0,5,5,40.6,0,Failed
+1152,49,Brazil,No prior experience,7,2.8,66,2,47,0,1,5,6,33.1,0,Failed
+1153,27,Brazil,Beginner,5,9.4,57,2,42,0,0,8,10,65.6,1,Passed
+1154,22,Nigeria,Beginner,12,12.0,62,2,40,1,0,10,9,55.7,0,Failed
+1155,25,USA,Beginner,13,6.0,49,1,43,0,1,6,3,37.6,0,Failed
+1156,32,Nigeria,Beginner,9,9.6,57,3,38,0,0,7,3,43.6,0,Failed
+1157,41,Pakistan,Beginner,5,4.1,73,2,43,1,0,5,5,43.9,0,Failed
+1158,36,Bangladesh,Intermediate,2,4.9,61,3,34,1,1,5,2,50.6,0,Failed
+1159,43,Brazil,No prior experience,3,8.2,66,1,31,0,0,2,3,26.6,0,Failed
+1160,17,Indonesia,Intermediate,4,9.4,63,0,42,0,0,1,6,32.5,0,Failed
+1161,16,Pakistan,No prior experience,15,10.4,69,1,43,1,0,5,3,29.2,0,Failed
+1162,51,Pakistan,No prior experience,5,11.7,58,0,33,0,0,4,1,31.4,0,Failed
+1163,41,Pakistan,Beginner,13,6.8,57,3,50,0,1,0,7,46.2,0,Failed
+1164,44,Germany,Beginner,3,10.6,49,3,34,0,0,4,7,32.9,0,Failed
+1165,36,Pakistan,Advanced,12,6.0,46,1,42,1,0,5,2,44.1,0,Failed
+1166,26,Brazil,Intermediate,14,9.7,48,1,45,0,1,6,5,62.0,1,Passed
+1167,26,Bangladesh,Advanced,7,7.6,54,1,37,0,0,4,9,54.3,0,Failed
+1168,51,Bangladesh,Advanced,5,8.3,70,1,40,1,0,7,3,60.0,1,Passed
+1169,54,Pakistan,Beginner,5,8.3,54,2,30,0,1,3,8,51.3,0,Failed
+1170,50,India,Beginner,6,2.2,67,0,33,0,1,4,4,25.5,0,Failed
+1171,49,Brazil,Beginner,7,3.6,61,1,47,0,1,4,3,17.8,0,Failed
+1172,39,Brazil,Advanced,10,7.3,66,4,42,1,0,8,2,58.9,0,Failed
+1173,37,UK,Intermediate,10,1.9,62,1,41,1,1,3,9,42.6,0,Failed
+1174,20,Other,No prior experience,8,9.5,55,4,58,1,0,5,5,45.8,0,Failed
+1175,48,USA,Intermediate,9,9.6,64,1,34,0,0,7,9,64.3,1,Passed
+1176,51,USA,No prior experience,11,8.0,60,1,43,0,0,5,8,40.1,0,Failed
+1177,35,India,Beginner,4,3.6,59,1,31,0,1,5,3,11.5,0,Failed
+1178,34,USA,No prior experience,5,11.1,63,1,33,0,1,6,4,36.2,0,Failed
+1179,50,UK,Beginner,15,13.1,61,1,54,1,1,4,6,53.1,0,Failed
+1180,32,Nigeria,Intermediate,5,7.4,67,0,45,0,1,5,10,56.4,0,Failed
+1181,49,USA,No prior experience,8,8.5,59,2,46,1,0,8,5,39.9,0,Failed
+1182,24,Brazil,No prior experience,9,7.6,42,0,35,0,0,5,10,33.8,0,Failed
+1183,41,Nigeria,No prior experience,7,8.6,58,3,41,0,1,2,10,42.1,0,Failed
+1184,17,USA,Beginner,15,6.6,75,1,33,1,0,7,3,40.9,0,Failed
+1185,24,Brazil,No prior experience,5,6.9,55,4,36,0,0,3,5,36.4,0,Failed
+1186,24,Brazil,No prior experience,3,9.7,68,1,51,1,1,4,5,37.8,0,Failed
+1187,32,Pakistan,No prior experience,1,14.0,54,2,44,0,1,4,9,54.3,0,Failed
+1188,16,Bangladesh,Beginner,11,2.8,60,4,38,1,0,3,4,57.0,0,Failed
+1189,40,India,No prior experience,9,6.7,71,0,37,1,1,7,8,55.8,0,Failed
+1190,40,UK,Intermediate,5,3.5,72,2,32,0,1,5,4,47.3,0,Failed
+1191,54,Germany,No prior experience,9,11.8,72,2,40,0,0,1,10,61.1,1,Passed
+1192,50,Other,Beginner,10,5.2,53,1,44,0,0,3,2,21.6,0,Failed
+1193,18,USA,No prior experience,15,2.7,58,3,48,1,0,5,3,15.7,0,Failed
+1194,52,USA,Beginner,12,8.9,76,3,37,0,0,7,4,36.1,0,Failed
+1195,45,Nigeria,No prior experience,13,12.2,59,2,42,0,0,6,8,45.0,0,Failed
+1196,53,Nigeria,Intermediate,14,9.0,59,4,47,1,1,1,9,72.4,1,Passed
+1197,49,Other,Advanced,4,7.6,67,1,41,1,0,2,6,64.1,1,Passed
+1198,27,USA,Advanced,5,8.2,57,2,39,1,1,2,8,72.5,1,Passed
+1199,34,Indonesia,Beginner,4,11.2,61,4,50,0,0,4,10,68.3,1,Passed
+1200,52,UK,Beginner,2,4.4,62,1,36,0,0,4,5,32.1,0,Failed
+1201,32,USA,Intermediate,12,6.7,55,2,44,1,1,12,5,43.8,0,Failed
+1202,25,Bangladesh,Beginner,1,5.6,54,0,29,0,0,3,8,20.9,0,Failed
+1203,27,Other,No prior experience,8,3.5,61,0,45,1,1,4,4,15.6,0,Failed
+1204,31,Indonesia,Intermediate,4,6.0,62,2,40,1,0,9,3,40.8,0,Failed
+1205,39,UK,Beginner,5,10.3,58,3,45,0,1,6,10,67.9,1,Passed
+1206,34,USA,No prior experience,6,8.7,59,0,30,0,0,4,2,10.8,0,Failed
+1207,23,Germany,No prior experience,14,8.9,43,5,45,0,0,5,8,41.9,0,Failed
+1208,46,Pakistan,No prior experience,8,7.4,62,1,38,0,1,0,5,24.4,0,Failed
+1209,36,Bangladesh,Beginner,11,8.6,61,5,53,0,1,9,6,72.1,1,Passed
+1210,32,Germany,No prior experience,8,4.6,59,2,29,1,0,4,9,33.4,0,Failed
+1211,38,Nigeria,No prior experience,7,6.1,50,5,35,0,1,3,3,29.8,0,Failed
+1212,52,Nigeria,No prior experience,4,7.6,56,2,40,0,1,4,4,30.2,0,Failed
+1213,31,USA,Beginner,6,7.8,64,2,42,0,0,9,2,36.3,0,Failed
+1214,21,Nigeria,Intermediate,4,8.0,61,5,52,0,0,6,6,58.9,0,Failed
+1215,23,Bangladesh,No prior experience,15,6.6,75,0,35,0,0,5,9,15.3,0,Failed
+1216,40,UK,No prior experience,14,5.9,65,4,40,0,0,4,2,26.8,0,Failed
+1217,33,Brazil,No prior experience,7,16.5,63,2,44,0,0,5,5,50.1,0,Failed
+1218,40,India,Advanced,12,9.7,67,4,44,0,1,5,10,84.0,1,Passed
+1219,27,Other,Beginner,13,8.2,75,1,44,0,1,6,1,32.7,0,Failed
+1220,30,UK,Beginner,12,6.3,64,4,43,1,0,3,4,43.9,0,Failed
+1221,41,Brazil,No prior experience,15,5.6,83,3,46,0,0,4,8,34.6,0,Failed
+1222,41,Indonesia,Intermediate,13,6.6,60,6,47,0,1,1,3,57.7,0,Failed
+1223,47,Bangladesh,Beginner,13,7.9,56,1,40,1,0,2,4,38.4,0,Failed
+1224,25,Germany,No prior experience,11,1.4,50,2,34,1,0,4,2,8.8,0,Failed
+1225,31,Brazil,No prior experience,14,2.3,70,1,42,0,1,4,9,43.8,0,Failed
+1226,22,Bangladesh,Beginner,1,5.1,56,1,41,0,1,6,5,31.6,0,Failed
+1227,32,Pakistan,Intermediate,5,7.6,47,3,38,1,1,3,3,50.2,0,Failed
+1228,38,Germany,Intermediate,15,6.3,51,3,59,0,1,6,10,73.3,1,Passed
+1229,41,Nigeria,Beginner,14,11.4,65,1,41,0,1,5,7,50.8,0,Failed
+1230,36,Nigeria,Intermediate,10,2.6,65,2,41,0,0,0,1,23.8,0,Failed
+1231,37,Germany,No prior experience,12,4.7,49,3,43,1,0,3,9,37.9,0,Failed
+1232,22,Indonesia,Beginner,15,11.6,59,5,43,0,1,3,7,64.2,1,Passed
+1233,29,Indonesia,Beginner,10,7.4,60,0,46,0,0,8,1,39.6,0,Failed
+1234,30,Indonesia,No prior experience,15,9.7,55,1,47,0,0,5,4,33.3,0,Failed
+1235,22,Brazil,Intermediate,4,13.2,61,2,43,0,0,6,7,87.8,1,Passed
+1236,24,Other,No prior experience,11,4.9,57,5,42,0,0,5,4,28.2,0,Failed
+1237,23,Brazil,No prior experience,7,6.7,64,2,36,1,0,2,7,30.7,0,Failed
+1238,38,USA,Beginner,13,6.2,56,1,55,0,0,7,3,27.2,0,Failed
+1239,44,India,Beginner,9,1.1,48,3,36,1,0,4,4,25.9,0,Failed
+1240,33,Germany,Beginner,5,6.1,66,1,38,0,1,6,3,34.4,0,Failed
+1241,46,UK,No prior experience,4,9.6,59,0,51,0,1,6,4,8.9,0,Failed
+1242,45,India,Intermediate,15,8.6,74,2,35,0,1,6,10,75.6,1,Passed
+1243,54,Pakistan,Beginner,9,8.9,52,2,37,0,0,6,3,42.6,0,Failed
+1244,50,Brazil,Beginner,5,5.9,79,2,43,0,0,5,10,73.3,1,Passed
+1245,33,Brazil,Advanced,9,5.0,64,1,41,1,0,5,10,68.6,1,Passed
+1246,54,Bangladesh,Intermediate,8,10.8,57,2,34,0,1,7,5,48.2,0,Failed
+1247,32,India,No prior experience,4,5.5,74,3,45,0,1,5,4,38.3,0,Failed
+1248,29,Bangladesh,Intermediate,11,7.9,67,4,45,1,0,7,3,64.3,1,Passed
+1249,46,UK,No prior experience,11,7.5,53,1,31,0,1,5,5,19.2,0,Failed
+1250,39,Bangladesh,No prior experience,7,11.4,52,0,39,0,1,7,10,36.3,0,Failed
+1251,50,India,Beginner,5,9.9,55,3,43,0,0,7,9,66.8,1,Passed
+1252,49,Germany,Advanced,10,3.1,68,2,34,0,1,4,1,52.8,0,Failed
+1253,18,Pakistan,No prior experience,4,3.4,52,1,31,1,1,7,4,34.6,0,Failed
+1254,52,Brazil,Beginner,5,8.7,39,1,44,0,0,3,7,32.6,0,Failed
+1255,41,UK,No prior experience,5,6.8,56,0,47,1,0,5,4,21.8,0,Failed
+1256,38,Brazil,Intermediate,11,5.6,54,3,37,1,1,11,8,66.8,1,Passed
+1257,54,USA,Beginner,15,10.0,54,4,44,0,1,4,7,50.3,0,Failed
+1258,30,Pakistan,Beginner,9,7.6,60,2,41,0,0,4,5,35.2,0,Failed
+1259,19,Other,No prior experience,12,7.2,58,2,28,1,1,6,10,46.2,0,Failed
+1260,44,Bangladesh,Intermediate,9,9.3,57,2,40,1,0,4,4,54.2,0,Failed
+1261,37,Nigeria,Advanced,6,5.9,63,4,27,0,0,5,8,77.6,1,Passed
+1262,40,India,Beginner,14,11.7,55,3,36,1,0,7,1,50.2,0,Failed
+1263,28,Brazil,Beginner,4,4.6,57,2,43,1,1,4,2,28.2,0,Failed
+1264,33,Bangladesh,Advanced,15,9.0,63,1,44,0,1,3,5,58.3,0,Failed
+1265,48,UK,No prior experience,2,11.3,39,0,48,1,1,7,10,27.7,0,Failed
+1266,31,Brazil,Intermediate,14,2.9,52,1,30,0,1,2,7,47.3,0,Failed
+1267,17,Other,Intermediate,3,6.0,58,2,40,0,1,1,9,53.0,0,Failed
+1268,50,Pakistan,No prior experience,2,10.4,54,2,38,0,0,2,3,18.9,0,Failed
+1269,49,Pakistan,Beginner,5,10.5,72,3,43,0,1,3,5,52.3,0,Failed
+1270,45,Brazil,No prior experience,6,6.5,52,1,44,1,1,2,2,4.8,0,Failed
+1271,28,UK,Beginner,11,4.8,52,0,43,0,0,8,6,33.2,0,Failed
+1272,28,Pakistan,Beginner,5,9.9,56,1,42,0,0,2,6,44.6,0,Failed
+1273,33,Pakistan,No prior experience,2,10.6,61,3,38,1,1,7,4,49.5,0,Failed
+1274,47,Other,Beginner,12,3.5,66,4,46,0,0,2,2,33.5,0,Failed
+1275,47,India,No prior experience,5,3.4,56,0,35,0,0,5,8,9.0,0,Failed
+1276,50,UK,Beginner,9,7.7,57,3,42,0,1,4,8,53.4,0,Failed
+1277,54,UK,No prior experience,4,8.9,61,8,43,0,1,3,1,49.2,0,Failed
+1278,44,Germany,Intermediate,12,6.1,47,1,44,1,0,0,2,27.6,0,Failed
+1279,44,Germany,No prior experience,10,9.0,44,1,41,0,0,2,4,28.8,0,Failed
+1280,31,Pakistan,Intermediate,2,4.9,56,1,43,0,1,4,1,33.6,0,Failed
+1281,25,Nigeria,Beginner,3,0.7,57,1,34,0,1,6,6,38.0,0,Failed
+1282,45,Germany,No prior experience,3,5.7,70,1,40,0,1,5,2,8.8,0,Failed
+1283,40,Pakistan,Intermediate,9,7.2,64,6,44,0,1,5,3,77.8,1,Passed
+1284,54,Indonesia,Beginner,4,6.2,58,2,37,0,1,3,9,45.6,0,Failed
+1285,35,USA,Beginner,15,3.5,62,3,42,0,1,5,7,45.0,0,Failed
+1286,20,USA,No prior experience,1,1.6,58,3,30,0,0,5,4,38.3,0,Failed
+1287,16,UK,Beginner,1,5.5,47,5,54,0,0,8,10,53.4,0,Failed
+1288,45,Nigeria,No prior experience,15,9.7,51,2,60,0,1,4,1,31.6,0,Failed
+1289,18,Other,No prior experience,7,10.8,61,1,36,0,0,4,4,36.6,0,Failed
+1290,29,India,Beginner,7,10.6,46,1,45,1,0,4,10,58.5,0,Failed
+1291,45,Germany,No prior experience,2,4.6,61,2,34,1,0,7,6,26.7,0,Failed
+1292,19,Indonesia,No prior experience,9,3.5,70,2,39,0,1,8,8,28.0,0,Failed
+1293,33,Pakistan,No prior experience,9,8.5,56,1,45,1,1,10,9,42.0,0,Failed
+1294,52,Nigeria,No prior experience,5,8.9,54,0,33,1,0,6,4,29.2,0,Failed
+1295,40,UK,No prior experience,15,8.2,63,0,37,0,1,3,6,30.4,0,Failed
+1296,16,Germany,Advanced,15,1.0,58,1,50,1,0,5,2,39.3,0,Failed
+1297,30,Nigeria,No prior experience,3,4.4,59,2,40,0,1,4,2,15.5,0,Failed
+1298,24,Germany,Beginner,3,6.9,62,0,56,1,1,2,6,39.0,0,Failed
+1299,30,India,No prior experience,12,8.5,58,2,34,0,1,4,9,40.7,0,Failed
+1300,39,India,Advanced,3,9.3,54,1,31,1,0,2,3,61.2,1,Passed
+1301,19,Other,No prior experience,6,7.4,60,1,47,0,0,6,4,21.2,0,Failed
+1302,27,USA,Advanced,4,8.0,56,2,32,0,0,6,9,79.3,1,Passed
+1303,52,Bangladesh,Beginner,8,7.3,65,3,48,1,1,4,9,54.6,0,Failed
+1304,52,Bangladesh,No prior experience,15,9.1,61,3,44,1,1,3,5,49.4,0,Failed
+1305,21,Germany,Intermediate,13,7.9,65,0,37,1,1,6,9,61.9,1,Passed
+1306,54,Other,Beginner,11,7.2,64,4,33,1,0,7,5,62.7,1,Passed
+1307,39,Bangladesh,No prior experience,13,6.2,54,2,43,1,1,8,5,41.1,0,Failed
+1308,26,UK,Intermediate,11,7.2,60,3,35,1,0,2,7,54.3,0,Failed
+1309,28,Bangladesh,Advanced,11,8.5,54,2,36,0,0,4,6,56.0,0,Failed
+1310,49,Brazil,Beginner,5,7.8,59,3,36,0,1,1,10,67.2,1,Passed
+1311,40,Pakistan,No prior experience,1,8.1,55,3,50,0,0,3,7,48.3,0,Failed
+1312,22,Other,Intermediate,9,11.0,68,0,45,1,0,5,10,69.1,1,Passed
+1313,19,UK,Beginner,1,7.8,55,0,34,0,0,5,2,27.0,0,Failed
+1314,23,Nigeria,Intermediate,6,5.1,65,1,41,0,0,6,9,41.1,0,Failed
+1315,35,UK,Beginner,1,9.7,64,3,41,0,0,4,6,50.7,0,Failed
+1316,44,USA,No prior experience,3,2.9,58,2,40,1,1,5,9,25.4,0,Failed
+1317,25,Nigeria,Advanced,15,3.8,51,3,39,0,0,5,1,56.2,0,Failed
+1318,49,Indonesia,No prior experience,10,8.0,48,0,42,0,0,7,2,16.9,0,Failed
+1319,41,Pakistan,No prior experience,5,8.5,68,4,40,0,0,2,7,55.8,0,Failed
+1320,18,Pakistan,Beginner,15,3.3,72,1,37,0,1,6,2,13.4,0,Failed
+1321,21,Pakistan,Beginner,10,5.9,69,1,43,0,1,4,6,45.2,0,Failed
+1322,20,Pakistan,No prior experience,7,5.2,64,5,39,0,1,4,2,28.0,0,Failed
+1323,20,Germany,Intermediate,14,5.5,54,4,40,0,1,3,10,64.6,1,Passed
+1324,38,Pakistan,Beginner,10,9.8,51,0,44,1,0,4,5,46.3,0,Failed
+1325,24,Pakistan,Beginner,8,9.1,53,2,34,1,1,11,6,51.8,0,Failed
+1326,50,Pakistan,Intermediate,12,6.9,60,3,43,0,0,3,7,84.3,1,Passed
+1327,35,Other,Beginner,9,5.4,65,1,34,1,0,2,1,25.0,0,Failed
+1328,50,Germany,No prior experience,6,3.0,56,1,42,1,1,5,2,9.6,0,Failed
+1329,33,India,No prior experience,15,11.3,55,3,43,1,0,2,2,20.4,0,Failed
+1330,32,UK,Advanced,11,8.8,68,3,34,0,0,5,1,68.0,1,Passed
+1331,39,UK,No prior experience,9,4.9,47,2,30,0,1,9,3,19.6,0,Failed
+1332,18,Nigeria,Beginner,8,9.2,58,0,41,1,1,7,6,33.0,0,Failed
+1333,47,Other,Beginner,9,6.8,57,3,38,0,0,6,9,47.7,0,Failed
+1334,50,Brazil,Beginner,10,6.1,57,0,32,0,1,11,3,37.0,0,Failed
+1335,53,UK,No prior experience,4,8.3,58,1,52,0,1,2,3,13.1,0,Failed
+1336,28,Bangladesh,Beginner,9,4.8,48,4,44,1,1,7,2,36.8,0,Failed
+1337,40,Brazil,Beginner,15,6.0,56,2,34,0,1,6,2,36.3,0,Failed
+1338,24,Pakistan,Advanced,7,7.4,55,3,45,0,1,5,7,76.4,1,Passed
+1339,19,Pakistan,No prior experience,5,5.5,55,0,27,1,1,4,4,25.3,0,Failed
+1340,29,Germany,Beginner,5,9.0,62,1,38,1,1,7,6,75.2,1,Passed
+1341,52,Brazil,Beginner,1,12.6,54,3,38,0,1,5,8,60.6,1,Passed
+1342,49,Bangladesh,Beginner,2,4.7,62,1,43,0,1,4,5,19.2,0,Failed
+1343,26,Germany,Beginner,10,2.0,53,0,28,1,0,3,3,2.9,0,Failed
+1344,18,Nigeria,No prior experience,3,1.0,71,1,37,0,1,7,2,35.9,0,Failed
+1345,43,Brazil,No prior experience,14,6.5,63,2,44,1,0,9,6,32.9,0,Failed
+1346,44,Other,Intermediate,14,5.0,70,2,45,1,0,2,8,70.4,1,Passed
+1347,24,Pakistan,Beginner,8,7.6,59,3,32,0,1,7,10,63.5,1,Passed
+1348,18,Pakistan,Beginner,6,7.4,65,3,54,0,0,3,4,34.9,0,Failed
+1349,40,USA,No prior experience,12,2.2,52,3,34,0,1,6,2,9.6,0,Failed
+1350,49,Germany,No prior experience,10,1.6,69,3,51,1,0,6,3,41.7,0,Failed
+1351,27,India,No prior experience,11,7.9,61,3,35,0,1,3,3,24.6,0,Failed
+1352,24,India,No prior experience,13,7.4,59,3,41,0,1,11,9,47.9,0,Failed
+1353,30,Germany,Beginner,15,5.7,66,3,29,0,1,6,10,54.2,0,Failed
+1354,40,Other,Intermediate,14,2.0,56,1,30,0,0,6,4,15.8,0,Failed
+1355,20,Indonesia,No prior experience,5,8.4,58,2,40,0,1,4,6,49.4,0,Failed
+1356,26,Germany,No prior experience,13,10.8,63,3,28,0,0,4,9,33.6,0,Failed
+1357,49,Other,No prior experience,1,7.8,63,0,39,1,0,5,10,32.0,0,Failed
+1358,39,Nigeria,Beginner,12,4.5,66,1,42,0,0,4,8,30.0,0,Failed
+1359,30,Pakistan,No prior experience,11,7.1,63,1,35,0,1,7,9,41.4,0,Failed
+1360,53,Bangladesh,Advanced,12,2.9,60,3,41,1,0,6,6,64.1,1,Passed
+1361,23,Indonesia,Beginner,9,10.2,51,2,38,1,1,11,2,60.7,1,Passed
+1362,20,Brazil,Advanced,3,7.2,77,3,47,1,0,1,5,90.0,1,Passed
+1363,41,Indonesia,Intermediate,3,1.7,63,1,39,0,0,4,10,54.0,0,Failed
+1364,33,Bangladesh,Beginner,2,6.1,68,3,50,0,1,8,3,51.6,0,Failed
+1365,21,USA,Beginner,4,8.4,66,0,34,0,1,1,3,27.3,0,Failed
+1366,52,Pakistan,No prior experience,12,6.0,60,1,37,1,1,3,10,28.4,0,Failed
+1367,28,India,Beginner,2,6.2,56,1,37,1,0,17,1,44.9,0,Failed
+1368,43,Other,Advanced,13,3.3,71,1,49,1,1,5,4,57.5,0,Failed
+1369,20,Germany,No prior experience,9,8.7,65,1,47,0,1,5,7,46.3,0,Failed
+1370,28,Germany,Intermediate,12,5.1,42,2,51,1,0,10,3,59.9,0,Failed
+1371,32,India,No prior experience,10,0.5,65,0,48,1,1,5,7,17.9,0,Failed
+1372,47,Indonesia,Intermediate,7,5.9,64,5,34,0,1,6,6,61.0,1,Passed
+1373,44,Pakistan,Advanced,8,9.9,57,2,30,0,1,2,1,58.0,0,Failed
+1374,18,UK,Beginner,3,5.8,51,1,38,0,0,3,5,37.5,0,Failed
+1375,49,Other,Beginner,6,12.2,41,3,49,0,1,3,6,44.8,0,Failed
+1376,42,Nigeria,Beginner,15,8.3,57,3,44,0,1,10,9,68.1,1,Passed
+1377,28,Bangladesh,Intermediate,10,8.0,63,4,31,1,0,5,10,67.4,1,Passed
+1378,48,Indonesia,Advanced,6,6.6,63,1,49,1,1,6,6,61.4,1,Passed
+1379,21,Brazil,Intermediate,13,6.8,52,4,51,1,1,5,8,63.3,1,Passed
+1380,39,USA,Beginner,1,6.2,63,2,39,0,1,1,2,24.4,0,Failed
+1381,34,Germany,Beginner,6,6.1,58,1,39,0,1,2,1,38.8,0,Failed
+1382,31,Indonesia,Intermediate,13,8.6,53,3,38,1,0,6,1,57.0,0,Failed
+1383,43,USA,Beginner,14,4.2,52,6,44,0,1,10,7,52.4,0,Failed
+1384,48,Bangladesh,Intermediate,3,3.8,56,4,40,0,1,5,8,55.7,0,Failed
+1385,28,Germany,Beginner,11,3.6,53,2,41,1,0,6,8,51.9,0,Failed
+1386,40,Germany,No prior experience,3,13.1,62,0,46,0,1,3,3,27.7,0,Failed
+1387,51,UK,Beginner,3,8.6,52,3,38,0,1,3,5,52.8,0,Failed
+1388,42,Indonesia,Beginner,10,7.9,62,2,36,0,0,2,7,42.5,0,Failed
+1389,53,Pakistan,No prior experience,11,3.8,58,2,29,1,1,2,9,34.2,0,Failed
+1390,22,India,No prior experience,15,8.9,60,3,37,0,1,3,5,28.9,0,Failed
+1391,20,India,Beginner,11,6.7,60,1,33,0,0,8,4,27.8,0,Failed
+1392,46,Nigeria,No prior experience,15,7.6,61,1,28,1,1,9,4,28.1,0,Failed
+1393,38,Brazil,No prior experience,10,4.1,50,1,42,0,1,3,6,21.8,0,Failed
+1394,25,USA,Intermediate,11,7.5,60,4,47,0,0,4,9,65.0,1,Passed
+1395,47,Indonesia,Advanced,8,5.7,58,1,32,0,0,8,1,47.3,0,Failed
+1396,45,Other,Intermediate,13,4.7,68,3,24,0,0,6,1,47.2,0,Failed
+1397,54,Brazil,Advanced,5,9.2,56,4,40,0,0,7,1,64.2,1,Passed
+1398,46,UK,Beginner,4,2.4,63,1,46,1,1,6,4,26.8,0,Failed
+1399,33,Germany,No prior experience,13,8.7,69,2,42,0,0,4,4,32.2,0,Failed
+1400,51,Pakistan,Beginner,9,9.1,77,1,35,1,1,3,8,64.4,1,Passed
+1401,17,Indonesia,Intermediate,9,4.4,50,2,44,0,1,6,5,41.4,0,Failed
+1402,29,Brazil,Beginner,1,4.5,36,1,40,0,0,6,10,31.5,0,Failed
+1403,28,Brazil,No prior experience,2,6.3,58,2,32,0,1,6,4,28.5,0,Failed
+1404,44,Pakistan,Intermediate,8,7.8,70,3,37,0,1,5,8,69.5,1,Passed
+1405,27,Nigeria,No prior experience,5,6.5,61,0,30,0,1,7,7,34.5,0,Failed
+1406,54,USA,Beginner,7,8.3,53,1,44,0,0,4,6,38.6,0,Failed
+1407,17,USA,No prior experience,1,12.3,66,0,49,0,0,8,2,18.3,0,Failed
+1408,47,Brazil,Beginner,12,5.5,70,4,40,1,0,1,5,39.5,0,Failed
+1409,28,Bangladesh,Beginner,10,1.9,53,3,37,0,0,8,2,39.2,0,Failed
+1410,42,Brazil,No prior experience,12,9.5,63,1,35,0,1,8,6,24.2,0,Failed
+1411,32,Brazil,Beginner,5,12.0,65,2,37,1,0,8,9,63.0,1,Passed
+1412,46,Pakistan,Beginner,11,8.2,62,1,34,0,0,3,9,35.7,0,Failed
+1413,49,Germany,Intermediate,12,3.7,63,2,49,1,1,5,6,53.9,0,Failed
+1414,39,Pakistan,Intermediate,3,6.6,63,6,40,1,0,3,4,71.0,1,Passed
+1415,50,Indonesia,Beginner,10,3.6,74,6,38,1,0,3,10,66.8,1,Passed
+1416,21,Brazil,Intermediate,12,8.9,47,2,37,0,1,11,9,64.4,1,Passed
+1417,34,USA,No prior experience,12,2.9,54,2,41,1,1,4,5,9.7,0,Failed
+1418,45,Other,No prior experience,14,6.1,55,3,33,1,0,5,8,30.2,0,Failed
+1419,22,USA,No prior experience,2,4.0,61,2,49,1,0,4,9,25.7,0,Failed
+1420,25,India,Beginner,2,7.4,65,0,31,1,0,5,5,44.4,0,Failed
+1421,47,Nigeria,No prior experience,9,5.9,67,2,33,0,1,8,6,26.8,0,Failed
+1422,49,UK,No prior experience,13,7.5,67,2,43,1,1,3,4,16.7,0,Failed
+1423,43,Indonesia,Beginner,4,7.1,64,2,43,0,0,7,1,44.0,0,Failed
+1424,30,Indonesia,Intermediate,4,4.0,64,4,43,0,0,3,1,51.4,0,Failed
+1425,45,Nigeria,Beginner,7,8.9,69,4,41,0,1,2,5,51.0,0,Failed
+1426,52,Other,No prior experience,10,6.9,51,2,37,0,1,5,3,12.3,0,Failed
+1427,44,UK,Beginner,10,4.0,66,0,52,0,1,3,7,29.5,0,Failed
+1428,37,Germany,Beginner,13,13.7,62,2,32,1,0,8,4,57.9,0,Failed
+1429,19,Brazil,Beginner,2,8.4,66,0,37,1,1,4,4,44.0,0,Failed
+1430,35,UK,No prior experience,3,6.5,60,3,40,1,1,4,4,46.6,0,Failed
+1431,47,Other,Beginner,3,11.2,54,2,43,1,1,8,6,59.6,0,Failed
+1432,51,Bangladesh,Intermediate,6,12.5,55,1,43,0,1,2,9,70.6,1,Passed
+1433,19,India,No prior experience,3,6.6,56,2,44,0,0,8,9,21.4,0,Failed
+1434,42,UK,Advanced,11,8.0,63,3,40,0,0,9,5,63.2,1,Passed
+1435,32,UK,Beginner,5,4.0,66,3,39,0,0,3,8,52.8,0,Failed
+1436,27,India,No prior experience,4,6.6,37,3,33,1,0,6,4,14.2,0,Failed
+1437,37,Brazil,Beginner,3,6.4,67,1,28,1,1,5,8,39.9,0,Failed
+1438,32,UK,No prior experience,8,7.6,62,2,37,0,0,7,10,41.1,0,Failed
+1439,25,India,No prior experience,14,8.0,54,1,47,0,0,4,9,32.8,0,Failed
+1440,16,India,Beginner,10,8.7,60,2,39,0,1,3,8,42.8,0,Failed
+1441,37,India,Intermediate,3,7.7,69,2,32,0,0,5,8,72.8,1,Passed
+1442,41,Pakistan,Advanced,6,3.4,60,1,49,0,0,6,9,49.6,0,Failed
+1443,33,Other,Beginner,13,4.2,53,4,43,0,0,5,10,52.6,0,Failed
+1444,29,Pakistan,No prior experience,15,5.4,69,1,44,0,1,4,8,42.6,0,Failed
+1445,44,Bangladesh,Beginner,7,6.2,67,2,42,1,0,4,4,44.5,0,Failed
+1446,27,Germany,Beginner,7,10.2,68,0,40,0,0,6,5,29.0,0,Failed
+1447,51,Pakistan,Intermediate,2,3.5,52,0,54,1,0,1,10,51.5,0,Failed
+1448,50,Pakistan,Intermediate,14,5.9,64,2,42,1,1,3,6,54.9,0,Failed
+1449,27,Other,Intermediate,3,9.9,58,0,46,0,0,8,5,57.6,0,Failed
+1450,22,Germany,Beginner,12,6.1,60,4,44,1,1,3,9,69.5,1,Passed
+1451,44,Nigeria,Beginner,10,8.4,52,2,39,0,0,4,2,22.8,0,Failed
+1452,26,India,No prior experience,10,6.6,68,0,52,0,0,4,6,25.5,0,Failed
+1453,48,Indonesia,Advanced,15,7.8,61,0,41,0,1,7,10,77.5,1,Passed
+1454,21,Germany,No prior experience,4,6.3,66,5,45,1,0,12,2,45.7,0,Failed
+1455,30,Bangladesh,No prior experience,7,9.0,69,2,45,0,0,2,8,49.1,0,Failed
+1456,47,Brazil,No prior experience,2,2.4,63,1,45,0,1,6,8,23.7,0,Failed
+1457,26,Bangladesh,Intermediate,3,5.9,61,2,41,0,0,8,5,65.8,1,Passed
+1458,38,India,Beginner,7,7.9,63,1,50,0,1,2,10,35.9,0,Failed
+1459,41,Germany,Beginner,7,8.6,58,2,41,1,0,2,8,56.8,0,Failed
+1460,49,Bangladesh,Advanced,15,11.5,57,1,37,1,1,6,5,51.5,0,Failed
+1461,49,Bangladesh,Advanced,10,5.8,46,3,40,0,1,1,4,60.1,1,Passed
+1462,44,Nigeria,No prior experience,3,11.4,60,0,35,0,0,5,9,24.5,0,Failed
+1463,19,Nigeria,No prior experience,12,5.0,57,0,41,1,1,5,8,29.8,0,Failed
+1464,32,Germany,Intermediate,1,11.0,62,1,39,1,0,4,4,54.0,0,Failed
+1465,50,India,Advanced,12,9.5,56,3,49,1,1,3,2,70.7,1,Passed
+1466,28,Pakistan,Beginner,3,4.3,50,3,43,0,0,4,2,26.1,0,Failed
+1467,54,USA,Beginner,5,7.9,61,2,42,0,1,6,2,55.5,0,Failed
+1468,30,UK,No prior experience,7,6.8,68,2,33,1,1,7,10,40.9,0,Failed
+1469,44,Indonesia,Intermediate,4,8.9,59,3,40,0,0,3,8,56.9,0,Failed
+1470,44,UK,Beginner,13,6.3,65,3,39,1,0,6,6,38.2,0,Failed
+1471,26,Other,Beginner,13,6.1,64,2,30,1,0,4,1,27.1,0,Failed
+1472,47,Nigeria,No prior experience,11,11.1,72,1,39,0,1,5,10,36.8,0,Failed
+1473,17,Germany,Advanced,11,6.7,62,1,43,1,0,8,4,61.3,1,Passed
+1474,29,UK,Beginner,15,9.5,56,1,40,0,1,8,3,39.4,0,Failed
+1475,35,India,No prior experience,1,6.3,60,1,52,1,0,10,10,19.7,0,Failed
+1476,37,Indonesia,Beginner,6,12.0,53,0,38,1,0,8,7,45.8,0,Failed
+1477,26,UK,Beginner,2,5.0,53,3,36,1,1,7,10,35.1,0,Failed
+1478,42,Indonesia,Beginner,12,5.2,60,2,36,1,1,4,5,47.5,0,Failed
+1479,18,Brazil,Intermediate,3,11.6,62,3,42,0,1,2,1,58.5,0,Failed
+1480,32,India,Beginner,4,5.7,49,3,39,1,1,5,6,35.1,0,Failed
+1481,43,USA,Advanced,6,11.8,62,2,42,1,1,10,4,77.8,1,Passed
+1482,44,Bangladesh,No prior experience,6,9.7,62,4,42,0,1,6,10,60.9,1,Passed
+1483,36,Indonesia,No prior experience,7,6.5,65,0,38,0,0,7,6,19.4,0,Failed
+1484,31,India,No prior experience,5,1.6,62,0,48,0,1,3,7,12.9,0,Failed
+1485,52,Indonesia,Beginner,7,6.9,72,3,42,0,1,10,9,67.7,1,Passed
+1486,35,Indonesia,Beginner,2,7.3,68,1,35,1,1,6,1,33.1,0,Failed
+1487,21,Pakistan,Intermediate,1,10.5,63,1,45,0,1,3,6,51.9,0,Failed
+1488,34,Pakistan,Intermediate,12,11.8,68,3,37,0,0,7,8,68.0,1,Passed
+1489,20,India,Beginner,10,4.9,56,0,32,0,0,3,4,29.4,0,Failed
+1490,18,Pakistan,Advanced,8,9.4,72,5,44,1,0,7,10,98.1,1,Passed
+1491,16,Other,No prior experience,1,9.3,64,1,52,1,1,6,9,46.5,0,Failed
+1492,53,USA,Intermediate,12,10.2,68,1,36,0,0,2,4,42.5,0,Failed
+1493,30,Germany,Beginner,2,8.5,59,3,38,1,0,7,4,63.7,1,Passed
+1494,49,India,Beginner,11,1.2,54,2,50,0,1,4,9,44.6,0,Failed
+1495,50,India,Intermediate,12,6.5,57,4,44,0,1,0,4,47.5,0,Failed
+1496,40,Other,Beginner,10,3.5,68,5,47,1,0,4,9,62.2,1,Passed
+1497,39,Nigeria,No prior experience,6,6.4,53,0,44,0,1,6,1,4.0,0,Failed
+1498,27,Nigeria,Beginner,1,9.9,64,0,45,0,0,9,8,35.5,0,Failed
+1499,33,Pakistan,Beginner,10,7.9,60,1,50,0,1,2,2,37.7,0,Failed
+1500,30,Germany,Intermediate,3,10.4,48,1,36,0,1,8,8,62.4,1,Passed
+1501,31,Pakistan,Beginner,7,8.0,53,3,45,0,0,2,5,48.2,0,Failed
+1502,42,Brazil,Advanced,12,3.1,60,2,34,0,0,8,1,55.8,0,Failed
+1503,23,Brazil,Beginner,8,0.0,66,3,36,1,0,6,1,34.7,0,Failed
+1504,40,Bangladesh,Beginner,4,7.4,61,0,41,0,0,5,6,36.1,0,Failed
+1505,32,Brazil,Intermediate,12,6.4,54,2,43,0,0,5,1,42.1,0,Failed
+1506,44,Nigeria,Beginner,3,4.1,62,2,53,0,1,2,2,42.2,0,Failed
+1507,23,USA,Advanced,1,1.9,65,3,42,1,0,7,3,55.2,0,Failed
+1508,30,Brazil,Beginner,12,4.8,45,2,36,1,1,3,2,38.6,0,Failed
+1509,42,Pakistan,Beginner,9,6.4,75,3,37,1,1,6,9,44.3,0,Failed
+1510,22,Indonesia,No prior experience,10,9.0,55,5,40,0,1,4,10,47.6,0,Failed
+1511,18,India,Beginner,6,7.6,59,4,33,1,0,2,6,51.5,0,Failed
+1512,44,USA,No prior experience,6,11.8,57,3,38,0,0,3,9,50.5,0,Failed
+1513,39,USA,Intermediate,9,3.9,72,1,32,1,1,5,5,55.2,0,Failed
+1514,18,Pakistan,No prior experience,1,9.6,78,1,30,0,1,9,4,43.6,0,Failed
+1515,35,India,No prior experience,6,7.1,76,3,26,1,0,5,2,33.6,0,Failed
+1516,30,Nigeria,No prior experience,12,9.1,59,2,42,0,1,6,4,31.1,0,Failed
+1517,40,USA,No prior experience,5,5.7,64,2,46,0,0,7,8,41.4,0,Failed
+1518,45,Bangladesh,No prior experience,13,10.2,66,2,27,1,0,4,2,31.9,0,Failed
+1519,29,Pakistan,Intermediate,11,7.9,58,2,36,1,1,10,8,76.7,1,Passed
+1520,22,USA,Intermediate,15,5.0,51,1,36,0,1,5,2,41.9,0,Failed
+1521,32,Germany,Intermediate,6,7.0,45,1,32,1,0,10,1,42.4,0,Failed
+1522,35,India,Intermediate,14,6.3,63,2,41,0,0,7,4,58.6,0,Failed
+1523,51,Brazil,No prior experience,11,8.5,51,4,41,1,0,2,7,42.2,0,Failed
+1524,24,USA,Intermediate,8,3.5,51,3,36,1,1,3,2,46.4,0,Failed
+1525,53,Pakistan,No prior experience,5,6.9,54,0,31,0,0,5,3,5.3,0,Failed
+1526,37,Brazil,No prior experience,2,8.2,70,4,30,0,0,2,6,37.5,0,Failed
+1527,17,Bangladesh,Beginner,12,7.1,65,1,31,0,0,1,2,25.4,0,Failed
+1528,39,Brazil,No prior experience,12,11.0,57,3,30,0,0,3,9,44.9,0,Failed
+1529,23,Germany,Intermediate,2,9.3,52,3,46,1,1,7,6,69.2,1,Passed
+1530,26,Nigeria,Beginner,10,7.0,46,1,48,1,0,8,6,38.8,0,Failed
+1531,28,USA,Intermediate,5,7.7,79,2,36,1,1,9,8,70.3,1,Passed
+1532,32,UK,Beginner,3,7.9,51,4,35,0,0,4,1,44.2,0,Failed
+1533,23,UK,No prior experience,10,8.2,62,4,38,0,1,0,10,31.1,0,Failed
+1534,36,Brazil,Intermediate,3,1.5,66,2,44,0,0,5,3,27.6,0,Failed
+1535,33,Other,No prior experience,8,6.1,68,0,45,1,1,2,2,15.5,0,Failed
+1536,45,India,Beginner,7,2.5,61,3,44,0,0,7,1,40.8,0,Failed
+1537,33,UK,No prior experience,1,10.8,66,1,42,1,1,4,6,49.8,0,Failed
+1538,46,Other,Beginner,12,6.8,55,1,36,0,1,2,4,20.9,0,Failed
+1539,53,UK,Beginner,13,6.4,51,0,33,1,1,3,6,58.1,0,Failed
+1540,47,Other,Beginner,12,9.7,54,5,34,0,0,5,8,54.8,0,Failed
+1541,26,India,Advanced,5,8.3,48,4,51,1,1,5,7,71.5,1,Passed
+1542,40,Indonesia,Intermediate,9,3.6,67,3,37,0,0,4,3,28.1,0,Failed
+1543,48,UK,Intermediate,4,6.8,55,4,37,1,1,6,3,55.5,0,Failed
+1544,53,Germany,Intermediate,1,6.0,55,1,38,1,0,8,6,48.1,0,Failed
+1545,23,USA,No prior experience,8,1.8,46,1,41,0,0,5,1,13.1,0,Failed
+1546,26,Other,Beginner,5,4.9,61,3,41,0,0,7,3,45.6,0,Failed
+1547,37,USA,No prior experience,2,6.4,57,2,46,1,0,1,8,39.2,0,Failed
+1548,39,Pakistan,No prior experience,15,6.7,61,1,47,0,0,5,3,34.6,0,Failed
+1549,32,Pakistan,Advanced,12,2.6,65,2,40,1,0,2,1,65.9,1,Passed
+1550,27,India,Beginner,1,10.5,68,2,46,1,1,4,10,79.6,1,Passed
+1551,47,Other,Beginner,14,6.7,71,2,44,0,1,5,9,55.6,0,Failed
+1552,30,Bangladesh,No prior experience,12,7.1,71,0,46,0,0,4,2,13.2,0,Failed
+1553,31,Pakistan,Beginner,12,8.2,59,3,35,1,0,5,7,61.1,1,Passed
+1554,37,India,No prior experience,12,4.6,75,4,33,1,1,4,8,36.9,0,Failed
+1555,43,Pakistan,No prior experience,3,8.4,74,5,41,1,0,5,3,50.8,0,Failed
+1556,35,Pakistan,No prior experience,9,5.9,62,1,34,0,1,8,7,25.9,0,Failed
+1557,48,Bangladesh,Beginner,1,4.3,56,3,31,1,1,3,10,44.7,0,Failed
+1558,25,UK,Beginner,4,8.7,65,1,37,0,1,5,4,28.3,0,Failed
+1559,47,Brazil,No prior experience,8,11.5,55,3,38,1,1,9,2,45.2,0,Failed
+1560,48,Indonesia,Intermediate,8,9.2,59,1,33,0,1,8,4,46.5,0,Failed
+1561,17,Pakistan,No prior experience,10,9.8,67,1,43,0,0,8,8,42.9,0,Failed
+1562,48,Pakistan,Beginner,12,5.4,69,1,41,0,0,2,2,27.5,0,Failed
+1563,48,Germany,Advanced,11,2.2,64,3,30,0,0,10,6,61.0,1,Passed
+1564,28,Indonesia,Beginner,13,11.5,60,3,43,1,1,1,10,64.3,1,Passed
+1565,45,Bangladesh,Intermediate,11,13.2,56,1,37,0,0,0,3,41.4,0,Failed
+1566,48,USA,Advanced,8,11.6,60,2,37,0,1,5,3,64.6,1,Passed
+1567,28,Other,Beginner,10,6.0,48,2,34,0,0,1,6,26.6,0,Failed
+1568,41,Pakistan,Intermediate,8,3.5,60,0,34,0,0,6,3,25.8,0,Failed
+1569,37,Brazil,Intermediate,4,3.8,53,1,40,0,0,6,2,27.4,0,Failed
+1570,54,Other,Beginner,8,1.9,47,1,37,0,1,1,2,8.1,0,Failed
+1571,17,Indonesia,No prior experience,9,6.7,62,2,39,0,1,7,3,20.3,0,Failed
+1572,53,Other,Advanced,7,11.8,61,3,30,0,1,5,2,66.7,1,Passed
+1573,54,UK,Intermediate,14,6.6,62,2,38,0,1,5,6,59.7,0,Failed
+1574,41,Pakistan,No prior experience,12,7.9,53,2,41,0,1,6,4,29.4,0,Failed
+1575,30,Other,Beginner,2,11.1,60,1,37,1,1,2,1,33.3,0,Failed
+1576,49,USA,Intermediate,9,5.8,59,2,42,1,0,2,3,43.5,0,Failed
+1577,26,USA,Beginner,11,13.1,65,1,46,1,0,4,10,47.4,0,Failed
+1578,18,Pakistan,Beginner,8,13.0,53,0,36,1,0,9,3,46.1,0,Failed
+1579,21,Nigeria,Intermediate,13,6.6,71,2,36,1,1,5,4,55.1,0,Failed
+1580,24,USA,Beginner,5,5.3,68,1,46,0,0,4,6,29.5,0,Failed
+1581,21,Other,Beginner,15,9.1,61,2,32,0,0,6,1,55.4,0,Failed
+1582,24,India,Intermediate,12,6.0,66,4,35,1,1,5,2,57.4,0,Failed
+1583,54,USA,Intermediate,3,3.5,57,1,37,1,0,10,10,57.7,0,Failed
+1584,46,Indonesia,Beginner,7,10.8,63,5,44,0,1,6,3,59.6,0,Failed
+1585,47,Nigeria,Beginner,14,10.6,62,3,34,0,1,11,5,49.8,0,Failed
+1586,27,Other,Beginner,14,7.5,50,0,34,1,1,7,7,41.1,0,Failed
+1587,23,Bangladesh,Advanced,15,3.2,59,1,37,1,1,1,1,40.3,0,Failed
+1588,23,Germany,No prior experience,2,3.3,61,1,39,0,1,7,2,18.8,0,Failed
+1589,43,Bangladesh,No prior experience,13,7.3,67,1,32,1,1,3,4,23.6,0,Failed
+1590,35,UK,Beginner,3,5.5,47,3,38,1,0,3,10,45.8,0,Failed
+1591,22,Germany,Intermediate,12,6.0,80,0,44,0,1,2,1,49.0,0,Failed
+1592,26,UK,No prior experience,9,10.1,66,0,48,1,1,5,1,26.7,0,Failed
+1593,35,Germany,No prior experience,4,9.2,56,1,51,1,0,6,9,38.9,0,Failed
+1594,31,Germany,No prior experience,4,11.1,63,3,52,0,0,3,6,44.0,0,Failed
+1595,19,India,Intermediate,3,4.0,46,5,43,1,0,9,2,62.7,1,Passed
+1596,21,Brazil,No prior experience,5,6.0,65,3,44,0,1,2,10,59.0,0,Failed
+1597,37,Indonesia,Beginner,3,9.3,66,2,51,1,0,3,7,49.8,0,Failed
+1598,41,Bangladesh,Beginner,9,8.3,58,1,51,1,1,3,10,51.0,0,Failed
+1599,18,USA,Intermediate,15,11.6,63,5,52,0,0,4,6,72.2,1,Passed
+1600,29,Other,Beginner,3,8.3,47,0,34,0,0,5,6,30.1,0,Failed
+1601,26,Nigeria,No prior experience,2,12.5,61,2,33,1,0,3,8,47.2,0,Failed
+1602,33,Indonesia,Beginner,12,8.6,53,2,36,1,1,5,10,59.2,0,Failed
+1603,27,UK,Advanced,5,10.2,51,4,41,0,0,4,3,79.8,1,Passed
+1604,38,India,Beginner,6,6.0,60,4,51,1,0,5,10,56.7,0,Failed
+1605,27,UK,Advanced,1,7.0,51,1,47,0,1,3,2,54.7,0,Failed
+1606,28,Brazil,Intermediate,14,9.7,58,4,63,0,1,4,9,69.2,1,Passed
+1607,40,Nigeria,No prior experience,12,11.8,67,0,44,1,1,7,5,30.8,0,Failed
+1608,34,India,Beginner,11,9.2,63,2,34,1,1,7,6,60.8,1,Passed
+1609,51,UK,No prior experience,6,6.8,61,3,36,1,1,4,7,35.5,0,Failed
+1610,23,Brazil,Beginner,10,11.1,67,2,41,0,1,4,2,42.4,0,Failed
+1611,44,Other,No prior experience,3,0.4,62,3,24,0,1,7,6,8.6,0,Failed
+1612,47,Other,No prior experience,4,2.7,69,2,49,1,0,7,1,26.5,0,Failed
+1613,33,UK,Advanced,6,9.0,65,4,41,0,0,5,9,69.2,1,Passed
+1614,21,Indonesia,No prior experience,8,7.0,57,3,43,0,0,3,6,18.3,0,Failed
+1615,33,Nigeria,Intermediate,15,8.8,60,3,46,1,1,2,7,71.7,1,Passed
+1616,34,Pakistan,No prior experience,9,7.2,67,2,53,1,1,4,5,33.0,0,Failed
+1617,37,Indonesia,No prior experience,6,8.7,69,1,39,0,0,1,2,23.6,0,Failed
+1618,52,Other,Intermediate,7,4.6,65,7,40,0,1,6,4,68.4,1,Passed
+1619,47,Nigeria,Beginner,15,8.7,61,1,34,1,1,5,5,51.7,0,Failed
+1620,18,Brazil,Intermediate,14,10.0,62,0,30,1,1,8,10,74.6,1,Passed
+1621,43,India,No prior experience,5,10.7,69,0,37,0,1,10,2,39.3,0,Failed
+1622,25,Germany,Beginner,14,13.0,58,2,31,0,1,4,9,58.3,0,Failed
+1623,50,UK,Intermediate,12,7.7,58,0,38,0,0,5,2,30.3,0,Failed
+1624,44,Bangladesh,Beginner,15,7.8,66,3,34,1,0,3,2,43.9,0,Failed
+1625,30,Nigeria,Beginner,9,2.4,59,1,43,0,1,5,2,17.2,0,Failed
+1626,48,USA,Advanced,4,5.4,53,2,28,1,1,4,2,49.8,0,Failed
+1627,22,Brazil,Beginner,10,6.4,52,1,42,0,1,6,5,51.3,0,Failed
+1628,27,Pakistan,Advanced,11,10.2,57,2,41,0,0,8,7,80.3,1,Passed
+1629,45,Germany,Intermediate,6,5.2,51,2,43,1,0,2,1,37.8,0,Failed
+1630,36,USA,Intermediate,5,9.4,48,4,29,0,0,5,9,67.0,1,Passed
+1631,46,Pakistan,No prior experience,1,7.0,48,1,41,1,1,9,6,24.6,0,Failed
+1632,39,Bangladesh,Beginner,5,6.5,61,2,42,0,1,9,1,39.9,0,Failed
+1633,35,Other,Intermediate,13,7.7,58,2,45,0,1,10,1,49.0,0,Failed
+1634,52,Indonesia,No prior experience,5,5.8,48,3,49,0,1,7,9,45.0,0,Failed
+1635,19,UK,No prior experience,14,5.7,60,0,47,0,0,3,9,21.5,0,Failed
+1636,43,India,No prior experience,9,1.9,66,3,34,0,0,3,1,5.8,0,Failed
+1637,35,Pakistan,No prior experience,1,6.3,66,3,30,1,1,7,1,41.2,0,Failed
+1638,39,Germany,Advanced,15,5.6,63,1,41,0,0,3,5,58.1,0,Failed
+1639,47,Nigeria,Intermediate,5,5.5,64,2,47,1,1,10,5,62.4,1,Passed
+1640,51,Other,Beginner,15,8.3,50,1,30,0,1,5,7,26.2,0,Failed
+1641,49,Nigeria,No prior experience,7,9.0,63,0,44,0,0,5,4,21.7,0,Failed
+1642,51,Germany,Intermediate,11,7.7,74,3,44,0,0,5,10,64.9,1,Passed
+1643,17,Nigeria,Beginner,6,10.0,85,3,36,1,0,4,1,30.7,0,Failed
+1644,30,Pakistan,Advanced,6,8.7,61,0,50,0,0,4,6,58.8,0,Failed
+1645,49,Brazil,Beginner,12,6.1,61,2,38,0,1,5,10,48.4,0,Failed
+1646,51,Nigeria,No prior experience,7,5.6,62,2,37,0,1,6,3,33.4,0,Failed
+1647,21,Indonesia,Beginner,6,7.9,65,5,38,0,1,7,7,59.0,0,Failed
+1648,54,Bangladesh,Advanced,5,8.7,67,2,52,0,1,3,1,56.3,0,Failed
+1649,27,India,Beginner,10,11.2,53,0,49,0,0,5,4,33.1,0,Failed
+1650,18,Pakistan,Beginner,5,10.6,46,0,34,0,1,4,10,47.2,0,Failed
+1651,33,USA,No prior experience,9,5.4,56,2,30,0,1,6,9,39.9,0,Failed
+1652,36,Germany,Intermediate,14,6.7,60,2,39,1,0,3,10,61.2,1,Passed
+1653,30,Other,Intermediate,8,9.0,52,2,44,1,1,2,6,54.4,0,Failed
+1654,48,Pakistan,No prior experience,14,10.2,58,3,52,1,1,8,2,39.0,0,Failed
+1655,50,Brazil,Beginner,12,9.8,61,1,36,0,1,3,6,50.0,0,Failed
+1656,41,Other,No prior experience,15,6.8,68,1,42,0,1,8,9,44.8,0,Failed
+1657,23,Indonesia,No prior experience,10,3.2,66,2,41,1,1,4,1,27.4,0,Failed
+1658,51,Germany,No prior experience,14,4.0,66,1,56,0,0,3,5,17.3,0,Failed
+1659,45,Other,No prior experience,4,7.8,72,2,43,0,1,3,8,41.6,0,Failed
+1660,38,Nigeria,Beginner,4,8.0,55,4,43,1,1,7,7,66.5,1,Passed
+1661,29,Pakistan,No prior experience,10,3.7,56,4,43,1,1,1,10,37.4,0,Failed
+1662,29,Bangladesh,No prior experience,5,7.1,60,1,31,1,0,6,2,25.5,0,Failed
+1663,17,Germany,Intermediate,13,8.9,60,3,41,1,0,7,8,76.0,1,Passed
+1664,52,UK,Beginner,13,3.5,54,1,32,1,1,6,9,43.2,0,Failed
+1665,20,Indonesia,Beginner,3,10.3,60,2,35,1,1,6,10,67.9,1,Passed
+1666,53,India,Beginner,15,5.9,49,2,33,0,0,1,8,53.4,0,Failed
+1667,29,Germany,Beginner,8,10.8,57,3,31,1,1,5,6,51.3,0,Failed
+1668,54,Brazil,No prior experience,7,5.4,57,1,31,1,0,0,9,33.8,0,Failed
+1669,40,Pakistan,Intermediate,5,3.9,56,2,35,0,1,5,8,52.6,0,Failed
+1670,35,Nigeria,No prior experience,10,5.6,63,2,49,0,0,5,4,23.5,0,Failed
+1671,17,India,Beginner,3,6.7,65,2,41,0,1,5,6,41.1,0,Failed
+1672,54,India,No prior experience,15,5.8,59,1,35,1,1,9,5,29.1,0,Failed
+1673,21,Indonesia,Intermediate,5,6.4,54,0,38,0,0,8,10,46.9,0,Failed
+1674,32,Other,Beginner,3,8.0,61,1,36,0,0,3,9,42.6,0,Failed
+1675,40,Brazil,Beginner,10,6.5,70,2,34,0,0,3,4,27.2,0,Failed
+1676,43,Other,No prior experience,5,6.8,62,1,38,1,1,8,1,23.5,0,Failed
+1677,17,Nigeria,Beginner,1,1.9,58,3,43,1,1,8,9,40.6,0,Failed
+1678,50,India,Advanced,6,8.2,45,1,36,0,1,8,9,65.3,1,Passed
+1679,52,Brazil,Intermediate,10,6.7,68,4,47,0,1,3,7,67.2,1,Passed
+1680,20,Brazil,No prior experience,4,11.8,51,2,38,0,1,0,5,25.3,0,Failed
+1681,16,USA,Beginner,4,4.2,62,2,32,0,1,5,7,32.6,0,Failed
+1682,27,Pakistan,Advanced,8,1.6,67,0,32,0,1,5,9,48.5,0,Failed
+1683,51,India,Beginner,2,8.9,60,2,52,0,0,3,3,36.0,0,Failed
+1684,38,India,Beginner,4,8.0,60,6,39,0,1,9,5,65.7,1,Passed
+1685,46,Brazil,Advanced,15,4.0,72,2,45,0,0,11,3,59.3,0,Failed
+1686,26,Other,Intermediate,2,2.4,57,2,44,0,1,2,8,54.5,0,Failed
+1687,25,India,Beginner,1,11.6,63,0,50,1,0,5,1,40.8,0,Failed
+1688,18,Brazil,Beginner,10,11.2,60,4,40,0,0,8,4,61.2,1,Passed
+1689,29,India,No prior experience,13,0.0,61,1,40,0,0,4,7,9.8,0,Failed
+1690,31,Brazil,Intermediate,13,5.6,67,1,36,0,1,1,9,40.1,0,Failed
+1691,25,USA,No prior experience,3,12.0,66,3,39,0,0,6,10,51.4,0,Failed
+1692,44,Pakistan,No prior experience,12,5.6,52,2,31,0,1,9,2,4.3,0,Failed
+1693,25,Brazil,Beginner,8,5.5,65,4,49,0,0,6,9,52.3,0,Failed
+1694,27,India,No prior experience,6,6.2,67,1,44,1,0,4,6,31.6,0,Failed
+1695,45,Nigeria,Beginner,12,3.6,59,1,38,0,0,6,7,23.8,0,Failed
+1696,16,Pakistan,Beginner,7,1.9,59,4,41,0,0,5,4,19.5,0,Failed
+1697,20,USA,Beginner,2,10.2,63,4,41,1,0,5,5,53.8,0,Failed
+1698,35,Brazil,Beginner,6,1.5,67,5,36,0,0,4,1,37.2,0,Failed
+1699,23,Nigeria,Advanced,14,7.7,64,1,46,1,0,7,4,60.0,1,Passed
+1700,27,Brazil,No prior experience,8,9.7,54,0,36,0,0,4,8,15.7,0,Failed
+1701,16,Other,Intermediate,8,2.6,55,4,40,0,0,2,6,45.4,0,Failed
+1702,35,India,Advanced,4,4.2,68,2,42,0,1,4,7,67.4,1,Passed
+1703,43,Germany,Beginner,6,10.6,61,1,28,0,0,5,1,33.7,0,Failed
+1704,52,Indonesia,Beginner,14,8.6,73,4,40,1,0,2,7,66.9,1,Passed
+1705,52,Bangladesh,Advanced,5,5.1,63,0,42,0,0,1,6,45.0,0,Failed
+1706,27,Other,No prior experience,9,10.6,53,3,35,0,1,6,4,25.1,0,Failed
+1707,52,Nigeria,Beginner,8,10.6,54,1,30,1,0,9,2,55.3,0,Failed
+1708,43,Other,Beginner,2,7.8,57,2,45,0,1,7,2,43.7,0,Failed
+1709,30,UK,No prior experience,12,4.3,82,1,40,1,1,6,7,42.7,0,Failed
+1710,21,Brazil,Intermediate,13,5.8,65,4,40,0,0,6,3,56.0,0,Failed
+1711,35,Brazil,Intermediate,7,7.9,53,1,42,1,0,5,2,43.6,0,Failed
+1712,29,Bangladesh,Intermediate,7,6.4,56,4,43,1,0,5,10,81.2,1,Passed
+1713,17,Bangladesh,No prior experience,11,9.8,63,0,41,0,0,5,3,34.1,0,Failed
+1714,24,UK,No prior experience,14,2.4,67,3,46,0,0,3,10,20.3,0,Failed
+1715,52,India,Beginner,14,2.5,71,1,49,0,0,3,2,19.7,0,Failed
+1716,35,Indonesia,No prior experience,12,7.5,58,2,48,0,1,8,3,21.7,0,Failed
+1717,41,Germany,Beginner,1,5.5,57,0,48,0,0,5,5,34.4,0,Failed
+1718,44,Germany,Beginner,1,5.1,65,1,44,1,0,4,10,38.9,0,Failed
+1719,16,USA,Beginner,12,1.7,45,2,43,0,1,2,10,38.2,0,Failed
+1720,50,USA,Beginner,4,7.1,67,1,33,0,0,4,10,52.3,0,Failed
+1721,21,India,Beginner,5,6.8,55,1,36,0,0,10,5,52.8,0,Failed
+1722,52,USA,No prior experience,15,9.0,49,1,45,0,1,1,7,18.0,0,Failed
+1723,20,USA,No prior experience,4,7.2,54,2,40,0,0,5,10,43.2,0,Failed
+1724,48,UK,Beginner,7,6.6,51,1,40,0,1,2,3,27.9,0,Failed
+1725,29,UK,Beginner,3,10.5,61,0,31,0,0,3,3,49.6,0,Failed
+1726,27,USA,Intermediate,7,3.1,61,3,38,0,1,4,7,61.4,1,Passed
+1727,35,Other,Intermediate,13,8.6,73,2,42,1,1,4,6,73.0,1,Passed
+1728,39,Pakistan,Advanced,8,2.0,57,1,46,1,0,8,6,47.7,0,Failed
+1729,49,Pakistan,No prior experience,6,4.5,51,2,33,0,0,3,4,13.4,0,Failed
+1730,40,India,No prior experience,6,3.4,62,1,42,1,0,2,4,17.9,0,Failed
+1731,44,Germany,No prior experience,8,9.3,47,2,35,0,1,5,2,19.9,0,Failed
+1732,54,Bangladesh,Intermediate,8,6.8,58,0,43,1,1,4,6,54.4,0,Failed
+1733,46,India,Beginner,7,7.0,59,3,39,0,0,5,10,67.6,1,Passed
+1734,38,USA,Intermediate,6,3.7,61,2,41,1,1,6,3,42.8,0,Failed
+1735,53,UK,Beginner,6,6.1,72,1,40,1,1,4,6,38.3,0,Failed
+1736,35,Brazil,Advanced,10,4.7,53,3,34,1,1,6,3,56.3,0,Failed
+1737,38,Other,Advanced,11,8.2,50,3,38,1,0,6,3,77.7,1,Passed
+1738,31,Nigeria,No prior experience,13,4.0,56,2,24,0,1,1,1,8.3,0,Failed
+1739,23,UK,Beginner,13,11.0,61,2,49,0,0,2,5,61.5,1,Passed
+1740,36,Pakistan,Beginner,6,2.0,56,2,37,1,1,2,2,32.7,0,Failed
+1741,16,UK,No prior experience,8,4.6,77,2,40,0,0,3,10,37.0,0,Failed
+1742,23,Other,Beginner,1,12.0,45,3,33,0,0,5,2,60.7,1,Passed
+1743,44,Bangladesh,Beginner,5,5.7,50,2,34,0,1,7,9,38.9,0,Failed
+1744,47,USA,No prior experience,3,3.1,63,1,43,1,1,1,2,0.0,0,Failed
+1745,53,Brazil,Beginner,12,7.7,59,2,44,0,0,3,2,30.4,0,Failed
+1746,20,Pakistan,Beginner,8,5.6,58,3,46,1,1,3,6,45.8,0,Failed
+1747,37,Pakistan,No prior experience,11,4.5,67,2,39,1,0,5,10,36.8,0,Failed
+1748,49,Indonesia,Beginner,6,3.7,59,2,39,0,0,7,1,34.2,0,Failed
+1749,16,Germany,No prior experience,14,15.3,56,2,44,0,0,7,8,53.2,0,Failed
+1750,41,Bangladesh,Intermediate,2,6.2,57,3,36,1,0,5,1,53.5,0,Failed
+1751,25,Pakistan,No prior experience,15,1.2,64,2,37,1,1,6,9,27.2,0,Failed
+1752,45,Germany,Intermediate,13,11.5,62,4,37,0,0,6,4,74.4,1,Passed
+1753,33,Pakistan,Beginner,7,8.8,65,2,39,0,0,3,3,43.6,0,Failed
+1754,32,USA,No prior experience,7,4.7,70,1,39,0,1,6,7,36.9,0,Failed
+1755,41,Germany,Beginner,13,4.2,59,2,31,0,0,5,8,43.1,0,Failed
+1756,23,Other,Beginner,5,9.0,74,2,49,0,1,5,5,58.3,0,Failed
+1757,27,Indonesia,Beginner,8,6.3,73,2,40,1,1,5,3,65.7,1,Passed
+1758,42,USA,Beginner,14,1.2,54,2,50,1,0,5,4,26.7,0,Failed
+1759,23,Other,Beginner,5,12.4,59,3,42,1,0,4,10,75.1,1,Passed
+1760,40,Brazil,No prior experience,1,5.7,59,1,32,0,1,11,6,27.4,0,Failed
+1761,19,Bangladesh,No prior experience,9,11.5,54,3,31,0,1,4,5,37.2,0,Failed
+1762,48,Bangladesh,Intermediate,4,10.8,73,3,47,0,1,8,4,70.4,1,Passed
+1763,16,Nigeria,Beginner,13,4.0,62,3,48,1,1,4,3,47.4,0,Failed
+1764,34,Nigeria,Beginner,2,10.1,60,2,36,0,1,5,6,49.7,0,Failed
+1765,46,Germany,Intermediate,4,5.0,52,3,43,1,0,5,7,42.8,0,Failed
+1766,31,Bangladesh,Beginner,14,1.4,50,2,45,1,1,6,2,23.6,0,Failed
+1767,29,Germany,Intermediate,13,5.7,46,3,46,1,0,2,6,64.1,1,Passed
+1768,20,Nigeria,No prior experience,9,8.2,66,1,40,0,0,6,3,29.7,0,Failed
+1769,41,Brazil,No prior experience,2,5.6,75,1,29,1,0,9,10,18.7,0,Failed
+1770,43,Pakistan,Advanced,4,6.1,61,2,33,0,0,8,8,61.2,1,Passed
+1771,17,Other,Beginner,2,10.4,58,2,48,1,1,5,2,39.6,0,Failed
+1772,21,UK,Intermediate,5,7.3,52,3,33,0,0,9,5,41.9,0,Failed
+1773,24,Germany,No prior experience,3,4.5,71,3,40,0,0,6,8,34.0,0,Failed
+1774,48,Brazil,Beginner,10,9.1,63,3,46,0,0,3,9,66.2,1,Passed
+1775,40,Other,Intermediate,2,7.6,59,2,32,0,0,8,7,50.1,0,Failed
+1776,28,Bangladesh,No prior experience,14,0.0,74,1,33,1,1,3,9,16.6,0,Failed
+1777,24,Pakistan,Intermediate,9,8.3,50,2,41,0,1,3,9,57.2,0,Failed
+1778,28,Other,Beginner,5,8.2,77,2,43,1,1,6,8,45.0,0,Failed
+1779,46,Indonesia,Beginner,10,7.1,60,3,29,0,1,6,7,67.5,1,Passed
+1780,26,Nigeria,Beginner,5,9.7,59,1,41,0,1,3,6,51.3,0,Failed
+1781,19,Other,Intermediate,1,5.0,67,2,41,0,0,3,3,46.6,0,Failed
+1782,49,UK,No prior experience,6,8.0,70,1,37,0,1,7,8,30.3,0,Failed
+1783,53,Brazil,No prior experience,13,2.3,58,3,33,1,0,4,3,8.1,0,Failed
+1784,19,Pakistan,Intermediate,7,8.2,57,1,54,0,1,4,9,53.1,0,Failed
+1785,53,USA,Intermediate,1,12.9,73,1,45,1,1,7,9,86.6,1,Passed
+1786,34,Other,No prior experience,9,4.0,57,6,36,0,1,4,10,40.6,0,Failed
+1787,21,India,Beginner,8,4.7,63,2,47,0,0,8,10,47.6,0,Failed
+1788,49,UK,Beginner,12,4.9,61,1,37,0,0,4,9,38.6,0,Failed
+1789,33,UK,Beginner,14,7.4,65,2,37,1,1,6,4,73.1,1,Passed
+1790,28,India,No prior experience,14,3.8,67,2,36,1,1,2,9,26.3,0,Failed
+1791,38,Indonesia,Beginner,8,8.3,62,0,38,0,1,6,2,24.1,0,Failed
+1792,34,USA,No prior experience,7,9.5,59,3,25,0,0,6,1,13.5,0,Failed
+1793,26,Nigeria,Intermediate,5,8.6,35,2,37,1,1,4,8,52.1,0,Failed
+1794,16,Brazil,Intermediate,3,1.7,45,4,43,1,1,7,6,72.2,1,Passed
+1795,39,Pakistan,Beginner,15,10.0,60,3,42,0,0,2,10,62.6,1,Passed
+1796,22,Brazil,No prior experience,12,9.8,48,3,34,1,1,6,9,57.1,0,Failed
+1797,40,USA,No prior experience,14,9.5,56,1,33,0,0,6,9,37.0,0,Failed
+1798,36,Brazil,Beginner,9,8.1,63,1,42,0,1,8,3,38.1,0,Failed
+1799,30,India,Intermediate,14,7.7,57,5,33,1,0,3,2,66.6,1,Passed
+1800,16,UK,Beginner,7,10.1,54,1,40,1,1,4,7,41.6,0,Failed
+1801,27,Brazil,Beginner,11,12.8,53,1,47,1,0,4,5,55.0,0,Failed
+1802,22,Germany,Beginner,10,4.1,67,3,32,0,0,5,10,56.6,0,Failed
+1803,30,Other,No prior experience,10,10.2,52,2,28,0,1,2,6,39.5,0,Failed
+1804,36,USA,No prior experience,8,6.7,69,6,40,1,0,0,5,43.2,0,Failed
+1805,34,Indonesia,No prior experience,14,6.6,56,1,34,1,1,3,4,31.3,0,Failed
+1806,44,Germany,No prior experience,6,2.4,49,4,33,1,0,5,1,8.7,0,Failed
+1807,40,India,Beginner,12,6.1,46,1,34,0,1,5,4,36.3,0,Failed
+1808,48,Bangladesh,Intermediate,14,4.0,58,2,36,0,0,10,10,59.0,0,Failed
+1809,47,India,Intermediate,11,5.6,42,1,41,0,1,7,3,34.5,0,Failed
+1810,50,Indonesia,No prior experience,14,3.7,66,4,43,0,0,5,3,18.0,0,Failed
+1811,53,Indonesia,No prior experience,5,5.7,65,0,47,0,0,3,5,15.6,0,Failed
+1812,41,Germany,No prior experience,15,5.8,58,1,41,0,1,8,1,17.5,0,Failed
+1813,26,Other,No prior experience,8,7.3,77,2,47,1,0,1,6,29.6,0,Failed
+1814,50,USA,Beginner,3,2.2,60,0,28,1,1,10,2,13.8,0,Failed
+1815,23,Nigeria,Beginner,12,2.7,63,1,37,1,0,1,1,27.9,0,Failed
+1816,29,UK,No prior experience,13,8.1,63,0,43,1,1,4,8,38.8,0,Failed
+1817,25,Germany,No prior experience,13,4.6,66,2,43,0,1,6,10,51.7,0,Failed
+1818,17,Indonesia,No prior experience,7,10.2,59,2,31,1,1,5,3,28.4,0,Failed
+1819,24,Bangladesh,No prior experience,2,7.7,59,3,42,1,0,7,6,38.8,0,Failed
+1820,18,Pakistan,Intermediate,3,8.8,60,2,45,1,0,8,2,64.0,1,Passed
+1821,36,Indonesia,No prior experience,15,11.2,55,0,34,0,0,3,5,32.0,0,Failed
+1822,41,Other,Beginner,13,6.1,56,1,40,0,1,5,9,45.4,0,Failed
+1823,23,Other,Beginner,12,5.3,46,1,38,1,1,8,7,45.0,0,Failed
+1824,17,Indonesia,Intermediate,15,9.6,55,4,23,1,1,7,4,62.1,1,Passed
+1825,21,Other,Intermediate,2,8.5,61,0,41,1,1,9,3,52.5,0,Failed
+1826,43,Germany,Intermediate,5,6.4,52,2,35,1,0,2,9,48.5,0,Failed
+1827,44,Indonesia,No prior experience,7,11.2,47,0,44,0,0,8,4,29.7,0,Failed
+1828,41,Indonesia,Beginner,11,6.4,60,1,32,1,0,3,5,44.5,0,Failed
+1829,40,USA,Intermediate,10,7.1,63,1,33,1,1,4,6,81.8,1,Passed
+1830,27,UK,No prior experience,11,7.1,60,2,39,1,0,2,10,47.8,0,Failed
+1831,20,Bangladesh,Beginner,11,4.2,60,3,34,1,1,7,5,31.1,0,Failed
+1832,49,Other,Intermediate,11,7.2,65,1,44,0,0,2,9,46.6,0,Failed
+1833,52,USA,Beginner,15,11.2,62,2,36,1,0,4,1,57.1,0,Failed
+1834,30,Nigeria,No prior experience,10,8.3,64,1,37,0,1,4,6,33.6,0,Failed
+1835,51,Nigeria,No prior experience,15,7.1,63,0,36,1,0,4,4,20.1,0,Failed
+1836,30,Brazil,Beginner,15,6.5,60,2,36,1,0,6,4,40.7,0,Failed
+1837,38,Germany,No prior experience,15,8.0,65,5,42,1,1,8,3,39.1,0,Failed
+1838,21,Germany,Beginner,13,9.2,51,3,34,1,0,1,5,30.7,0,Failed
+1839,36,India,Intermediate,14,8.8,65,2,41,0,0,2,8,53.0,0,Failed
+1840,38,Bangladesh,No prior experience,1,6.0,55,3,36,0,1,2,4,23.6,0,Failed
+1841,31,Indonesia,Intermediate,13,8.0,72,0,49,1,1,1,7,57.4,0,Failed
+1842,30,Other,Beginner,10,8.4,45,3,38,0,0,4,8,45.7,0,Failed
+1843,40,Bangladesh,No prior experience,9,4.0,50,0,42,0,1,8,5,3.2,0,Failed
+1844,51,Brazil,Intermediate,1,7.5,63,2,34,1,1,2,10,60.4,1,Passed
+1845,26,India,Intermediate,1,0.5,67,0,41,0,0,2,1,24.1,0,Failed
+1846,30,USA,Beginner,14,8.4,57,2,33,0,1,5,8,51.3,0,Failed
+1847,19,Bangladesh,Intermediate,15,9.0,58,2,37,0,1,3,10,61.3,1,Passed
+1848,36,USA,Intermediate,12,9.2,66,5,34,0,0,4,3,63.5,1,Passed
+1849,28,Nigeria,Intermediate,10,5.8,71,1,43,0,1,6,4,56.3,0,Failed
+1850,37,Other,Beginner,8,7.9,50,3,47,0,1,7,10,58.9,0,Failed
+1851,34,Brazil,Intermediate,6,11.3,70,0,44,1,1,7,7,62.7,1,Passed
+1852,49,Indonesia,Advanced,6,11.2,55,0,53,0,1,2,9,72.0,1,Passed
+1853,29,Other,Intermediate,12,6.9,56,2,47,0,0,7,4,35.2,0,Failed
+1854,19,UK,No prior experience,9,7.4,54,4,36,0,0,2,4,27.7,0,Failed
+1855,42,Germany,Beginner,15,10.3,72,0,44,1,1,3,6,47.2,0,Failed
+1856,44,Brazil,Beginner,4,2.5,52,0,54,0,1,4,9,30.1,0,Failed
+1857,43,Bangladesh,No prior experience,8,6.0,51,1,33,0,0,1,4,5.5,0,Failed
+1858,50,Other,Advanced,4,11.0,61,2,48,1,0,3,10,86.7,1,Passed
+1859,23,Pakistan,No prior experience,14,9.9,59,2,47,0,1,9,8,33.3,0,Failed
+1860,31,Germany,No prior experience,2,8.1,52,0,46,0,1,0,3,0.6,0,Failed
+1861,51,Germany,Advanced,11,2.5,64,1,43,1,0,2,2,43.9,0,Failed
+1862,45,Pakistan,Beginner,15,6.9,64,3,40,0,1,6,4,42.4,0,Failed
+1863,33,India,No prior experience,8,5.2,56,2,51,0,0,3,4,9.3,0,Failed
+1864,17,India,Beginner,12,8.0,58,4,56,0,0,5,7,59.4,0,Failed
+1865,28,Pakistan,Beginner,7,4.6,64,1,40,1,0,6,7,39.2,0,Failed
+1866,19,UK,No prior experience,4,3.9,57,3,37,1,1,2,9,40.4,0,Failed
+1867,41,Nigeria,Advanced,9,0.8,50,1,38,0,1,6,10,55.4,0,Failed
+1868,40,Pakistan,Beginner,15,10.7,66,3,37,0,0,7,2,49.6,0,Failed
+1869,45,Nigeria,Beginner,9,5.8,62,1,39,0,0,8,4,25.7,0,Failed
+1870,26,Other,Beginner,8,7.5,49,1,40,1,1,5,3,26.7,0,Failed
+1871,22,UK,Beginner,14,7.0,65,1,39,0,0,5,3,31.7,0,Failed
+1872,46,Brazil,No prior experience,1,3.8,49,3,35,0,1,8,7,24.4,0,Failed
+1873,25,Nigeria,No prior experience,7,3.2,63,2,33,1,1,8,10,40.5,0,Failed
+1874,54,Germany,Beginner,5,4.0,56,2,42,0,0,8,6,43.6,0,Failed
+1875,28,Other,Intermediate,7,4.8,51,2,38,0,0,5,3,28.7,0,Failed
+1876,46,Germany,No prior experience,12,8.1,58,1,33,1,1,5,8,24.0,0,Failed
+1877,22,UK,Beginner,9,4.6,65,4,44,1,1,5,8,42.5,0,Failed
+1878,51,Nigeria,Intermediate,2,12.2,55,4,33,1,0,5,7,70.1,1,Passed
+1879,35,USA,No prior experience,13,10.1,69,0,47,1,1,5,9,48.8,0,Failed
+1880,19,UK,No prior experience,14,9.4,57,2,32,0,0,7,3,30.9,0,Failed
+1881,22,UK,No prior experience,11,6.6,46,2,38,0,0,6,5,23.7,0,Failed
+1882,16,USA,Beginner,4,11.5,58,4,40,0,1,2,6,59.1,0,Failed
+1883,28,Other,No prior experience,4,6.3,54,4,31,0,1,2,9,32.2,0,Failed
+1884,37,Nigeria,Beginner,2,6.9,49,1,31,0,0,2,4,35.3,0,Failed
+1885,36,Nigeria,Beginner,3,7.5,54,3,30,0,0,4,5,46.9,0,Failed
+1886,37,Germany,Beginner,11,9.1,72,2,56,0,1,4,9,66.4,1,Passed
+1887,43,UK,No prior experience,14,8.9,57,3,36,0,1,5,4,26.5,0,Failed
+1888,24,UK,Beginner,14,5.6,72,0,40,0,1,11,2,31.6,0,Failed
+1889,41,Indonesia,Intermediate,13,5.4,59,2,40,0,0,5,9,45.0,0,Failed
+1890,24,Brazil,Advanced,8,8.9,56,2,30,1,1,6,3,59.3,0,Failed
+1891,30,UK,Intermediate,12,9.1,54,4,37,0,0,3,6,57.2,0,Failed
+1892,25,Bangladesh,Beginner,9,5.8,79,0,44,0,1,4,9,47.8,0,Failed
+1893,39,Brazil,Beginner,6,2.2,53,3,45,1,0,7,3,37.6,0,Failed
+1894,23,Bangladesh,No prior experience,10,6.4,55,6,45,1,1,7,8,62.4,1,Passed
+1895,39,Nigeria,No prior experience,2,8.9,71,1,41,0,1,4,9,20.0,0,Failed
+1896,31,Brazil,No prior experience,2,12.4,45,3,45,0,1,6,3,35.9,0,Failed
+1897,41,UK,Beginner,7,3.4,62,1,37,1,1,5,3,55.6,0,Failed
+1898,42,USA,No prior experience,8,5.7,59,3,46,0,1,4,4,32.9,0,Failed
+1899,52,Germany,No prior experience,8,5.8,69,1,44,0,1,1,1,13.7,0,Failed
+1900,19,Bangladesh,Advanced,14,11.1,68,3,30,1,1,6,2,82.9,1,Passed
+1901,39,Brazil,No prior experience,6,6.9,64,2,50,0,1,4,1,16.6,0,Failed
+1902,34,UK,No prior experience,10,4.3,49,4,47,0,1,4,3,16.5,0,Failed
+1903,51,Brazil,No prior experience,8,8.7,53,2,48,0,0,6,6,31.2,0,Failed
+1904,54,UK,Beginner,14,5.8,57,2,47,0,0,3,8,44.2,0,Failed
+1905,25,UK,Beginner,15,3.3,53,1,36,1,0,2,5,32.7,0,Failed
+1906,40,UK,Beginner,1,4.3,58,0,45,0,0,4,8,37.1,0,Failed
+1907,33,Indonesia,Beginner,9,12.2,43,1,32,0,1,8,6,41.1,0,Failed
+1908,34,Germany,Intermediate,13,8.2,67,3,36,1,0,7,1,60.6,1,Passed
+1909,51,USA,Intermediate,12,7.3,70,1,36,0,0,7,3,56.9,0,Failed
+1910,25,USA,Advanced,1,6.3,82,3,30,0,0,3,2,70.0,1,Passed
+1911,48,Brazil,Intermediate,13,7.9,59,2,38,0,0,0,6,57.0,0,Failed
+1912,20,Brazil,Beginner,3,7.8,57,2,44,0,0,5,8,51.5,0,Failed
+1913,50,UK,No prior experience,12,7.9,63,3,47,1,1,6,6,45.4,0,Failed
+1914,49,Indonesia,No prior experience,9,7.3,61,3,41,0,1,5,4,32.2,0,Failed
+1915,48,UK,No prior experience,15,9.6,58,3,41,0,0,7,4,49.9,0,Failed
+1916,36,Indonesia,Beginner,11,7.1,76,0,37,1,0,6,9,53.8,0,Failed
+1917,32,UK,Intermediate,5,4.1,55,1,46,0,1,6,1,34.7,0,Failed
+1918,37,Bangladesh,Beginner,9,5.2,67,0,34,0,1,9,2,16.2,0,Failed
+1919,52,Bangladesh,No prior experience,9,1.1,47,2,41,0,0,7,4,27.7,0,Failed
+1920,30,Nigeria,Beginner,6,13.1,60,1,40,0,0,7,3,41.1,0,Failed
+1921,50,UK,Advanced,11,9.6,78,5,40,0,0,2,9,78.5,1,Passed
+1922,43,Germany,Beginner,1,4.5,65,3,54,0,0,6,5,51.3,0,Failed
+1923,22,Nigeria,Intermediate,10,6.2,54,2,37,0,0,7,8,54.9,0,Failed
+1924,47,Brazil,Intermediate,7,5.1,60,2,51,0,1,4,4,53.5,0,Failed
+1925,26,Other,Advanced,14,11.6,55,1,38,0,1,10,4,59.8,0,Failed
+1926,25,UK,Intermediate,6,2.7,60,1,40,1,0,7,10,58.1,0,Failed
+1927,24,Bangladesh,Intermediate,9,7.3,52,1,53,1,1,4,3,60.5,1,Passed
+1928,29,Other,No prior experience,7,6.7,56,0,41,0,1,9,9,28.1,0,Failed
+1929,28,Indonesia,No prior experience,14,9.5,67,3,37,1,1,9,10,49.4,0,Failed
+1930,40,Other,Beginner,12,6.7,57,5,45,1,1,3,2,44.1,0,Failed
+1931,17,Germany,No prior experience,11,1.7,76,1,33,1,1,4,3,22.0,0,Failed
+1932,50,UK,Advanced,12,6.2,51,3,37,0,0,7,3,68.8,1,Passed
+1933,22,USA,No prior experience,13,4.1,60,2,48,1,0,5,3,17.9,0,Failed
+1934,36,Other,Intermediate,4,7.2,44,2,46,1,1,7,4,49.1,0,Failed
+1935,33,USA,Beginner,7,11.3,72,0,40,0,0,7,5,46.6,0,Failed
+1936,18,Indonesia,No prior experience,2,1.8,59,0,52,1,1,2,6,10.7,0,Failed
+1937,54,Nigeria,Advanced,6,4.6,58,1,41,1,1,3,5,44.6,0,Failed
+1938,26,USA,Beginner,15,5.3,62,3,46,0,0,2,9,32.4,0,Failed
+1939,54,Nigeria,Beginner,6,5.9,51,3,42,0,1,4,7,42.9,0,Failed
+1940,39,Bangladesh,No prior experience,2,9.2,62,2,53,0,1,1,7,30.0,0,Failed
+1941,34,UK,Beginner,14,6.5,49,2,32,0,0,3,7,42.9,0,Failed
+1942,19,Other,No prior experience,4,8.2,57,1,36,0,0,4,7,18.9,0,Failed
+1943,41,Bangladesh,Beginner,8,5.1,54,3,42,0,1,3,2,15.0,0,Failed
+1944,53,Bangladesh,Beginner,8,7.7,61,2,62,1,0,8,8,52.7,0,Failed
+1945,47,Pakistan,Intermediate,13,9.3,57,1,38,1,0,2,10,66.3,1,Passed
+1946,54,India,Intermediate,8,4.8,51,1,42,0,0,6,1,49.2,0,Failed
+1947,51,Germany,Beginner,8,9.3,58,2,38,0,1,7,6,66.1,1,Passed
+1948,52,Nigeria,No prior experience,1,7.2,66,5,39,0,1,5,3,35.9,0,Failed
+1949,48,Pakistan,Intermediate,2,10.1,62,2,30,1,1,3,6,55.7,0,Failed
+1950,51,India,No prior experience,12,6.4,69,2,33,0,0,9,6,31.7,0,Failed
+1951,18,Germany,Beginner,15,8.1,64,2,38,1,1,8,8,59.5,0,Failed
+1952,24,Nigeria,Beginner,4,6.9,63,5,42,0,0,6,4,48.6,0,Failed
+1953,23,UK,Intermediate,12,6.7,63,0,51,0,0,3,3,36.1,0,Failed
+1954,48,Germany,Beginner,9,7.8,58,1,57,0,0,0,2,40.4,0,Failed
+1955,21,Other,Beginner,3,8.6,58,1,43,0,0,10,6,36.0,0,Failed
+1956,54,Bangladesh,Beginner,14,3.3,58,0,47,1,0,4,3,23.4,0,Failed
+1957,19,India,Beginner,6,11.3,66,3,37,0,0,2,4,59.9,0,Failed
+1958,28,India,No prior experience,7,1.4,45,1,42,0,0,4,9,21.0,0,Failed
+1959,17,India,Beginner,8,4.9,71,3,30,1,1,8,7,61.1,1,Passed
+1960,20,Nigeria,Intermediate,13,6.7,56,1,51,0,0,1,1,55.6,0,Failed
+1961,42,Other,Advanced,7,8.2,54,2,42,0,1,3,4,66.2,1,Passed
+1962,47,Germany,Beginner,3,11.7,58,1,31,1,1,5,8,53.9,0,Failed
+1963,36,Bangladesh,Beginner,6,1.4,61,5,35,0,0,3,10,40.2,0,Failed
+1964,23,Other,No prior experience,5,5.5,69,1,44,1,1,3,4,19.2,0,Failed
+1965,53,Pakistan,Intermediate,15,0.6,58,5,31,1,0,4,1,27.6,0,Failed
+1966,23,UK,Intermediate,13,7.1,45,0,33,0,0,2,10,47.2,0,Failed
+1967,18,USA,No prior experience,12,7.8,61,2,33,0,0,3,2,24.0,0,Failed
+1968,18,Other,No prior experience,10,11.8,61,1,44,0,1,7,5,34.4,0,Failed
+1969,37,Pakistan,Intermediate,4,7.4,59,2,29,0,1,5,6,47.3,0,Failed
+1970,21,Bangladesh,No prior experience,1,10.1,59,1,45,1,1,5,1,27.6,0,Failed
+1971,17,USA,No prior experience,14,8.8,65,2,40,0,0,5,5,30.4,0,Failed
+1972,38,USA,No prior experience,13,5.7,66,2,33,0,0,8,8,26.6,0,Failed
+1973,17,Other,No prior experience,7,2.8,59,1,43,0,1,8,8,23.1,0,Failed
+1974,53,India,Beginner,8,7.8,65,2,30,0,1,4,2,46.3,0,Failed
+1975,32,Brazil,Intermediate,2,2.5,55,5,39,1,1,11,9,66.5,1,Passed
+1976,50,Bangladesh,No prior experience,7,10.9,65,6,36,1,0,3,2,44.6,0,Failed
+1977,49,India,No prior experience,6,6.5,66,2,36,1,0,7,4,26.3,0,Failed
+1978,38,Bangladesh,No prior experience,5,10.6,64,3,47,1,0,7,10,50.1,0,Failed
+1979,45,Brazil,Beginner,13,5.6,63,2,50,0,1,5,4,43.9,0,Failed
+1980,23,UK,No prior experience,4,7.8,59,4,44,0,0,3,4,37.2,0,Failed
+1981,37,Brazil,Beginner,2,7.6,70,4,36,0,0,9,7,62.6,1,Passed
+1982,51,Indonesia,Intermediate,10,6.9,56,2,37,1,1,6,8,60.6,1,Passed
+1983,20,Other,No prior experience,6,5.7,62,1,45,0,0,5,8,27.3,0,Failed
+1984,28,Other,No prior experience,5,8.2,68,2,35,1,1,5,4,20.6,0,Failed
+1985,44,Pakistan,No prior experience,2,4.2,53,2,46,1,1,8,4,16.9,0,Failed
+1986,46,India,Beginner,10,3.4,61,1,43,1,0,3,6,32.4,0,Failed
+1987,31,Pakistan,Intermediate,7,10.7,56,4,38,0,1,6,9,77.4,1,Passed
+1988,45,Indonesia,No prior experience,6,9.2,59,2,46,0,1,5,5,41.1,0,Failed
+1989,31,Brazil,Advanced,12,7.2,64,0,47,0,0,5,2,47.0,0,Failed
+1990,27,Other,No prior experience,15,12.0,59,3,34,0,1,6,9,35.2,0,Failed
+1991,32,Nigeria,Intermediate,15,6.2,69,1,45,1,1,7,9,66.5,1,Passed
+1992,31,Brazil,Beginner,11,11.0,60,4,38,1,1,5,1,40.8,0,Failed
+1993,27,Brazil,Beginner,9,7.5,65,2,41,1,1,4,9,51.2,0,Failed
+1994,23,Indonesia,Beginner,11,3.9,59,4,38,0,0,4,7,31.3,0,Failed
+1995,35,UK,Beginner,10,12.5,66,5,38,0,0,5,1,75.2,1,Passed
+1996,18,Bangladesh,Intermediate,5,10.0,61,2,33,1,1,0,2,44.5,0,Failed
+1997,31,Indonesia,Intermediate,9,6.6,59,0,38,0,0,7,2,38.9,0,Failed
+1998,45,Bangladesh,Beginner,9,9.2,69,4,43,1,1,5,8,65.4,1,Passed
+1999,38,Other,No prior experience,13,5.8,69,1,38,1,0,3,1,3.3,0,Failed
+2000,43,Indonesia,No prior experience,1,9.5,51,3,35,0,1,0,3,40.0,0,Failed
+2001,20,Bangladesh,Intermediate,5,0.0,68,3,36,1,0,12,1,49.6,0,Failed
+2002,35,Pakistan,Beginner,9,3.9,50,1,38,1,1,6,5,28.7,0,Failed
+2003,16,Indonesia,Beginner,7,9.9,71,4,38,0,1,1,4,45.5,0,Failed
+2004,45,Other,Beginner,6,6.3,58,3,35,0,1,5,3,32.6,0,Failed
+2005,36,Indonesia,Intermediate,6,7.6,47,1,40,0,0,3,8,35.0,0,Failed
+2006,35,Other,Beginner,11,3.0,62,1,27,0,0,4,7,27.5,0,Failed
+2007,21,Indonesia,Intermediate,7,12.5,53,4,40,1,1,5,4,75.5,1,Passed
+2008,37,Bangladesh,Intermediate,1,10.6,63,0,49,0,1,4,1,57.6,0,Failed
+2009,33,UK,Beginner,4,6.4,62,2,37,1,0,4,7,51.8,0,Failed
+2010,23,Germany,No prior experience,13,5.8,44,1,40,0,0,7,3,20.2,0,Failed
+2011,54,Bangladesh,Intermediate,15,10.1,56,1,43,1,0,6,5,60.4,1,Passed
+2012,47,India,Beginner,1,12.9,64,3,35,1,1,7,8,72.1,1,Passed
+2013,48,USA,Advanced,6,9.9,68,4,45,1,0,5,9,87.5,1,Passed
+2014,31,UK,No prior experience,14,13.5,57,1,47,0,0,4,10,49.7,0,Failed
+2015,27,Pakistan,No prior experience,13,4.2,57,2,43,0,0,5,10,23.8,0,Failed
+2016,53,Brazil,Advanced,4,4.5,50,0,36,0,1,3,7,48.4,0,Failed
+2017,49,Bangladesh,Beginner,1,3.4,61,2,47,0,1,7,6,40.7,0,Failed
+2018,29,Indonesia,Beginner,9,8.3,55,2,46,0,0,6,5,49.4,0,Failed
+2019,51,Bangladesh,Intermediate,12,7.5,46,3,37,1,0,3,5,50.4,0,Failed
+2020,48,Nigeria,Beginner,4,6.5,50,1,40,0,1,5,4,46.9,0,Failed
+2021,38,UK,Beginner,12,9.4,57,1,40,0,0,7,7,66.3,1,Passed
+2022,17,Germany,No prior experience,6,10.7,49,2,47,0,0,5,1,12.9,0,Failed
+2023,36,Pakistan,Intermediate,13,2.4,58,0,47,1,1,7,3,41.0,0,Failed
+2024,17,Nigeria,Intermediate,7,5.2,60,1,33,0,1,5,6,57.2,0,Failed
+2025,42,Other,No prior experience,8,9.5,42,5,29,0,1,4,10,43.8,0,Failed
+2026,24,Nigeria,Intermediate,12,5.6,54,2,29,1,0,2,1,45.1,0,Failed
+2027,16,Bangladesh,Intermediate,13,4.6,58,3,43,0,0,4,7,48.9,0,Failed
+2028,26,Pakistan,Beginner,11,10.1,65,3,33,1,1,6,2,47.9,0,Failed
+2029,18,Bangladesh,Beginner,9,3.1,66,3,36,1,0,5,7,43.3,0,Failed
+2030,38,Other,Beginner,9,6.1,57,2,43,0,0,6,4,29.3,0,Failed
+2031,41,Brazil,No prior experience,8,8.0,59,3,44,0,0,5,9,38.2,0,Failed
+2032,19,Pakistan,Intermediate,10,5.3,60,2,39,1,1,4,5,44.5,0,Failed
+2033,33,Brazil,Intermediate,11,9.3,58,2,47,0,1,2,1,50.4,0,Failed
+2034,21,UK,Beginner,15,5.3,57,3,50,0,0,4,4,39.8,0,Failed
+2035,50,UK,Beginner,12,11.2,70,0,38,0,0,5,4,43.8,0,Failed
+2036,37,Brazil,No prior experience,12,6.6,56,0,39,0,1,7,4,21.5,0,Failed
+2037,30,UK,No prior experience,15,9.0,65,3,33,0,1,5,3,36.6,0,Failed
+2038,37,Pakistan,Beginner,14,9.2,43,1,41,1,1,4,3,44.0,0,Failed
+2039,52,Indonesia,No prior experience,3,5.1,65,2,38,1,0,6,10,31.1,0,Failed
+2040,27,India,Beginner,12,0.8,63,2,45,0,0,6,5,37.3,0,Failed
+2041,53,UK,Beginner,2,8.1,58,4,34,0,1,3,5,54.4,0,Failed
+2042,33,UK,Intermediate,5,7.2,56,2,40,0,1,4,2,46.8,0,Failed
+2043,50,Bangladesh,No prior experience,1,8.7,65,1,40,1,0,6,10,35.2,0,Failed
+2044,45,Brazil,Beginner,3,6.3,56,1,44,0,1,3,10,30.8,0,Failed
+2045,39,USA,Beginner,1,5.7,64,0,42,0,0,6,9,29.2,0,Failed
+2046,45,Germany,No prior experience,13,13.0,68,0,39,1,0,4,3,44.8,0,Failed
+2047,29,Nigeria,No prior experience,3,2.6,64,0,30,0,0,5,4,0.0,0,Failed
+2048,21,UK,No prior experience,13,9.2,53,1,46,0,1,6,2,18.0,0,Failed
+2049,18,Nigeria,Intermediate,4,5.3,64,0,35,0,0,1,8,40.8,0,Failed
+2050,31,Pakistan,No prior experience,7,6.0,52,2,35,1,0,5,7,28.0,0,Failed
+2051,22,USA,Intermediate,12,6.0,55,1,35,1,0,6,3,40.7,0,Failed
+2052,29,Germany,Advanced,15,4.6,64,2,32,1,1,7,5,68.5,1,Passed
+2053,24,Brazil,Intermediate,12,8.7,70,4,31,0,1,3,1,61.8,1,Passed
+2054,30,India,No prior experience,5,11.2,39,1,43,0,0,5,6,31.8,0,Failed
+2055,36,Germany,Advanced,5,8.4,55,3,49,1,0,2,10,88.9,1,Passed
+2056,50,Germany,No prior experience,13,7.3,45,2,37,1,1,2,6,29.0,0,Failed
+2057,17,India,Beginner,1,4.0,57,4,35,0,0,7,5,41.0,0,Failed
+2058,42,Indonesia,Intermediate,8,8.6,53,4,36,0,0,0,9,47.1,0,Failed
+2059,17,Brazil,Beginner,13,13.5,62,4,31,1,1,3,4,82.7,1,Passed
+2060,50,Bangladesh,Beginner,4,5.9,66,2,34,0,0,9,2,50.8,0,Failed
+2061,33,Nigeria,No prior experience,10,5.9,64,3,20,0,1,7,7,44.5,0,Failed
+2062,29,UK,Beginner,5,5.3,71,2,29,0,0,4,5,39.9,0,Failed
+2063,35,Germany,Beginner,2,5.5,41,0,36,1,0,6,7,29.3,0,Failed
+2064,33,Pakistan,No prior experience,15,0.0,62,2,38,1,0,5,7,18.2,0,Failed
+2065,25,India,Advanced,12,8.2,61,2,32,0,1,5,7,72.3,1,Passed
+2066,40,Nigeria,Advanced,13,4.5,55,4,42,1,0,6,3,70.7,1,Passed
+2067,17,USA,Intermediate,1,2.2,43,3,37,0,1,5,5,37.1,0,Failed
+2068,40,India,Beginner,9,9.3,64,0,38,0,0,9,1,31.2,0,Failed
+2069,48,USA,Beginner,15,3.8,63,1,41,0,0,6,6,30.8,0,Failed
+2070,51,Brazil,Advanced,2,6.0,48,2,36,0,1,9,4,63.6,1,Passed
+2071,46,Germany,Intermediate,6,11.4,57,3,37,1,1,3,2,70.8,1,Passed
+2072,29,Pakistan,Beginner,1,2.8,51,3,35,0,1,8,3,44.2,0,Failed
+2073,16,UK,No prior experience,1,2.4,66,2,45,0,1,4,3,19.3,0,Failed
+2074,31,USA,No prior experience,9,7.8,67,1,49,1,0,5,1,37.7,0,Failed
+2075,18,Nigeria,Beginner,4,10.4,52,1,40,0,0,5,7,45.7,0,Failed
+2076,50,Indonesia,Beginner,9,2.3,66,2,32,0,0,10,10,57.7,0,Failed
+2077,21,Brazil,Intermediate,11,8.2,48,3,39,0,1,2,3,60.0,1,Passed
+2078,40,Indonesia,No prior experience,5,8.7,55,1,41,1,1,12,7,35.3,0,Failed
+2079,28,Brazil,No prior experience,7,0.8,51,1,43,0,0,4,10,33.4,0,Failed
+2080,49,Bangladesh,Beginner,1,9.4,62,0,49,0,0,5,10,36.2,0,Failed
+2081,23,Nigeria,Beginner,6,9.6,55,2,32,0,0,8,9,65.1,1,Passed
+2082,36,Indonesia,No prior experience,8,6.1,48,5,48,1,0,3,6,36.6,0,Failed
+2083,49,Pakistan,Beginner,14,10.8,49,1,41,1,0,7,8,36.5,0,Failed
+2084,19,Germany,Beginner,1,10.4,51,2,43,0,0,6,1,59.4,0,Failed
+2085,40,India,Intermediate,9,7.3,64,1,48,1,0,5,8,61.4,1,Passed
+2086,30,UK,Beginner,3,5.6,68,1,31,1,0,3,8,39.6,0,Failed
+2087,19,Germany,No prior experience,1,4.1,50,1,40,1,1,9,3,16.2,0,Failed
+2088,27,Germany,Beginner,1,6.9,66,2,44,1,1,2,6,55.9,0,Failed
+2089,47,Brazil,Intermediate,13,8.7,58,2,36,0,0,5,6,57.3,0,Failed
+2090,47,Pakistan,No prior experience,14,6.0,47,1,48,1,1,8,7,45.1,0,Failed
+2091,43,Brazil,Intermediate,11,0.4,61,0,35,1,0,11,3,29.6,0,Failed
+2092,28,Other,Beginner,6,10.8,64,0,44,0,0,4,10,40.7,0,Failed
+2093,46,USA,Intermediate,11,7.6,47,4,43,0,1,5,1,56.8,0,Failed
+2094,29,UK,Intermediate,6,5.9,51,3,36,0,0,5,9,61.3,1,Passed
+2095,35,USA,No prior experience,1,9.6,63,3,32,1,0,4,6,32.4,0,Failed
+2096,33,India,Beginner,14,11.6,64,2,49,1,1,2,5,44.9,0,Failed
+2097,44,Other,No prior experience,14,0.0,51,1,40,0,0,5,2,0.0,0,Failed
+2098,21,Nigeria,Intermediate,3,8.3,78,3,37,1,0,8,4,64.2,1,Passed
+2099,47,India,Beginner,7,2.7,47,2,32,1,1,5,5,26.3,0,Failed
+2100,44,India,Beginner,10,8.5,69,2,38,1,0,9,10,71.3,1,Passed
+2101,17,Bangladesh,Intermediate,3,7.4,68,3,31,0,1,2,4,54.7,0,Failed
+2102,38,UK,Intermediate,3,8.9,73,2,39,0,0,11,10,83.9,1,Passed
+2103,34,Brazil,No prior experience,3,5.5,57,0,43,1,0,4,4,0.0,0,Failed
+2104,46,Pakistan,Beginner,12,1.4,69,3,36,0,1,9,6,45.8,0,Failed
+2105,20,USA,Beginner,7,5.6,51,3,42,0,0,1,4,37.2,0,Failed
+2106,34,India,Beginner,4,8.2,63,2,51,0,1,4,9,63.6,1,Passed
+2107,49,USA,Beginner,4,10.0,58,4,46,1,1,4,2,54.5,0,Failed
+2108,25,USA,Beginner,3,3.5,60,0,34,0,0,4,5,16.1,0,Failed
+2109,40,Nigeria,No prior experience,10,10.1,59,2,44,0,1,7,3,35.6,0,Failed
+2110,17,UK,Intermediate,11,5.1,57,2,41,0,0,3,8,52.9,0,Failed
+2111,26,UK,No prior experience,9,8.1,59,2,47,0,0,6,3,21.8,0,Failed
+2112,46,Indonesia,Beginner,2,5.5,75,3,32,1,1,2,8,51.8,0,Failed
+2113,30,Germany,No prior experience,4,7.5,65,0,44,0,0,10,8,26.6,0,Failed
+2114,24,UK,No prior experience,8,9.7,54,0,49,0,0,5,2,31.8,0,Failed
+2115,38,USA,No prior experience,6,3.3,67,0,42,0,1,2,10,20.5,0,Failed
+2116,34,Brazil,Beginner,14,5.0,54,2,33,0,0,8,7,39.2,0,Failed
+2117,24,USA,Intermediate,7,7.6,62,1,51,1,0,7,6,55.2,0,Failed
+2118,50,Brazil,No prior experience,13,14.2,48,1,33,1,1,5,1,29.1,0,Failed
+2119,36,Indonesia,No prior experience,7,4.4,67,2,30,0,1,6,2,21.9,0,Failed
+2120,24,Brazil,Advanced,2,13.1,57,5,30,0,0,5,4,78.1,1,Passed
+2121,43,UK,No prior experience,4,13.0,57,4,37,0,0,2,2,38.6,0,Failed
+2122,22,Nigeria,Intermediate,10,6.7,66,3,42,0,0,6,5,46.3,0,Failed
+2123,31,Brazil,No prior experience,10,6.1,57,1,44,1,0,7,3,22.9,0,Failed
+2124,31,USA,Intermediate,6,4.9,63,1,21,0,1,3,6,46.6,0,Failed
+2125,48,Pakistan,No prior experience,3,6.8,68,1,36,1,1,8,9,28.8,0,Failed
+2126,19,UK,Intermediate,9,2.8,60,3,37,1,1,3,10,64.2,1,Passed
+2127,19,Pakistan,Intermediate,13,6.8,66,1,45,0,1,7,7,54.0,0,Failed
+2128,54,Other,Beginner,4,11.5,79,0,45,1,1,2,5,62.2,1,Passed
+2129,32,Other,No prior experience,10,5.2,54,5,39,1,0,4,1,27.5,0,Failed
+2130,52,USA,Intermediate,13,6.3,45,1,36,0,0,2,1,43.5,0,Failed
+2131,54,Other,Beginner,2,1.9,50,2,56,1,0,5,1,30.2,0,Failed
+2132,44,Germany,No prior experience,6,8.1,51,1,50,1,1,7,3,17.1,0,Failed
+2133,51,Indonesia,No prior experience,1,7.8,57,0,42,0,0,4,7,17.8,0,Failed
+2134,53,UK,Intermediate,6,7.2,56,0,42,1,1,7,9,69.6,1,Passed
+2135,54,Pakistan,No prior experience,13,6.3,76,0,34,1,0,6,6,32.8,0,Failed
+2136,52,USA,Beginner,12,6.1,56,2,50,0,1,9,7,39.4,0,Failed
+2137,50,Germany,Beginner,10,8.5,63,2,42,0,1,9,3,50.8,0,Failed
+2138,22,USA,Intermediate,1,6.9,68,2,31,1,0,5,8,56.0,0,Failed
+2139,42,Germany,Advanced,14,7.9,64,2,37,0,1,5,10,72.9,1,Passed
+2140,43,Other,Advanced,8,7.6,44,1,34,0,0,3,6,65.6,1,Passed
+2141,37,Other,No prior experience,5,10.4,80,3,32,0,1,1,3,42.8,0,Failed
+2142,29,Brazil,Intermediate,6,9.0,57,2,44,0,0,5,2,41.5,0,Failed
+2143,22,Bangladesh,No prior experience,2,7.6,60,4,38,1,0,10,9,50.1,0,Failed
+2144,52,USA,Beginner,2,11.6,66,3,45,0,0,6,7,70.5,1,Passed
+2145,37,Brazil,Beginner,12,8.3,53,1,31,0,0,7,10,49.4,0,Failed
+2146,20,UK,No prior experience,9,10.9,49,1,32,1,1,3,10,38.5,0,Failed
+2147,17,Brazil,Advanced,3,8.8,57,2,40,1,1,6,9,73.3,1,Passed
+2148,42,India,No prior experience,6,1.5,68,3,51,1,0,6,4,25.0,0,Failed
+2149,36,Other,Beginner,10,10.9,67,3,43,0,0,4,4,29.5,0,Failed
+2150,53,India,Intermediate,5,7.4,44,2,44,1,1,5,6,56.4,0,Failed
+2151,30,USA,Intermediate,14,6.8,56,0,48,1,0,6,2,33.3,0,Failed
+2152,36,Pakistan,No prior experience,12,7.8,60,1,39,0,0,4,10,22.6,0,Failed
+2153,25,Pakistan,Beginner,4,6.0,53,3,37,1,0,6,1,40.0,0,Failed
+2154,38,UK,Intermediate,10,7.7,62,4,40,0,1,2,10,72.8,1,Passed
+2155,54,Brazil,No prior experience,2,5.2,62,2,37,0,1,5,3,20.5,0,Failed
+2156,20,Pakistan,Beginner,8,10.8,53,4,38,1,1,4,5,58.6,0,Failed
+2157,16,Germany,No prior experience,10,6.7,62,3,43,0,0,6,2,21.8,0,Failed
+2158,28,Germany,Beginner,7,5.9,57,1,35,1,1,3,9,28.8,0,Failed
+2159,36,UK,Intermediate,11,4.2,76,2,41,0,1,8,1,47.5,0,Failed
+2160,41,Indonesia,Beginner,2,7.8,66,3,53,1,0,3,3,52.7,0,Failed
+2161,36,Other,Beginner,6,7.6,57,2,46,0,1,5,5,35.3,0,Failed
+2162,33,Brazil,Beginner,14,8.2,59,2,49,0,1,5,1,35.4,0,Failed
+2163,52,USA,Beginner,8,3.9,58,2,33,0,1,3,4,30.8,0,Failed
+2164,47,Nigeria,No prior experience,7,2.2,65,1,33,0,1,5,10,22.1,0,Failed
+2165,51,Nigeria,No prior experience,15,8.9,56,3,41,1,1,9,1,34.9,0,Failed
+2166,32,Nigeria,Beginner,1,11.5,52,4,35,1,1,5,7,64.9,1,Passed
+2167,50,Pakistan,Beginner,5,3.9,51,1,46,0,1,4,1,14.9,0,Failed
+2168,26,Indonesia,Beginner,2,11.8,64,1,43,0,0,12,3,53.5,0,Failed
+2169,36,Indonesia,No prior experience,6,7.9,70,1,37,0,0,2,4,19.3,0,Failed
+2170,41,Brazil,Beginner,7,7.0,53,2,32,1,1,3,4,45.3,0,Failed
+2171,19,Brazil,No prior experience,14,5.8,59,3,37,0,1,4,7,33.7,0,Failed
+2172,49,Indonesia,Advanced,14,2.8,50,2,42,0,0,5,5,53.4,0,Failed
+2173,33,UK,Beginner,7,10.0,63,4,32,0,1,6,8,71.3,1,Passed
+2174,50,Brazil,No prior experience,3,4.7,57,2,41,0,0,4,3,20.6,0,Failed
+2175,44,UK,No prior experience,7,4.7,61,1,46,0,1,5,8,31.8,0,Failed
+2176,44,India,Advanced,15,10.0,57,4,40,0,1,0,9,93.6,1,Passed
+2177,53,Germany,No prior experience,5,1.4,60,1,38,0,1,3,9,8.0,0,Failed
+2178,36,Other,Intermediate,8,2.4,58,2,40,0,1,4,9,45.0,0,Failed
+2179,28,Brazil,No prior experience,15,6.9,72,5,46,0,1,5,1,34.4,0,Failed
+2180,32,Indonesia,Advanced,12,7.9,61,0,30,0,1,3,9,72.5,1,Passed
+2181,24,Germany,Intermediate,8,8.5,62,2,37,0,1,6,8,63.2,1,Passed
+2182,16,Germany,Beginner,7,6.1,58,2,32,0,0,5,2,26.6,0,Failed
+2183,17,Bangladesh,No prior experience,6,14.6,71,1,36,1,0,4,3,32.1,0,Failed
+2184,44,Indonesia,No prior experience,2,6.3,61,4,47,1,1,6,7,49.7,0,Failed
+2185,48,Other,Beginner,6,6.3,52,7,31,1,1,0,3,57.9,0,Failed
+2186,25,Indonesia,Beginner,13,4.6,67,5,36,0,0,5,2,33.2,0,Failed
+2187,36,Brazil,No prior experience,12,7.4,71,2,40,1,0,3,4,25.5,0,Failed
+2188,43,USA,No prior experience,15,8.8,60,4,45,0,0,5,9,30.4,0,Failed
+2189,26,India,Beginner,11,10.6,60,3,47,0,0,8,2,57.1,0,Failed
+2190,49,UK,Beginner,9,2.5,50,2,39,0,1,3,1,22.5,0,Failed
+2191,23,USA,No prior experience,15,6.3,64,2,38,0,0,2,10,31.1,0,Failed
+2192,37,India,No prior experience,2,8.3,66,1,40,0,0,3,7,17.4,0,Failed
+2193,23,USA,Advanced,1,8.8,63,2,42,0,1,6,1,57.8,0,Failed
+2194,30,UK,Beginner,11,7.0,61,5,46,0,0,7,6,62.5,1,Passed
+2195,32,Pakistan,Intermediate,13,8.6,47,0,31,1,1,8,5,47.0,0,Failed
+2196,38,Indonesia,Beginner,5,4.6,61,0,44,1,0,3,8,30.3,0,Failed
+2197,39,USA,No prior experience,11,11.7,68,3,46,1,1,4,3,58.0,0,Failed
+2198,34,Brazil,No prior experience,6,10.0,65,2,40,0,0,6,3,18.9,0,Failed
+2199,20,Other,No prior experience,3,3.0,53,2,41,1,0,5,1,7.3,0,Failed
+2200,47,Nigeria,Intermediate,8,3.8,46,4,41,1,0,6,4,45.1,0,Failed
+2201,16,Brazil,Beginner,7,3.9,59,2,37,1,1,6,10,52.2,0,Failed
+2202,38,UK,No prior experience,2,9.0,56,1,37,0,1,2,10,35.9,0,Failed
+2203,52,Other,Advanced,12,3.1,53,4,41,1,0,3,6,62.8,1,Passed
+2204,23,Brazil,No prior experience,7,6.0,60,0,40,0,1,8,5,11.4,0,Failed
+2205,28,Germany,Advanced,15,8.4,41,3,50,0,0,2,7,68.3,1,Passed
+2206,23,Indonesia,Advanced,15,6.8,59,1,40,0,1,3,10,51.3,0,Failed
+2207,38,Other,No prior experience,1,7.8,65,3,28,1,0,8,1,28.0,0,Failed
+2208,16,Germany,No prior experience,9,3.8,55,2,40,0,0,5,3,10.4,0,Failed
+2209,39,Brazil,Beginner,13,8.8,60,2,38,0,0,4,4,49.0,0,Failed
+2210,50,India,Beginner,7,5.2,56,2,35,1,1,4,6,45.8,0,Failed
+2211,39,Bangladesh,Beginner,6,6.0,59,2,30,0,0,3,4,38.6,0,Failed
+2212,32,India,Advanced,13,7.7,69,0,30,1,0,5,7,63.8,1,Passed
+2213,20,Indonesia,Intermediate,2,7.3,60,2,36,1,0,3,10,72.2,1,Passed
+2214,35,Other,No prior experience,3,7.1,49,2,25,0,1,1,10,36.1,0,Failed
+2215,36,Other,No prior experience,1,4.7,67,2,38,0,1,5,3,13.9,0,Failed
+2216,46,Indonesia,Beginner,15,6.1,49,0,36,0,1,4,8,29.7,0,Failed
+2217,51,Germany,No prior experience,10,7.0,66,2,38,1,1,5,7,41.5,0,Failed
+2218,26,Bangladesh,Intermediate,13,2.9,63,3,37,1,1,5,3,51.6,0,Failed
+2219,30,Brazil,No prior experience,5,5.6,51,2,40,0,0,1,9,24.8,0,Failed
+2220,34,UK,No prior experience,9,8.2,50,1,31,0,1,2,10,32.5,0,Failed
+2221,22,India,No prior experience,13,3.2,51,0,46,0,0,5,5,0.0,0,Failed
+2222,43,India,Intermediate,6,10.5,64,0,40,1,1,3,2,53.8,0,Failed
+2223,20,Nigeria,No prior experience,5,10.8,50,1,44,0,1,6,9,46.8,0,Failed
+2224,20,Bangladesh,Intermediate,12,3.3,56,2,42,0,1,5,8,56.5,0,Failed
+2225,45,UK,Beginner,3,11.1,49,1,35,1,1,6,8,73.6,1,Passed
+2226,47,India,Intermediate,5,6.6,66,0,50,0,0,7,1,43.9,0,Failed
+2227,23,UK,Beginner,8,8.3,65,1,33,0,1,9,4,42.0,0,Failed
+2228,25,Brazil,No prior experience,12,5.5,66,3,38,1,1,4,7,49.1,0,Failed
+2229,53,Other,Intermediate,2,9.8,51,0,37,0,0,6,6,42.0,0,Failed
+2230,47,UK,No prior experience,5,8.2,57,1,50,0,0,9,9,31.1,0,Failed
+2231,43,India,Beginner,6,4.6,44,1,39,1,1,7,8,37.6,0,Failed
+2232,32,Germany,No prior experience,10,3.5,65,2,45,0,0,1,9,18.6,0,Failed
+2233,46,Bangladesh,Intermediate,8,2.6,56,2,47,1,0,2,4,46.9,0,Failed
+2234,23,Indonesia,Advanced,8,7.6,48,1,48,1,0,5,8,71.4,1,Passed
+2235,40,USA,Beginner,15,8.7,56,1,34,1,1,4,6,40.4,0,Failed
+2236,24,Pakistan,Beginner,5,9.0,69,2,41,1,1,7,9,63.4,1,Passed
+2237,17,Pakistan,Intermediate,9,6.6,74,2,50,1,0,5,10,70.1,1,Passed
+2238,30,USA,No prior experience,4,3.5,74,0,43,0,1,5,1,13.3,0,Failed
+2239,18,UK,Advanced,12,5.0,62,3,49,0,0,7,6,64.6,1,Passed
+2240,51,Bangladesh,No prior experience,9,10.5,67,3,31,0,0,3,10,40.5,0,Failed
+2241,19,UK,Advanced,11,5.5,60,3,39,1,1,6,10,88.3,1,Passed
+2242,29,Indonesia,Intermediate,7,7.4,57,1,43,0,0,6,2,37.9,0,Failed
+2243,40,Bangladesh,Intermediate,6,3.8,62,1,45,0,0,11,3,40.4,0,Failed
+2244,25,USA,Beginner,4,8.0,59,1,44,1,1,5,9,58.5,0,Failed
+2245,36,UK,Beginner,2,5.6,49,3,38,0,0,9,5,41.3,0,Failed
+2246,51,Nigeria,Beginner,8,10.1,73,0,42,1,1,9,5,68.7,1,Passed
+2247,27,India,No prior experience,6,9.3,66,1,35,0,1,10,1,19.6,0,Failed
+2248,42,Germany,Beginner,12,5.5,55,2,34,0,0,7,10,39.1,0,Failed
+2249,17,Other,Beginner,15,6.6,63,4,39,0,0,7,2,43.6,0,Failed
+2250,28,Germany,Intermediate,3,5.3,68,4,32,0,0,4,9,71.3,1,Passed
+2251,47,Indonesia,Beginner,7,2.7,69,0,43,0,0,4,7,29.4,0,Failed
+2252,46,UK,No prior experience,10,4.4,60,9,41,0,0,3,4,52.2,0,Failed
+2253,31,Brazil,No prior experience,7,7.6,69,0,37,0,1,4,7,39.4,0,Failed
+2254,47,Bangladesh,Beginner,6,8.0,54,0,41,1,1,5,10,29.1,0,Failed
+2255,47,UK,No prior experience,2,7.4,50,0,36,0,0,7,2,0.0,0,Failed
+2256,49,Bangladesh,No prior experience,8,6.1,56,0,34,1,1,5,5,14.4,0,Failed
+2257,26,Other,Intermediate,1,9.8,67,0,38,1,0,3,9,58.2,0,Failed
+2258,25,Nigeria,Beginner,13,7.2,69,4,48,0,1,4,2,38.9,0,Failed
+2259,30,Germany,Beginner,1,9.1,58,1,27,0,0,7,3,47.5,0,Failed
+2260,32,India,No prior experience,6,1.7,49,2,36,0,0,7,5,14.3,0,Failed
+2261,33,Other,Intermediate,5,0.0,59,2,47,1,1,6,5,53.7,0,Failed
+2262,24,Other,No prior experience,9,7.9,53,1,42,1,0,2,8,27.6,0,Failed
+2263,40,Germany,Intermediate,13,2.7,64,3,54,0,1,7,7,56.0,0,Failed
+2264,29,Other,No prior experience,12,6.4,52,1,32,0,0,6,3,7.1,0,Failed
+2265,40,Brazil,Intermediate,7,6.1,63,0,41,1,0,4,5,44.6,0,Failed
+2266,37,Brazil,Beginner,2,11.8,49,3,50,1,1,4,8,71.9,1,Passed
+2267,45,Pakistan,Beginner,13,8.2,65,4,43,0,1,5,5,60.3,1,Passed
+2268,35,Pakistan,Beginner,12,7.5,59,1,40,0,0,6,2,38.1,0,Failed
+2269,36,Brazil,Beginner,7,9.5,61,2,44,0,0,4,10,50.9,0,Failed
+2270,47,USA,No prior experience,15,8.1,64,2,46,1,1,7,2,24.6,0,Failed
+2271,36,Nigeria,Intermediate,3,5.6,59,2,39,1,1,7,1,43.5,0,Failed
+2272,50,Bangladesh,No prior experience,1,10.2,70,0,42,0,1,3,6,34.2,0,Failed
+2273,47,Nigeria,Advanced,11,3.7,54,2,42,0,1,6,1,41.0,0,Failed
+2274,45,Indonesia,Intermediate,8,8.0,57,0,42,1,1,4,8,52.6,0,Failed
+2275,54,Other,No prior experience,14,2.4,56,2,47,1,0,7,1,7.8,0,Failed
+2276,27,India,Intermediate,12,7.6,42,4,36,0,1,3,8,54.4,0,Failed
+2277,33,Other,Beginner,3,7.6,56,1,43,0,1,2,6,45.7,0,Failed
+2278,36,Nigeria,No prior experience,11,12.0,68,1,37,0,1,4,9,43.7,0,Failed
+2279,28,Brazil,Advanced,8,2.3,46,1,35,0,0,8,3,50.4,0,Failed
+2280,36,Germany,Beginner,7,5.2,61,2,42,0,1,6,7,41.0,0,Failed
+2281,23,Indonesia,Beginner,12,9.5,54,3,44,0,1,4,2,53.5,0,Failed
+2282,22,Brazil,Beginner,15,8.0,74,1,38,1,1,6,5,53.7,0,Failed
+2283,38,Nigeria,No prior experience,2,7.5,36,3,44,1,0,3,1,14.0,0,Failed
+2284,47,Germany,Advanced,13,4.1,53,4,36,0,1,4,5,71.6,1,Passed
+2285,26,India,No prior experience,14,5.2,60,1,44,1,1,5,8,23.0,0,Failed
+2286,37,Nigeria,No prior experience,14,10.7,59,2,48,1,1,4,10,58.7,0,Failed
+2287,37,Bangladesh,Beginner,1,6.8,73,3,43,0,1,4,3,58.6,0,Failed
+2288,40,UK,Beginner,7,8.1,60,3,38,1,1,12,6,61.1,1,Passed
+2289,37,Germany,Beginner,13,6.7,51,0,45,0,0,5,4,27.2,0,Failed
+2290,43,Nigeria,No prior experience,1,3.5,43,2,29,1,0,4,8,12.2,0,Failed
+2291,44,Brazil,No prior experience,6,9.8,55,3,39,0,0,3,2,46.3,0,Failed
+2292,28,Bangladesh,No prior experience,13,8.5,67,4,45,0,1,10,5,35.3,0,Failed
+2293,33,USA,Advanced,11,13.9,53,2,31,0,0,4,6,63.7,1,Passed
+2294,17,Germany,No prior experience,10,4.0,62,1,35,0,1,6,8,18.1,0,Failed
+2295,44,Bangladesh,Intermediate,11,9.5,58,3,33,0,1,6,2,61.5,1,Passed
+2296,36,Brazil,Intermediate,10,3.1,71,2,44,1,1,1,9,37.0,0,Failed
+2297,30,Nigeria,Intermediate,8,7.5,63,1,54,1,1,5,7,52.7,0,Failed
+2298,42,Other,Intermediate,7,9.9,65,4,38,0,1,5,10,77.4,1,Passed
+2299,46,India,No prior experience,4,0.8,62,5,43,0,1,8,4,43.8,0,Failed
+2300,30,Other,No prior experience,1,6.4,66,2,48,1,0,5,10,36.6,0,Failed
+2301,38,UK,Beginner,1,5.3,56,1,35,0,0,7,2,25.7,0,Failed
+2302,39,Bangladesh,No prior experience,4,4.9,53,3,44,0,0,3,8,38.9,0,Failed
+2303,28,UK,Intermediate,5,8.2,59,3,38,1,0,4,2,53.6,0,Failed
+2304,37,India,Beginner,12,10.4,48,2,33,1,1,5,2,31.9,0,Failed
+2305,52,Bangladesh,Intermediate,7,6.6,71,3,38,1,0,5,9,71.5,1,Passed
+2306,48,Pakistan,No prior experience,14,7.6,62,0,34,0,1,8,4,7.5,0,Failed
+2307,18,Brazil,Advanced,4,7.3,49,4,36,0,0,8,7,73.4,1,Passed
+2308,34,Bangladesh,No prior experience,10,7.0,64,1,35,1,1,3,10,42.4,0,Failed
+2309,38,Brazil,Beginner,14,3.7,60,0,39,1,0,3,4,21.5,0,Failed
+2310,44,Other,Beginner,12,10.3,58,2,42,1,0,6,5,46.6,0,Failed
+2311,45,Indonesia,Intermediate,1,7.9,54,2,42,0,0,6,1,54.7,0,Failed
+2312,54,Germany,Beginner,11,8.2,54,0,44,1,1,4,10,45.4,0,Failed
+2313,40,Indonesia,Advanced,10,4.6,60,3,38,0,0,2,1,48.2,0,Failed
+2314,52,Nigeria,Advanced,7,5.6,54,4,42,0,1,8,10,80.0,1,Passed
+2315,23,Germany,Intermediate,2,6.5,53,2,51,0,1,6,10,74.2,1,Passed
+2316,31,Germany,No prior experience,13,2.4,78,0,33,1,0,3,3,5.6,0,Failed
+2317,23,USA,Intermediate,11,1.9,59,2,34,0,0,3,6,40.0,0,Failed
+2318,16,Germany,Intermediate,2,5.2,64,3,41,0,1,6,1,33.6,0,Failed
+2319,20,India,No prior experience,8,8.6,65,2,41,1,0,2,4,40.2,0,Failed
+2320,18,Indonesia,No prior experience,12,5.0,70,2,31,0,1,11,9,30.9,0,Failed
+2321,16,Other,No prior experience,10,3.9,71,3,26,0,0,5,2,23.1,0,Failed
+2322,19,Brazil,No prior experience,10,4.6,55,2,47,1,1,7,2,35.3,0,Failed
+2323,50,Nigeria,Beginner,10,5.6,61,1,41,1,1,7,2,36.5,0,Failed
+2324,47,Germany,Advanced,5,5.9,77,1,46,0,1,4,10,81.6,1,Passed
+2325,49,Nigeria,Beginner,10,13.5,71,3,34,1,0,2,10,79.0,1,Passed
+2326,40,Other,Beginner,2,10.2,63,1,33,0,1,5,7,52.1,0,Failed
+2327,25,Nigeria,Advanced,5,10.1,67,4,47,1,1,3,7,68.7,1,Passed
+2328,36,Other,No prior experience,8,10.5,87,1,39,1,1,3,6,23.2,0,Failed
+2329,54,Germany,Intermediate,6,4.0,50,3,32,0,1,7,2,55.0,0,Failed
+2330,42,Other,Beginner,3,3.3,57,2,40,1,1,9,5,43.0,0,Failed
+2331,42,Germany,Beginner,8,3.7,56,3,30,0,1,2,6,40.2,0,Failed
+2332,17,USA,No prior experience,15,11.0,55,1,39,0,1,4,6,28.8,0,Failed
+2333,28,USA,Beginner,14,5.4,44,1,33,1,0,5,10,35.9,0,Failed
+2334,24,Other,No prior experience,9,3.2,66,4,34,0,0,3,6,26.9,0,Failed
+2335,51,USA,Intermediate,5,5.7,53,1,43,0,1,7,6,45.1,0,Failed
+2336,37,Brazil,No prior experience,13,6.3,48,1,36,0,0,8,1,15.4,0,Failed
+2337,41,Brazil,Intermediate,2,7.8,65,3,45,0,1,4,4,65.3,1,Passed
+2338,27,USA,Beginner,2,7.8,55,0,43,1,1,2,1,21.4,0,Failed
+2339,32,USA,No prior experience,7,4.5,63,2,42,1,0,9,3,31.1,0,Failed
+2340,29,Pakistan,Beginner,1,9.1,69,1,42,0,0,2,2,37.6,0,Failed
+2341,29,Pakistan,No prior experience,10,5.1,56,3,40,0,0,5,2,19.9,0,Failed
+2342,49,Germany,Intermediate,12,6.5,76,1,42,0,1,2,6,55.3,0,Failed
+2343,35,Other,Advanced,2,9.1,55,1,28,0,0,9,1,47.0,0,Failed
+2344,26,UK,Intermediate,10,5.1,60,3,39,0,0,3,4,43.9,0,Failed
+2345,31,UK,No prior experience,4,5.3,55,1,43,0,1,4,9,7.2,0,Failed
+2346,46,USA,Beginner,1,8.8,63,3,44,0,0,5,3,49.5,0,Failed
+2347,21,Nigeria,Beginner,4,4.4,49,3,31,1,1,4,8,44.5,0,Failed
+2348,34,USA,Intermediate,13,5.8,57,4,56,1,1,9,9,72.3,1,Passed
+2349,52,Pakistan,No prior experience,12,8.7,73,3,50,1,0,4,2,34.8,0,Failed
+2350,19,Germany,Beginner,11,13.2,68,3,42,1,0,7,5,68.2,1,Passed
+2351,19,USA,Beginner,13,8.8,60,0,45,0,0,4,6,32.3,0,Failed
+2352,35,Indonesia,No prior experience,10,8.4,59,3,44,1,0,1,5,36.1,0,Failed
+2353,25,Nigeria,No prior experience,15,8.6,64,2,40,1,0,4,6,43.4,0,Failed
+2354,39,Indonesia,Beginner,5,3.8,57,4,32,1,1,5,5,30.6,0,Failed
+2355,50,Germany,Intermediate,9,7.3,59,1,48,0,1,4,7,51.9,0,Failed
+2356,41,Germany,Advanced,1,6.9,64,1,38,1,1,6,5,57.5,0,Failed
+2357,52,Brazil,Beginner,12,8.0,54,0,48,1,0,5,5,45.3,0,Failed
+2358,53,Bangladesh,Beginner,5,7.3,66,2,48,0,0,4,7,49.9,0,Failed
+2359,36,Indonesia,No prior experience,2,8.1,58,0,35,1,0,9,3,27.5,0,Failed
+2360,54,Brazil,Advanced,9,6.1,60,2,39,0,0,2,10,72.2,1,Passed
+2361,36,Pakistan,Advanced,6,7.2,53,2,33,0,1,5,7,78.9,1,Passed
+2362,25,India,Advanced,2,3.3,64,1,42,0,0,7,8,60.4,1,Passed
+2363,53,Nigeria,Intermediate,14,6.0,58,0,40,0,0,4,5,33.4,0,Failed
+2364,19,India,No prior experience,3,11.2,44,4,43,1,1,6,4,47.3,0,Failed
+2365,35,Other,Intermediate,14,8.0,62,3,43,0,1,9,2,55.9,0,Failed
+2366,32,Pakistan,Beginner,8,6.9,84,2,36,0,1,8,5,54.3,0,Failed
+2367,22,Pakistan,No prior experience,1,12.7,71,0,44,1,0,1,6,35.8,0,Failed
+2368,19,India,Intermediate,12,2.9,54,1,42,0,0,4,9,36.8,0,Failed
+2369,44,Indonesia,No prior experience,3,3.7,58,0,48,1,0,7,6,15.8,0,Failed
+2370,29,Bangladesh,No prior experience,13,12.1,57,3,42,1,0,8,6,34.0,0,Failed
+2371,18,Indonesia,Beginner,10,7.1,63,2,33,0,1,5,6,42.0,0,Failed
+2372,39,India,Beginner,1,6.3,63,0,57,1,1,8,8,44.4,0,Failed
+2373,52,Other,Intermediate,11,3.4,58,1,27,0,1,4,6,31.0,0,Failed
+2374,31,Indonesia,No prior experience,11,8.3,61,3,38,1,0,8,1,28.2,0,Failed
+2375,19,UK,No prior experience,8,8.6,60,1,50,1,0,3,1,36.9,0,Failed
+2376,39,Indonesia,No prior experience,1,3.7,64,2,37,1,1,3,10,36.7,0,Failed
+2377,49,Germany,No prior experience,13,6.6,57,1,44,0,0,2,2,3.5,0,Failed
+2378,45,Brazil,No prior experience,5,6.0,63,2,45,0,1,6,1,18.7,0,Failed
+2379,33,Nigeria,Beginner,4,7.8,55,3,40,1,1,4,3,37.9,0,Failed
+2380,34,Indonesia,Beginner,7,3.6,70,1,47,1,1,14,3,47.7,0,Failed
+2381,46,Bangladesh,Intermediate,14,10.8,49,2,48,0,1,4,4,51.1,0,Failed
+2382,34,Bangladesh,Advanced,5,9.7,64,1,42,0,0,7,6,64.0,1,Passed
+2383,34,Indonesia,Beginner,8,5.9,70,2,35,0,1,8,10,61.2,1,Passed
+2384,37,USA,No prior experience,12,6.4,58,2,42,1,0,4,7,33.2,0,Failed
+2385,39,Pakistan,No prior experience,14,6.6,57,3,35,0,0,7,9,35.5,0,Failed
+2386,27,Indonesia,Intermediate,11,4.7,72,1,36,1,0,4,8,53.4,0,Failed
+2387,45,Pakistan,Beginner,1,5.7,69,0,49,1,0,3,6,30.5,0,Failed
+2388,53,UK,Intermediate,5,6.2,53,2,35,0,0,2,9,64.9,1,Passed
+2389,46,India,Intermediate,4,11.8,57,4,42,0,0,5,4,60.2,1,Passed
+2390,51,UK,Advanced,3,9.8,57,2,37,1,1,8,6,78.8,1,Passed
+2391,34,Indonesia,Advanced,5,9.8,45,2,45,0,1,3,7,73.2,1,Passed
+2392,51,Bangladesh,Beginner,10,8.1,66,2,32,0,1,2,2,51.9,0,Failed
+2393,45,USA,No prior experience,15,3.6,65,2,36,0,0,9,1,15.1,0,Failed
+2394,48,Other,Advanced,3,6.9,50,1,43,0,0,2,10,53.0,0,Failed
+2395,33,Pakistan,Beginner,8,9.9,66,0,34,0,0,4,8,46.7,0,Failed
+2396,43,Brazil,No prior experience,13,3.2,57,0,35,1,1,7,8,13.0,0,Failed
+2397,26,Pakistan,Beginner,3,8.9,58,2,42,1,1,6,7,47.8,0,Failed
+2398,48,Germany,Beginner,1,14.0,62,2,42,1,0,5,9,55.4,0,Failed
+2399,32,Nigeria,Intermediate,9,10.2,56,1,35,0,1,4,9,54.7,0,Failed
+2400,21,Indonesia,Beginner,15,11.2,53,0,29,0,1,5,3,34.9,0,Failed
+2401,19,UK,No prior experience,9,7.7,50,1,43,0,0,5,1,6.2,0,Failed
+2402,35,Brazil,Advanced,6,9.9,74,2,45,0,0,8,9,77.1,1,Passed
+2403,42,Bangladesh,Intermediate,10,4.8,74,3,32,0,1,3,1,54.1,0,Failed
+2404,30,Bangladesh,Beginner,1,9.4,56,1,29,0,1,3,1,35.4,0,Failed
+2405,21,Bangladesh,No prior experience,8,9.0,65,4,38,0,0,2,5,45.0,0,Failed
+2406,29,Other,Beginner,2,7.9,74,1,45,0,0,3,2,42.4,0,Failed
+2407,26,Germany,Beginner,9,10.9,65,3,47,0,1,9,2,56.8,0,Failed
+2408,54,Bangladesh,No prior experience,14,5.4,52,1,38,0,0,6,5,14.8,0,Failed
+2409,24,Bangladesh,No prior experience,8,6.4,60,2,52,0,1,2,7,30.0,0,Failed
+2410,41,Indonesia,Intermediate,3,7.3,52,1,42,1,0,5,6,45.2,0,Failed
+2411,31,Germany,Beginner,13,3.9,58,3,41,0,0,5,5,29.4,0,Failed
+2412,20,USA,Beginner,5,7.7,51,1,36,0,0,6,3,39.2,0,Failed
+2413,25,USA,No prior experience,9,1.8,64,3,45,0,1,6,9,37.2,0,Failed
+2414,18,Germany,Beginner,13,10.1,63,0,28,0,1,7,8,49.9,0,Failed
+2415,28,Nigeria,Intermediate,1,7.1,72,0,42,1,1,2,3,45.3,0,Failed
+2416,45,Other,No prior experience,9,5.4,42,3,46,0,0,1,7,25.7,0,Failed
+2417,21,Brazil,No prior experience,15,4.5,45,2,37,1,1,2,3,23.5,0,Failed
+2418,32,Pakistan,Beginner,4,6.3,58,2,33,0,1,4,6,31.3,0,Failed
+2419,34,Indonesia,Advanced,4,9.1,51,4,40,1,0,7,3,72.0,1,Passed
+2420,50,India,Beginner,15,8.6,56,1,49,1,1,6,8,60.3,1,Passed
+2421,41,USA,No prior experience,4,4.9,58,3,28,1,1,6,3,27.9,0,Failed
+2422,20,Germany,No prior experience,10,4.5,75,2,42,0,1,8,5,36.3,0,Failed
+2423,44,Brazil,Intermediate,12,9.0,48,6,32,1,1,5,3,84.1,1,Passed
+2424,52,Germany,No prior experience,9,4.8,60,2,42,0,1,7,8,40.7,0,Failed
+2425,35,Pakistan,Beginner,14,7.2,53,1,39,0,1,7,10,37.0,0,Failed
+2426,36,Brazil,Beginner,6,7.4,74,1,42,1,0,5,9,60.2,1,Passed
+2427,25,USA,No prior experience,11,7.9,67,1,40,1,1,5,6,36.1,0,Failed
+2428,20,Bangladesh,Intermediate,8,9.6,50,4,34,0,0,7,10,81.2,1,Passed
+2429,51,Germany,Intermediate,12,3.2,62,2,28,1,1,10,4,29.2,0,Failed
+2430,21,India,Beginner,14,1.3,64,4,41,0,1,6,10,55.5,0,Failed
+2431,41,USA,No prior experience,4,5.3,49,4,50,0,1,1,4,29.9,0,Failed
+2432,19,UK,No prior experience,3,12.4,74,0,31,1,1,5,5,41.0,0,Failed
+2433,54,India,Beginner,14,13.1,62,1,48,0,0,6,3,39.4,0,Failed
+2434,54,Nigeria,Beginner,1,12.5,59,1,34,0,1,5,4,50.0,0,Failed
+2435,50,Other,No prior experience,10,6.4,57,3,44,0,0,2,4,30.6,0,Failed
+2436,16,USA,No prior experience,15,1.7,60,2,50,1,0,5,1,25.1,0,Failed
+2437,39,Bangladesh,No prior experience,15,0.0,61,4,34,0,1,6,1,19.9,0,Failed
+2438,51,USA,Advanced,7,5.2,57,1,32,0,1,7,9,67.3,1,Passed
+2439,21,Pakistan,Intermediate,4,6.4,55,1,40,0,0,3,3,40.5,0,Failed
+2440,46,Brazil,Advanced,14,10.9,61,4,34,1,0,5,5,70.6,1,Passed
+2441,35,Germany,No prior experience,8,9.6,51,5,28,1,0,5,2,44.7,0,Failed
+2442,39,Brazil,Advanced,14,7.7,68,2,33,1,1,3,1,62.1,1,Passed
+2443,40,Brazil,No prior experience,3,4.3,74,2,37,1,1,3,7,42.6,0,Failed
+2444,51,USA,Beginner,1,4.1,54,2,46,0,0,1,10,33.6,0,Failed
+2445,36,Pakistan,Intermediate,5,7.8,57,1,45,0,1,4,9,62.3,1,Passed
+2446,45,Germany,No prior experience,14,9.1,55,4,34,0,0,5,4,34.5,0,Failed
+2447,39,Germany,Beginner,2,8.2,55,2,37,0,1,8,4,54.8,0,Failed
+2448,45,Brazil,No prior experience,3,3.9,64,1,34,0,0,4,3,7.4,0,Failed
+2449,37,Nigeria,No prior experience,14,9.0,50,3,44,1,1,7,3,37.1,0,Failed
+2450,43,Other,Beginner,6,8.3,55,1,31,0,0,3,2,29.1,0,Failed
+2451,22,Pakistan,Beginner,3,3.8,52,1,31,0,1,6,3,35.6,0,Failed
+2452,50,Nigeria,Intermediate,3,4.6,60,3,34,0,1,4,5,55.8,0,Failed
+2453,43,Indonesia,Beginner,12,9.1,49,1,40,0,0,7,8,29.9,0,Failed
+2454,29,Indonesia,Beginner,6,6.3,79,0,34,0,0,2,8,30.8,0,Failed
+2455,25,India,No prior experience,5,11.8,55,1,37,1,0,6,5,15.9,0,Failed
+2456,31,Brazil,No prior experience,10,8.5,50,4,35,0,1,6,1,36.4,0,Failed
+2457,31,Germany,Advanced,9,5.5,63,2,42,0,0,4,10,45.7,0,Failed
+2458,46,USA,No prior experience,1,7.0,61,0,44,1,1,7,2,24.7,0,Failed
+2459,40,Germany,Beginner,13,7.2,54,3,48,0,1,8,8,51.6,0,Failed
+2460,28,Germany,No prior experience,3,4.8,52,3,39,1,0,4,10,44.3,0,Failed
+2461,21,Bangladesh,Intermediate,3,4.3,60,4,45,0,0,9,9,57.6,0,Failed
+2462,24,Germany,Intermediate,11,9.1,65,2,40,1,1,3,7,61.0,1,Passed
+2463,51,India,No prior experience,6,9.5,68,2,39,0,0,6,9,42.8,0,Failed
+2464,35,Nigeria,No prior experience,8,8.8,73,3,40,1,0,4,9,38.6,0,Failed
+2465,33,Indonesia,Beginner,3,11.5,68,1,32,0,1,1,6,48.0,0,Failed
+2466,36,Germany,Beginner,3,5.4,52,3,34,0,0,6,6,33.4,0,Failed
+2467,19,Germany,No prior experience,6,12.0,61,1,43,1,0,6,7,45.2,0,Failed
+2468,48,Bangladesh,Intermediate,8,4.3,52,2,42,0,0,4,1,42.5,0,Failed
+2469,42,Pakistan,No prior experience,6,4.0,61,3,40,0,1,8,9,43.9,0,Failed
+2470,22,USA,Intermediate,13,1.7,70,3,35,0,0,4,1,31.6,0,Failed
+2471,21,Pakistan,Beginner,12,5.7,58,0,42,0,1,7,8,45.0,0,Failed
+2472,30,USA,No prior experience,14,5.5,58,2,53,1,0,7,10,25.0,0,Failed
+2473,33,Other,Beginner,10,8.6,63,2,44,1,0,4,2,32.5,0,Failed
+2474,47,Germany,Beginner,3,7.7,60,2,33,0,1,7,10,55.8,0,Failed
+2475,26,Bangladesh,No prior experience,4,3.4,70,1,38,0,0,2,7,8.1,0,Failed
+2476,35,UK,Beginner,1,5.8,63,1,32,1,0,9,5,48.9,0,Failed
+2477,39,Brazil,No prior experience,13,5.9,55,0,40,0,0,5,8,26.3,0,Failed
+2478,30,Indonesia,No prior experience,8,1.7,60,1,40,1,1,9,10,45.5,0,Failed
+2479,22,Nigeria,No prior experience,4,4.1,52,4,43,0,0,10,7,30.6,0,Failed
+2480,36,Indonesia,Beginner,6,4.7,57,3,33,1,1,4,8,52.0,0,Failed
+2481,41,Nigeria,No prior experience,11,11.3,56,3,39,0,1,9,2,39.5,0,Failed
+2482,29,Other,Beginner,3,7.6,65,4,35,0,0,5,10,59.1,0,Failed
+2483,52,Pakistan,Beginner,11,9.0,61,1,30,0,0,3,9,57.0,0,Failed
+2484,36,India,Beginner,12,2.5,64,4,42,1,1,3,6,44.0,0,Failed
+2485,33,Germany,Intermediate,11,10.6,61,1,47,0,1,6,6,61.5,1,Passed
+2486,20,UK,Intermediate,6,10.9,70,2,43,1,1,3,6,73.3,1,Passed
+2487,18,Nigeria,Beginner,12,1.0,78,2,50,0,0,7,1,36.7,0,Failed
+2488,38,Brazil,Beginner,11,4.9,67,0,38,0,0,3,7,26.4,0,Failed
+2489,41,Nigeria,No prior experience,9,8.5,56,2,28,1,1,6,2,36.3,0,Failed
+2490,52,India,Intermediate,9,8.9,51,2,50,0,1,2,2,55.2,0,Failed
+2491,39,Indonesia,No prior experience,10,5.0,70,2,39,0,1,5,5,27.9,0,Failed
+2492,34,Bangladesh,No prior experience,3,6.1,51,1,30,0,0,5,6,15.6,0,Failed
+2493,40,Indonesia,Intermediate,3,5.2,52,4,47,1,1,4,1,64.0,1,Passed
+2494,36,Other,No prior experience,4,7.3,64,3,43,0,0,8,1,39.3,0,Failed
+2495,27,Bangladesh,No prior experience,12,10.6,41,3,40,0,0,7,1,20.3,0,Failed
+2496,48,Indonesia,Beginner,7,4.7,58,3,41,0,1,4,7,33.6,0,Failed
+2497,19,Brazil,Beginner,3,10.0,73,4,34,0,1,4,1,53.5,0,Failed
+2498,22,Indonesia,Intermediate,10,4.7,42,0,42,0,0,3,9,29.9,0,Failed
+2499,37,Brazil,Intermediate,8,4.5,58,3,36,1,1,4,3,45.4,0,Failed
+2500,48,Brazil,No prior experience,11,9.5,62,2,42,0,0,3,10,30.6,0,Failed
+2501,32,Bangladesh,No prior experience,8,9.8,65,4,37,1,0,2,2,45.6,0,Failed
+2502,39,Pakistan,Beginner,6,9.6,63,1,37,0,1,5,6,40.4,0,Failed
+2503,49,USA,No prior experience,4,3.1,70,1,48,1,0,8,2,14.8,0,Failed
+2504,43,Germany,Beginner,11,5.6,78,1,40,1,0,7,5,48.5,0,Failed
+2505,54,Nigeria,No prior experience,12,9.5,60,2,44,0,0,7,5,43.2,0,Failed
+2506,37,USA,Beginner,11,7.1,56,3,45,0,0,4,9,47.1,0,Failed
+2507,32,India,Beginner,5,3.8,66,2,31,1,0,3,4,40.8,0,Failed
+2508,49,Pakistan,Beginner,12,8.4,66,1,46,0,1,4,8,56.4,0,Failed
+2509,21,USA,Beginner,2,4.9,56,1,43,0,1,5,7,28.6,0,Failed
+2510,21,Bangladesh,Beginner,13,12.4,71,0,32,1,0,2,7,58.5,0,Failed
+2511,49,India,No prior experience,6,11.6,68,3,42,0,1,7,1,45.0,0,Failed
+2512,16,UK,No prior experience,3,8.8,53,5,36,0,1,2,6,33.5,0,Failed
+2513,25,Pakistan,No prior experience,15,11.1,59,1,31,1,1,6,6,39.3,0,Failed
+2514,36,USA,Beginner,6,7.2,58,3,59,0,0,9,10,49.2,0,Failed
+2515,20,India,Beginner,12,9.3,46,2,49,0,0,6,8,43.8,0,Failed
+2516,17,UK,Beginner,5,11.4,62,0,28,0,1,9,6,45.0,0,Failed
+2517,37,Indonesia,No prior experience,14,7.7,60,3,40,0,0,2,8,42.8,0,Failed
+2518,17,India,Beginner,2,6.2,62,2,38,1,0,4,6,45.3,0,Failed
+2519,25,Bangladesh,Intermediate,15,1.9,69,1,31,1,1,4,8,50.9,0,Failed
+2520,49,Indonesia,No prior experience,12,6.8,67,1,34,0,0,5,5,18.7,0,Failed
+2521,31,Bangladesh,No prior experience,13,9.5,52,2,32,1,1,4,9,38.4,0,Failed
+2522,54,USA,No prior experience,14,9.8,52,3,47,0,1,6,4,24.8,0,Failed
+2523,37,Germany,Beginner,5,8.5,36,2,31,1,1,5,6,46.6,0,Failed
+2524,27,USA,Beginner,5,5.4,46,1,42,0,1,3,2,27.3,0,Failed
+2525,39,Indonesia,No prior experience,14,1.1,68,4,40,0,0,6,3,29.4,0,Failed
+2526,53,Brazil,Beginner,9,5.5,56,1,41,0,1,5,4,38.9,0,Failed
+2527,25,USA,No prior experience,11,6.1,65,5,40,0,1,5,3,21.1,0,Failed
+2528,50,Indonesia,Beginner,8,6.1,56,2,38,0,0,5,7,35.4,0,Failed
+2529,47,India,Beginner,12,8.9,79,0,48,0,1,3,9,67.7,1,Passed
+2530,22,Other,Intermediate,12,13.0,67,1,41,1,1,8,6,72.4,1,Passed
+2531,36,USA,No prior experience,7,7.4,56,2,45,1,1,8,3,42.4,0,Failed
+2532,35,India,Intermediate,15,6.3,65,3,39,1,1,4,9,67.3,1,Passed
+2533,41,Bangladesh,Intermediate,15,6.2,67,2,50,0,0,2,1,42.0,0,Failed
+2534,19,Pakistan,No prior experience,12,7.4,55,0,46,0,0,6,5,10.2,0,Failed
+2535,37,Germany,No prior experience,13,4.5,62,0,35,0,0,7,10,24.4,0,Failed
+2536,30,Bangladesh,Beginner,15,7.4,72,2,43,0,0,9,10,52.8,0,Failed
+2537,36,Bangladesh,Intermediate,14,8.4,59,1,24,0,0,7,5,56.3,0,Failed
+2538,30,Indonesia,Intermediate,3,7.6,58,2,35,0,1,5,2,58.7,0,Failed
+2539,37,Brazil,Beginner,10,8.4,71,2,34,0,1,7,5,42.5,0,Failed
+2540,43,Nigeria,Intermediate,4,8.3,50,2,38,1,0,4,1,40.7,0,Failed
+2541,29,Other,No prior experience,6,1.7,67,0,51,1,1,8,1,10.5,0,Failed
+2542,42,Brazil,No prior experience,3,8.9,56,0,38,0,0,6,4,16.3,0,Failed
+2543,43,Indonesia,Advanced,11,5.0,65,2,41,1,1,2,6,63.1,1,Passed
+2544,41,Germany,Intermediate,9,3.7,62,2,35,0,1,5,2,42.9,0,Failed
+2545,17,Other,Beginner,8,3.7,67,2,40,0,1,4,5,49.9,0,Failed
+2546,40,Other,Intermediate,6,8.3,51,3,42,0,0,4,10,69.9,1,Passed
+2547,18,Indonesia,Advanced,4,6.3,60,1,35,1,0,5,5,70.0,1,Passed
+2548,23,UK,Intermediate,7,2.0,61,4,37,0,1,6,3,41.9,0,Failed
+2549,48,Bangladesh,Intermediate,13,8.4,60,1,43,0,1,4,4,56.0,0,Failed
+2550,50,Pakistan,Intermediate,15,2.7,61,0,46,0,1,6,2,45.3,0,Failed
+2551,21,UK,No prior experience,11,7.4,55,3,28,0,0,4,7,31.3,0,Failed
+2552,54,Indonesia,Intermediate,3,7.7,52,1,32,0,0,4,3,42.4,0,Failed
+2553,38,UK,No prior experience,10,9.7,74,4,55,1,0,8,6,50.3,0,Failed
+2554,40,Pakistan,Intermediate,15,12.3,70,2,40,0,1,4,9,76.8,1,Passed
+2555,34,Indonesia,Beginner,8,2.9,60,2,42,1,1,4,7,27.3,0,Failed
+2556,20,Indonesia,Beginner,1,6.8,57,3,35,0,0,5,4,46.2,0,Failed
+2557,26,Other,Beginner,3,6.2,75,1,46,0,0,4,2,33.9,0,Failed
+2558,27,UK,No prior experience,11,8.3,56,3,45,1,1,4,7,27.8,0,Failed
+2559,25,India,No prior experience,5,7.6,59,0,44,0,1,5,8,32.6,0,Failed
+2560,23,USA,Advanced,5,5.9,59,2,30,0,0,3,3,63.6,1,Passed
+2561,39,Indonesia,Advanced,10,5.7,60,0,33,0,0,10,7,55.8,0,Failed
+2562,43,UK,No prior experience,14,3.7,51,0,36,1,0,5,1,4.9,0,Failed
+2563,51,Nigeria,Advanced,2,10.0,53,1,37,1,0,7,8,60.2,1,Passed
+2564,52,Germany,Intermediate,10,8.4,74,1,40,0,1,3,7,48.9,0,Failed
+2565,36,Nigeria,Beginner,8,9.8,52,1,30,0,0,4,6,41.9,0,Failed
+2566,23,UK,No prior experience,5,6.1,57,2,38,1,1,2,3,9.8,0,Failed
+2567,24,Bangladesh,Advanced,7,5.0,59,1,33,0,1,10,4,51.0,0,Failed
+2568,30,Bangladesh,Beginner,15,3.8,61,2,40,0,0,6,8,29.6,0,Failed
+2569,33,UK,Intermediate,7,8.1,46,1,36,1,1,6,1,41.4,0,Failed
+2570,35,Other,Intermediate,14,3.9,54,1,35,1,1,5,2,45.7,0,Failed
+2571,21,Other,Intermediate,5,12.5,56,2,51,0,0,5,1,55.9,0,Failed
+2572,27,Indonesia,Beginner,8,3.1,65,1,36,1,0,9,4,40.3,0,Failed
+2573,17,Pakistan,No prior experience,9,7.8,69,1,50,0,1,6,6,31.1,0,Failed
+2574,22,USA,No prior experience,4,11.7,71,3,42,1,1,2,5,53.9,0,Failed
+2575,31,Indonesia,No prior experience,4,8.8,58,1,40,0,0,2,6,21.2,0,Failed
+2576,18,Nigeria,No prior experience,8,7.5,50,3,40,0,0,5,2,35.2,0,Failed
+2577,18,USA,Beginner,1,4.1,56,1,42,0,1,6,5,28.2,0,Failed
+2578,42,Nigeria,Beginner,15,2.9,51,2,35,0,0,7,1,24.8,0,Failed
+2579,53,Other,Intermediate,4,9.3,55,0,32,0,1,5,6,36.9,0,Failed
+2580,48,UK,No prior experience,6,11.5,56,1,37,1,1,6,4,41.6,0,Failed
+2581,43,Pakistan,Beginner,13,5.7,53,2,44,0,1,10,10,38.5,0,Failed
+2582,16,Nigeria,No prior experience,4,3.6,85,1,43,1,1,6,9,42.2,0,Failed
+2583,23,Other,No prior experience,6,0.0,60,0,43,0,1,5,3,0.0,0,Failed
+2584,52,Pakistan,No prior experience,5,4.1,68,2,38,1,1,4,3,13.9,0,Failed
+2585,47,Indonesia,Intermediate,14,6.7,58,2,28,0,0,3,9,56.0,0,Failed
+2586,52,UK,No prior experience,9,11.8,58,3,38,0,1,4,4,32.4,0,Failed
+2587,19,Germany,Intermediate,10,9.0,51,1,40,0,1,1,7,57.8,0,Failed
+2588,45,Bangladesh,No prior experience,9,7.9,63,1,39,0,1,7,10,33.9,0,Failed
+2589,21,Brazil,Intermediate,4,5.8,57,2,38,0,1,5,2,44.9,0,Failed
+2590,34,Pakistan,Intermediate,13,5.3,61,2,48,0,1,6,1,43.6,0,Failed
+2591,47,Germany,Advanced,14,11.2,64,2,35,1,0,2,10,68.3,1,Passed
+2592,24,Germany,Intermediate,4,7.6,69,2,29,1,1,3,1,53.8,0,Failed
+2593,27,Pakistan,Advanced,12,0.7,53,3,36,1,0,4,6,50.3,0,Failed
+2594,26,Germany,Intermediate,8,5.0,71,3,46,0,1,4,4,49.7,0,Failed
+2595,31,Nigeria,Beginner,10,4.4,58,1,39,1,0,3,2,24.9,0,Failed
+2596,16,Germany,No prior experience,15,5.4,66,1,45,0,0,4,7,38.9,0,Failed
+2597,36,Other,No prior experience,4,8.7,62,3,33,0,1,3,8,31.1,0,Failed
+2598,45,USA,No prior experience,2,6.7,74,3,37,0,1,3,7,23.2,0,Failed
+2599,28,Nigeria,Beginner,13,6.8,67,2,46,0,1,3,10,58.0,0,Failed
+2600,49,Germany,Beginner,13,10.9,56,2,37,0,0,7,9,51.7,0,Failed
+2601,19,Indonesia,Intermediate,14,4.9,43,3,45,0,1,8,1,39.9,0,Failed
+2602,43,Bangladesh,Advanced,15,12.6,60,2,39,0,1,7,10,80.2,1,Passed
+2603,53,UK,Beginner,2,5.0,55,2,42,1,0,4,6,47.1,0,Failed
+2604,46,Germany,Beginner,1,7.3,74,3,39,1,1,4,8,58.7,0,Failed
+2605,42,India,Advanced,5,6.2,48,1,42,0,1,6,9,55.9,0,Failed
+2606,20,Bangladesh,No prior experience,15,7.4,62,3,38,0,0,7,8,39.1,0,Failed
+2607,40,Indonesia,Intermediate,6,8.3,71,0,42,1,1,4,6,58.4,0,Failed
+2608,18,Other,No prior experience,9,8.3,62,3,32,0,1,3,8,36.7,0,Failed
+2609,48,Germany,Beginner,5,4.7,71,1,41,1,1,6,8,47.7,0,Failed
+2610,19,Other,No prior experience,13,3.6,74,4,36,1,0,1,1,27.3,0,Failed
+2611,40,Germany,Intermediate,6,14.5,64,2,55,0,1,6,8,60.5,1,Passed
+2612,35,Brazil,Beginner,6,5.5,66,3,32,0,1,10,7,64.2,1,Passed
+2613,49,USA,No prior experience,3,9.1,56,2,46,1,0,2,8,39.3,0,Failed
+2614,41,Other,No prior experience,12,2.2,51,1,32,1,0,7,8,4.6,0,Failed
+2615,20,USA,Beginner,4,6.2,56,2,45,0,1,9,10,59.1,0,Failed
+2616,50,Bangladesh,Advanced,1,6.6,57,3,34,0,1,8,10,89.7,1,Passed
+2617,43,Brazil,Intermediate,4,8.4,47,3,36,1,1,4,6,63.2,1,Passed
+2618,44,UK,Beginner,1,0.0,69,1,37,0,1,6,9,32.1,0,Failed
+2619,24,Nigeria,No prior experience,15,7.5,67,1,33,1,1,5,3,33.5,0,Failed
+2620,53,USA,Beginner,5,3.6,61,1,37,1,1,4,10,40.0,0,Failed
+2621,21,Brazil,Intermediate,11,8.0,56,6,41,1,0,6,1,63.2,1,Passed
+2622,34,USA,Intermediate,11,3.9,65,3,46,0,0,6,9,58.5,0,Failed
+2623,26,Pakistan,No prior experience,8,4.4,66,2,46,1,1,5,10,39.6,0,Failed
+2624,17,Indonesia,Intermediate,8,6.2,47,1,41,0,1,10,10,58.2,0,Failed
+2625,24,UK,Beginner,5,3.8,62,0,52,0,1,4,2,26.1,0,Failed
+2626,36,Indonesia,Advanced,14,5.6,66,2,36,0,1,9,3,48.7,0,Failed
+2627,39,Germany,Advanced,10,3.4,51,0,34,0,1,5,4,38.4,0,Failed
+2628,49,USA,Intermediate,2,1.5,56,2,44,1,0,5,8,55.8,0,Failed
+2629,37,Germany,Intermediate,12,10.1,65,0,42,1,1,7,9,59.6,0,Failed
+2630,18,India,No prior experience,6,3.1,53,2,37,0,0,6,3,0.5,0,Failed
+2631,27,USA,Intermediate,1,6.5,61,1,46,0,1,5,2,60.8,1,Passed
+2632,43,Brazil,Beginner,7,9.3,72,2,41,0,1,3,2,60.2,1,Passed
+2633,45,UK,No prior experience,11,5.2,64,3,38,0,1,9,9,50.4,0,Failed
+2634,41,Germany,Beginner,4,4.5,43,3,37,1,0,6,8,42.8,0,Failed
+2635,36,USA,Intermediate,5,7.7,66,1,46,0,0,1,2,48.0,0,Failed
+2636,43,India,No prior experience,6,10.4,62,3,35,1,0,5,8,39.2,0,Failed
+2637,41,Indonesia,Beginner,11,3.5,67,2,50,1,1,3,4,34.9,0,Failed
+2638,48,Brazil,Beginner,1,6.5,67,3,44,0,0,5,6,41.2,0,Failed
+2639,36,Pakistan,No prior experience,9,1.8,55,1,45,0,0,3,5,14.8,0,Failed
+2640,50,USA,No prior experience,10,5.8,52,1,44,0,1,3,5,45.2,0,Failed
+2641,49,Pakistan,Intermediate,4,7.1,52,3,55,0,0,3,10,61.6,1,Passed
+2642,33,Bangladesh,Intermediate,8,4.4,64,2,36,0,0,3,10,62.6,1,Passed
+2643,26,UK,No prior experience,5,5.6,58,5,49,0,1,4,7,51.3,0,Failed
+2644,38,USA,Intermediate,11,2.8,73,4,41,1,1,1,8,65.5,1,Passed
+2645,37,Other,Intermediate,8,7.2,58,1,40,0,1,0,5,51.9,0,Failed
+2646,32,India,Beginner,15,10.2,52,1,36,1,1,2,4,44.3,0,Failed
+2647,20,Germany,Intermediate,1,3.7,58,1,27,0,0,4,2,41.1,0,Failed
+2648,26,Other,Advanced,8,5.1,54,0,45,0,0,6,5,37.1,0,Failed
+2649,45,Bangladesh,Beginner,11,8.5,61,2,42,0,0,4,8,51.2,0,Failed
+2650,30,UK,No prior experience,13,10.6,49,1,31,0,0,6,1,20.2,0,Failed
+2651,42,Indonesia,Advanced,11,2.5,62,0,48,0,1,2,6,46.5,0,Failed
+2652,50,Brazil,Beginner,4,6.5,55,2,31,1,0,3,2,28.2,0,Failed
+2653,48,Pakistan,No prior experience,2,7.8,64,2,34,0,1,5,2,37.4,0,Failed
+2654,35,Bangladesh,Beginner,11,6.7,61,4,34,1,1,4,8,59.4,0,Failed
+2655,31,Germany,Beginner,6,0.0,59,1,41,1,0,4,6,34.7,0,Failed
+2656,49,Brazil,Intermediate,2,8.5,70,2,43,1,0,7,6,66.3,1,Passed
+2657,17,Indonesia,Beginner,5,11.6,85,0,38,1,0,4,6,61.9,1,Passed
+2658,50,Germany,No prior experience,2,7.3,62,2,39,0,0,6,9,40.4,0,Failed
+2659,43,India,Beginner,3,3.9,59,2,35,1,1,2,3,31.8,0,Failed
+2660,54,Pakistan,Beginner,11,5.5,70,2,35,1,1,9,2,53.1,0,Failed
+2661,21,Other,No prior experience,6,12.3,64,3,35,1,1,3,5,51.3,0,Failed
+2662,24,USA,Beginner,1,9.7,53,2,44,0,1,6,6,48.8,0,Failed
+2663,35,Bangladesh,Intermediate,6,8.9,65,1,46,0,0,6,9,47.9,0,Failed
+2664,16,USA,No prior experience,3,8.1,69,0,52,1,1,4,9,40.6,0,Failed
+2665,23,Brazil,Beginner,7,5.0,63,2,50,1,1,6,2,55.4,0,Failed
+2666,38,USA,No prior experience,2,6.4,48,2,45,1,0,6,9,39.7,0,Failed
+2667,18,Other,No prior experience,14,6.8,59,1,37,1,1,7,9,37.1,0,Failed
+2668,19,Nigeria,Beginner,6,8.6,69,0,42,0,0,8,6,36.4,0,Failed
+2669,40,Brazil,No prior experience,8,11.5,45,4,40,0,1,2,1,20.4,0,Failed
+2670,53,Pakistan,Intermediate,15,10.4,41,1,35,1,1,5,8,66.8,1,Passed
+2671,30,Germany,No prior experience,15,2.7,65,1,37,0,1,4,8,23.9,0,Failed
+2672,36,Pakistan,Intermediate,15,7.7,63,2,53,1,1,5,8,56.9,0,Failed
+2673,50,USA,No prior experience,1,9.2,54,2,33,1,1,7,8,37.8,0,Failed
+2674,29,UK,Advanced,11,8.9,64,0,34,0,1,3,10,64.8,1,Passed
+2675,51,Brazil,Beginner,11,5.1,56,1,42,0,1,8,5,40.0,0,Failed
+2676,27,Germany,Intermediate,13,15.7,57,0,45,1,0,7,2,61.4,1,Passed
+2677,32,Indonesia,No prior experience,9,3.2,46,2,60,0,0,3,9,31.2,0,Failed
+2678,54,India,Beginner,5,3.8,56,3,50,0,1,2,6,55.2,0,Failed
+2679,24,Pakistan,No prior experience,5,7.7,59,3,38,1,0,9,3,37.8,0,Failed
+2680,50,Pakistan,Advanced,13,13.4,58,2,42,1,0,6,1,55.2,0,Failed
+2681,28,Brazil,Beginner,12,4.5,73,2,35,1,0,2,5,45.6,0,Failed
+2682,30,UK,Beginner,5,6.2,61,2,40,0,0,6,4,44.3,0,Failed
+2683,33,USA,Intermediate,6,10.2,60,4,40,0,0,7,4,73.9,1,Passed
+2684,48,USA,Beginner,2,6.9,54,1,39,1,0,5,9,56.2,0,Failed
+2685,21,Brazil,Intermediate,6,6.0,50,2,41,0,0,8,6,60.7,1,Passed
+2686,42,Pakistan,Beginner,14,8.7,66,1,40,0,0,4,8,49.3,0,Failed
+2687,38,Germany,Intermediate,11,7.8,60,0,32,0,0,7,9,37.0,0,Failed
+2688,42,India,Beginner,4,10.1,60,2,35,0,1,2,1,45.1,0,Failed
+2689,49,Brazil,Beginner,8,10.9,57,4,40,0,1,5,7,69.5,1,Passed
+2690,53,Germany,No prior experience,13,7.9,61,0,40,0,1,2,7,37.9,0,Failed
+2691,29,Germany,Intermediate,11,7.9,65,3,48,0,1,4,9,79.7,1,Passed
+2692,51,Indonesia,Beginner,9,7.6,58,2,35,1,0,11,1,52.0,0,Failed
+2693,23,Other,Beginner,9,8.5,61,3,42,0,1,4,2,39.4,0,Failed
+2694,50,Nigeria,Advanced,8,7.2,71,3,37,0,1,6,6,75.4,1,Passed
+2695,34,India,No prior experience,3,7.0,72,3,31,0,0,7,4,17.4,0,Failed
+2696,45,Bangladesh,Intermediate,10,10.6,81,3,41,0,0,5,5,62.7,1,Passed
+2697,29,UK,Advanced,11,11.5,43,2,34,1,1,4,5,72.6,1,Passed
+2698,35,Nigeria,Intermediate,11,2.5,53,0,39,1,0,7,10,42.2,0,Failed
+2699,40,Indonesia,Intermediate,4,7.0,63,4,40,1,1,6,1,58.7,0,Failed
+2700,39,India,Beginner,1,4.9,72,0,47,1,1,8,1,44.5,0,Failed
+2701,29,USA,No prior experience,9,6.1,56,3,32,1,0,5,7,11.9,0,Failed
+2702,41,Nigeria,Intermediate,5,8.2,58,2,43,0,0,4,3,57.9,0,Failed
+2703,53,USA,No prior experience,6,9.0,66,2,34,0,1,4,5,46.8,0,Failed
+2704,38,UK,No prior experience,3,6.7,65,2,45,0,0,6,8,36.8,0,Failed
+2705,37,USA,Intermediate,11,1.3,57,1,45,0,1,6,5,40.3,0,Failed
+2706,34,UK,No prior experience,10,4.1,56,3,43,1,0,11,10,47.4,0,Failed
+2707,18,India,Advanced,8,9.7,48,3,44,0,1,5,9,80.5,1,Passed
+2708,34,Pakistan,Intermediate,15,0.0,55,3,41,1,0,3,4,36.3,0,Failed
+2709,24,UK,Intermediate,7,10.6,61,2,44,0,1,6,7,78.2,1,Passed
+2710,43,Germany,Intermediate,1,8.6,58,0,33,0,0,9,8,42.3,0,Failed
+2711,35,Bangladesh,Intermediate,10,10.9,71,0,48,0,0,2,7,53.4,0,Failed
+2712,22,Bangladesh,Intermediate,12,6.4,49,4,31,1,1,4,4,54.3,0,Failed
+2713,29,Brazil,Beginner,5,0.8,60,4,38,1,0,2,8,40.6,0,Failed
+2714,24,Bangladesh,No prior experience,10,8.3,62,4,32,1,0,3,10,44.8,0,Failed
+2715,34,Brazil,Intermediate,9,10.8,66,4,44,1,0,5,10,68.8,1,Passed
+2716,29,Bangladesh,Intermediate,12,9.8,70,3,37,0,0,2,10,78.3,1,Passed
+2717,53,UK,Beginner,11,5.0,77,2,33,0,1,6,4,48.4,0,Failed
+2718,51,Germany,No prior experience,12,7.3,60,3,25,1,1,5,10,40.0,0,Failed
+2719,32,Pakistan,Beginner,6,5.4,54,2,53,1,0,5,8,50.7,0,Failed
+2720,45,USA,No prior experience,8,4.5,63,1,40,0,0,2,8,32.5,0,Failed
+2721,24,Indonesia,Advanced,10,9.9,62,2,45,0,0,5,4,66.6,1,Passed
+2722,48,Bangladesh,Advanced,1,3.4,72,3,45,0,1,5,5,71.7,1,Passed
+2723,40,Pakistan,No prior experience,10,4.3,61,2,39,0,1,7,5,23.1,0,Failed
+2724,29,Pakistan,Beginner,11,3.7,57,2,37,1,1,5,5,43.4,0,Failed
+2725,26,UK,No prior experience,7,2.5,60,1,35,1,1,4,3,30.4,0,Failed
+2726,50,India,Intermediate,3,7.4,75,3,47,0,1,3,2,64.4,1,Passed
+2727,29,India,No prior experience,9,10.5,59,1,39,0,0,5,1,20.5,0,Failed
+2728,45,Bangladesh,Beginner,6,6.4,54,0,39,1,0,5,3,29.1,0,Failed
+2729,19,Indonesia,Beginner,5,2.5,75,2,37,1,0,7,9,41.8,0,Failed
+2730,19,Bangladesh,No prior experience,8,9.5,68,4,50,0,0,4,7,46.9,0,Failed
+2731,43,Bangladesh,Beginner,8,12.1,56,0,49,1,1,5,2,38.1,0,Failed
+2732,23,Brazil,No prior experience,12,5.1,60,1,35,1,1,4,8,26.7,0,Failed
+2733,17,Germany,Beginner,12,5.6,65,1,36,0,1,7,8,28.3,0,Failed
+2734,37,Germany,No prior experience,3,8.5,51,2,48,1,0,4,7,30.3,0,Failed
+2735,31,Indonesia,Beginner,2,11.9,57,3,32,0,1,7,6,58.0,0,Failed
+2736,44,Brazil,Intermediate,15,5.4,45,2,35,0,0,5,2,51.2,0,Failed
+2737,45,Pakistan,Intermediate,2,3.0,55,2,40,0,0,4,4,47.2,0,Failed
+2738,27,Brazil,Intermediate,14,8.9,78,0,36,0,1,7,1,49.3,0,Failed
+2739,50,Bangladesh,Advanced,5,9.4,67,0,50,0,0,3,7,53.9,0,Failed
+2740,26,India,No prior experience,10,7.0,57,1,35,1,0,0,2,14.8,0,Failed
+2741,36,Nigeria,No prior experience,12,5.3,63,3,33,0,1,8,6,30.6,0,Failed
+2742,36,Indonesia,Beginner,7,10.0,65,1,36,1,1,5,9,50.2,0,Failed
+2743,20,Pakistan,Intermediate,8,8.6,57,2,39,1,0,4,5,62.9,1,Passed
+2744,35,UK,Advanced,10,4.7,54,1,49,0,1,4,5,49.0,0,Failed
+2745,52,Nigeria,No prior experience,15,7.1,50,1,44,0,1,5,4,18.8,0,Failed
+2746,18,Nigeria,Beginner,8,2.9,60,2,40,0,0,4,1,13.5,0,Failed
+2747,48,Brazil,No prior experience,13,9.1,65,2,44,0,0,6,4,32.7,0,Failed
+2748,24,USA,Intermediate,12,6.2,62,2,41,0,1,10,9,70.6,1,Passed
+2749,24,Nigeria,Beginner,8,5.7,62,0,42,0,0,6,9,33.0,0,Failed
+2750,19,Bangladesh,No prior experience,15,6.9,51,2,46,0,0,5,7,36.6,0,Failed
+2751,50,Other,Beginner,10,7.1,64,0,40,0,1,2,4,39.9,0,Failed
+2752,32,India,Beginner,12,9.7,49,3,37,0,1,5,9,53.5,0,Failed
+2753,49,India,Intermediate,11,8.8,54,1,42,1,0,8,5,65.5,1,Passed
+2754,39,Other,No prior experience,3,6.5,73,1,41,0,0,6,10,43.5,0,Failed
+2755,47,Germany,Intermediate,14,9.3,53,3,41,0,1,4,2,60.7,1,Passed
+2756,16,Bangladesh,Beginner,11,8.2,50,3,38,0,0,6,9,69.1,1,Passed
+2757,23,UK,Intermediate,2,5.7,47,1,35,0,1,7,6,54.1,0,Failed
+2758,38,Nigeria,Intermediate,13,6.6,56,1,40,1,1,6,5,61.0,1,Passed
+2759,27,Germany,No prior experience,4,6.6,70,1,46,0,0,5,10,33.3,0,Failed
+2760,27,Bangladesh,No prior experience,15,8.5,61,1,35,0,1,9,8,28.5,0,Failed
+2761,30,Brazil,Intermediate,1,5.9,65,2,34,0,1,4,2,41.6,0,Failed
+2762,34,India,No prior experience,3,5.8,47,3,32,0,0,6,5,24.5,0,Failed
+2763,41,Germany,Intermediate,11,12.9,56,3,36,0,0,5,10,82.8,1,Passed
+2764,44,Indonesia,Intermediate,9,9.8,56,1,38,0,0,5,8,56.2,0,Failed
+2765,37,Nigeria,Intermediate,7,4.7,62,4,36,0,0,3,4,60.2,1,Passed
+2766,36,Nigeria,No prior experience,7,8.7,45,3,41,0,0,6,10,25.2,0,Failed
+2767,53,UK,No prior experience,1,7.4,78,2,46,1,0,10,10,40.7,0,Failed
+2768,35,USA,Beginner,7,8.2,72,2,33,0,0,6,9,49.0,0,Failed
+2769,44,Indonesia,No prior experience,10,7.4,54,4,38,0,0,5,7,30.7,0,Failed
+2770,19,Nigeria,Intermediate,7,10.6,54,4,43,1,0,5,7,78.4,1,Passed
+2771,22,Pakistan,Intermediate,4,8.0,67,0,28,1,0,9,9,57.9,0,Failed
+2772,43,Indonesia,Beginner,7,6.8,65,4,44,1,0,7,3,45.6,0,Failed
+2773,43,Nigeria,Intermediate,8,10.1,57,2,37,1,0,5,3,62.1,1,Passed
+2774,19,Other,No prior experience,3,7.7,48,2,38,0,1,7,10,50.0,0,Failed
+2775,37,Indonesia,No prior experience,13,7.4,58,2,30,0,0,6,7,35.6,0,Failed
+2776,27,Bangladesh,Advanced,10,7.9,55,1,43,1,1,5,2,53.9,0,Failed
+2777,18,Indonesia,Advanced,2,6.7,60,2,36,1,0,6,10,75.2,1,Passed
+2778,37,UK,Beginner,7,7.0,60,1,52,0,1,5,3,31.3,0,Failed
+2779,17,Brazil,Advanced,5,5.2,62,1,37,0,0,6,6,63.3,1,Passed
+2780,39,Brazil,Beginner,5,4.7,58,2,34,1,1,3,9,46.8,0,Failed
+2781,49,Brazil,No prior experience,14,4.0,60,0,42,0,0,8,4,23.2,0,Failed
+2782,42,Bangladesh,No prior experience,5,2.8,64,2,38,1,1,3,5,23.1,0,Failed
+2783,16,Germany,Advanced,15,4.4,51,4,39,0,0,3,6,64.5,1,Passed
+2784,23,Brazil,No prior experience,7,6.5,66,2,55,1,0,4,3,16.0,0,Failed
+2785,38,India,Beginner,9,7.3,63,1,46,0,0,6,2,19.5,0,Failed
+2786,53,Bangladesh,Beginner,11,6.2,56,1,38,0,1,4,4,35.6,0,Failed
+2787,21,Germany,Intermediate,8,0.0,61,3,40,0,1,5,6,32.9,0,Failed
+2788,37,India,Beginner,6,11.7,66,1,34,0,0,6,4,40.0,0,Failed
+2789,40,India,No prior experience,7,10.3,47,0,40,0,1,3,8,30.5,0,Failed
+2790,33,India,No prior experience,9,8.3,71,1,49,1,1,5,9,38.3,0,Failed
+2791,32,Pakistan,Beginner,14,12.7,69,4,33,0,1,6,8,62.3,1,Passed
+2792,27,UK,Intermediate,11,4.1,56,4,47,0,1,6,7,55.5,0,Failed
+2793,21,UK,Beginner,6,12.7,58,4,40,0,0,8,2,69.9,1,Passed
+2794,41,Bangladesh,Intermediate,1,4.1,54,3,34,1,0,8,10,62.3,1,Passed
+2795,42,India,No prior experience,4,7.7,62,2,36,0,1,4,2,28.4,0,Failed
+2796,23,Other,Intermediate,8,3.2,47,3,35,1,0,5,10,56.2,0,Failed
+2797,34,Indonesia,Beginner,7,7.0,42,3,49,1,1,4,5,57.2,0,Failed
+2798,16,Germany,No prior experience,3,8.2,59,2,45,1,1,6,4,36.4,0,Failed
+2799,44,UK,Beginner,10,6.5,65,1,40,0,1,4,4,41.5,0,Failed
+2800,50,Brazil,Intermediate,3,9.1,56,1,46,1,0,6,4,40.2,0,Failed
+2801,29,Bangladesh,Intermediate,11,7.3,60,2,36,0,0,4,7,54.1,0,Failed
+2802,50,Germany,No prior experience,3,5.4,80,5,41,0,0,5,3,36.8,0,Failed
+2803,35,Bangladesh,Intermediate,12,5.3,65,1,47,0,1,4,2,33.9,0,Failed
+2804,28,Other,No prior experience,15,9.4,58,2,34,0,0,5,5,19.3,0,Failed
+2805,53,Pakistan,No prior experience,1,5.0,50,1,27,0,0,3,6,11.8,0,Failed
+2806,23,Pakistan,Beginner,15,9.7,56,1,37,0,0,6,8,68.2,1,Passed
+2807,35,India,Beginner,10,10.7,62,3,41,0,0,8,3,44.1,0,Failed
+2808,48,Pakistan,Intermediate,1,2.0,56,4,36,0,0,3,4,47.2,0,Failed
+2809,41,Bangladesh,No prior experience,6,10.4,56,1,40,1,0,4,4,28.0,0,Failed
+2810,54,Brazil,No prior experience,14,13.2,61,1,38,1,0,8,4,43.7,0,Failed
+2811,36,India,Beginner,14,7.8,51,1,33,1,1,3,7,57.2,0,Failed
+2812,24,Nigeria,No prior experience,1,8.8,53,3,38,0,1,5,4,16.5,0,Failed
+2813,39,Germany,No prior experience,5,10.1,67,1,50,0,1,2,7,28.1,0,Failed
+2814,52,Other,No prior experience,4,6.2,65,0,40,0,0,4,4,27.9,0,Failed
+2815,32,India,Beginner,5,7.5,46,2,42,0,1,3,10,50.4,0,Failed
+2816,39,Bangladesh,No prior experience,7,3.1,62,3,40,1,1,6,8,30.1,0,Failed
+2817,36,Germany,Beginner,6,7.4,71,0,44,0,1,2,5,33.6,0,Failed
+2818,54,Brazil,No prior experience,12,8.5,52,4,43,1,0,3,2,19.7,0,Failed
+2819,54,USA,No prior experience,9,8.5,65,1,31,1,1,1,9,37.7,0,Failed
+2820,28,Other,Beginner,6,10.2,45,2,41,1,0,12,9,58.8,0,Failed
+2821,26,Bangladesh,No prior experience,9,4.7,56,0,38,1,0,6,1,8.9,0,Failed
+2822,34,Other,Beginner,4,5.4,60,4,40,0,0,6,5,42.4,0,Failed
+2823,26,UK,No prior experience,1,12.7,62,3,37,0,1,5,3,43.8,0,Failed
+2824,28,USA,Beginner,1,6.5,53,2,49,1,1,3,10,43.5,0,Failed
+2825,16,Germany,No prior experience,10,7.6,73,2,44,0,0,6,5,27.9,0,Failed
+2826,34,Pakistan,No prior experience,7,6.8,59,0,41,0,1,3,4,19.5,0,Failed
+2827,27,Bangladesh,Beginner,13,4.5,66,0,38,0,0,3,3,20.5,0,Failed
+2828,23,Other,Advanced,13,11.9,73,4,41,1,0,8,7,93.5,1,Passed
+2829,23,Germany,No prior experience,13,5.4,55,1,34,0,0,5,5,13.7,0,Failed
+2830,27,Pakistan,Beginner,3,3.6,58,4,42,1,1,6,1,44.4,0,Failed
+2831,48,Brazil,Intermediate,2,5.6,58,2,35,0,0,7,4,43.6,0,Failed
+2832,41,Brazil,Beginner,14,1.0,59,0,38,1,0,4,1,16.9,0,Failed
+2833,54,Other,Intermediate,6,5.0,67,0,46,1,1,7,3,51.2,0,Failed
+2834,43,India,No prior experience,6,4.1,51,2,33,0,1,4,10,26.7,0,Failed
+2835,20,UK,Advanced,13,8.9,67,1,41,0,0,4,10,70.0,1,Passed
+2836,23,India,Beginner,7,5.0,65,2,35,1,1,4,5,38.2,0,Failed
+2837,40,UK,No prior experience,5,9.7,54,1,36,1,0,3,6,27.6,0,Failed
+2838,42,Bangladesh,Intermediate,8,11.2,47,3,35,1,1,5,1,71.1,1,Passed
+2839,38,Nigeria,Beginner,7,9.3,53,1,39,0,0,5,10,56.6,0,Failed
+2840,45,Other,Beginner,2,6.4,60,2,43,0,0,9,9,53.7,0,Failed
+2841,38,Indonesia,Intermediate,15,7.4,65,2,41,0,0,6,9,58.1,0,Failed
+2842,35,Other,Beginner,1,2.4,65,2,37,0,0,4,1,35.3,0,Failed
+2843,33,USA,No prior experience,13,6.6,63,1,31,1,0,7,7,43.6,0,Failed
+2844,33,Pakistan,Beginner,14,4.4,58,1,40,0,1,5,4,16.7,0,Failed
+2845,17,USA,No prior experience,9,9.1,77,3,37,1,1,6,2,39.7,0,Failed
+2846,19,Brazil,Intermediate,5,14.7,72,2,42,0,1,2,2,68.3,1,Passed
+2847,45,UK,Advanced,12,8.5,55,2,33,0,1,4,6,62.5,1,Passed
+2848,48,Pakistan,Beginner,11,1.0,63,3,57,1,0,7,6,28.9,0,Failed
+2849,51,Brazil,Beginner,5,5.9,63,1,38,1,1,6,5,33.9,0,Failed
+2850,33,Pakistan,No prior experience,12,7.4,60,3,34,1,0,2,3,39.5,0,Failed
+2851,52,India,No prior experience,10,7.3,61,1,43,1,1,2,7,22.4,0,Failed
+2852,34,Brazil,Advanced,4,4.8,56,1,32,1,1,5,3,47.6,0,Failed
+2853,43,India,No prior experience,2,7.7,46,2,37,1,0,3,7,29.9,0,Failed
+2854,35,India,Beginner,5,3.3,62,1,32,1,0,9,2,28.9,0,Failed
+2855,48,Pakistan,Intermediate,2,4.2,65,3,32,1,0,1,8,51.8,0,Failed
+2856,27,Germany,Intermediate,12,8.9,55,1,47,0,0,3,2,50.9,0,Failed
+2857,30,USA,Beginner,7,4.0,55,2,40,1,1,8,2,41.0,0,Failed
+2858,54,Brazil,Beginner,11,8.6,69,1,35,0,1,0,4,31.8,0,Failed
+2859,17,Indonesia,Beginner,9,2.9,45,1,40,0,0,6,10,22.4,0,Failed
+2860,44,Germany,Advanced,9,12.3,54,3,35,0,0,3,1,70.5,1,Passed
+2861,25,USA,Beginner,11,4.7,67,4,37,1,0,9,7,54.5,0,Failed
+2862,17,Brazil,Beginner,6,6.3,68,2,31,0,1,5,2,41.3,0,Failed
+2863,26,UK,No prior experience,1,8.0,60,3,44,1,1,9,6,42.6,0,Failed
+2864,28,USA,No prior experience,13,5.3,63,3,33,0,1,3,5,23.9,0,Failed
+2865,25,Indonesia,Beginner,6,7.4,74,2,34,0,1,4,5,44.8,0,Failed
+2866,29,Other,Advanced,5,8.7,60,2,42,0,1,2,4,74.9,1,Passed
+2867,33,Bangladesh,Intermediate,4,9.9,46,3,45,0,0,3,5,52.2,0,Failed
+2868,24,India,Advanced,12,9.4,53,2,39,1,1,3,9,73.6,1,Passed
+2869,54,Bangladesh,Beginner,6,6.5,54,1,34,1,1,2,1,18.3,0,Failed
+2870,43,Germany,Intermediate,6,6.6,59,6,43,0,0,6,2,51.8,0,Failed
+2871,18,Other,Intermediate,14,14.0,54,2,44,0,0,2,7,57.1,0,Failed
+2872,35,India,Beginner,6,9.8,64,2,37,0,1,2,9,39.9,0,Failed
+2873,21,Brazil,No prior experience,2,4.2,57,1,38,1,0,6,3,6.0,0,Failed
+2874,42,Germany,Beginner,15,7.3,59,0,31,0,1,2,6,37.0,0,Failed
+2875,17,Indonesia,Intermediate,14,6.0,59,2,42,0,1,8,5,59.6,0,Failed
+2876,44,Pakistan,No prior experience,7,6.6,42,2,42,0,1,5,9,19.9,0,Failed
+2877,53,Brazil,Advanced,14,3.3,57,2,33,1,1,2,9,52.2,0,Failed
+2878,18,USA,No prior experience,4,5.8,70,2,34,0,1,5,10,35.9,0,Failed
+2879,31,Pakistan,Intermediate,13,12.4,56,1,47,0,0,6,3,74.6,1,Passed
+2880,45,Germany,Beginner,15,8.7,74,7,32,1,0,5,10,74.4,1,Passed
+2881,17,USA,Intermediate,12,0.0,60,4,41,1,0,7,10,56.2,0,Failed
+2882,32,Indonesia,Beginner,9,10.7,52,3,40,1,1,4,2,60.0,1,Passed
+2883,27,Bangladesh,Advanced,10,10.3,65,4,40,0,1,6,10,99.4,1,Passed
+2884,50,USA,Beginner,2,5.9,43,2,45,0,0,5,4,38.5,0,Failed
+2885,16,Bangladesh,No prior experience,5,9.2,63,2,40,1,1,5,9,52.0,0,Failed
+2886,30,India,Beginner,14,4.4,57,0,40,0,1,6,3,35.3,0,Failed
+2887,41,UK,No prior experience,4,5.6,61,5,39,0,1,6,4,33.5,0,Failed
+2888,52,Nigeria,No prior experience,9,11.5,44,1,33,0,0,6,2,26.3,0,Failed
+2889,36,Brazil,Beginner,4,6.2,60,3,44,1,1,3,1,37.4,0,Failed
+2890,46,Nigeria,Intermediate,8,1.4,70,3,40,1,1,5,5,45.6,0,Failed
+2891,40,India,Beginner,8,6.8,67,1,35,1,0,5,4,43.1,0,Failed
+2892,38,USA,Beginner,6,6.8,62,0,37,0,0,5,10,38.8,0,Failed
+2893,39,India,Beginner,6,10.6,53,1,32,0,0,3,2,33.8,0,Failed
+2894,53,Nigeria,No prior experience,11,7.0,54,0,37,0,0,7,6,28.7,0,Failed
+2895,43,Nigeria,Advanced,8,5.7,69,2,57,0,0,2,5,64.6,1,Passed
+2896,36,Brazil,Beginner,12,10.1,66,0,43,1,1,3,1,36.5,0,Failed
+2897,33,Pakistan,Advanced,13,7.4,54,0,38,0,1,5,10,62.2,1,Passed
+2898,51,Other,No prior experience,12,4.7,63,3,41,0,1,5,3,14.8,0,Failed
+2899,50,India,No prior experience,10,10.5,63,2,42,1,0,7,4,43.2,0,Failed
+2900,24,UK,Intermediate,9,7.6,53,2,34,0,1,6,1,45.8,0,Failed
+2901,53,Other,Beginner,15,7.0,66,2,31,1,1,6,8,50.4,0,Failed
+2902,45,India,No prior experience,5,7.5,68,3,38,1,0,5,3,46.3,0,Failed
+2903,49,Indonesia,No prior experience,11,3.8,55,1,48,1,1,3,5,25.1,0,Failed
+2904,47,Germany,Intermediate,1,5.4,69,2,41,1,1,5,3,54.6,0,Failed
+2905,18,Germany,Beginner,1,7.0,55,0,35,1,0,3,4,33.2,0,Failed
+2906,18,Nigeria,Beginner,15,6.4,75,0,43,0,1,5,9,53.5,0,Failed
+2907,43,Germany,No prior experience,2,10.8,62,5,29,0,1,6,3,44.5,0,Failed
+2908,30,Bangladesh,Beginner,10,7.7,61,2,45,1,1,5,8,59.0,0,Failed
+2909,38,UK,Advanced,10,9.6,68,1,34,0,1,4,6,59.5,0,Failed
+2910,26,Germany,No prior experience,5,7.0,69,1,40,1,1,9,6,36.4,0,Failed
+2911,47,USA,Beginner,4,10.2,68,0,39,0,1,3,1,22.1,0,Failed
+2912,51,Bangladesh,Intermediate,1,8.2,59,2,33,0,1,3,7,58.9,0,Failed
+2913,48,Other,No prior experience,4,7.0,62,1,35,0,1,6,4,33.6,0,Failed
+2914,39,Bangladesh,Beginner,4,7.0,60,1,35,0,1,3,8,37.7,0,Failed
+2915,54,India,Beginner,10,4.1,45,4,37,1,1,5,9,50.8,0,Failed
+2916,49,Nigeria,Beginner,4,8.5,62,2,47,1,0,3,2,36.1,0,Failed
+2917,43,Brazil,Beginner,1,6.9,59,1,36,0,1,4,8,44.0,0,Failed
+2918,52,Brazil,Beginner,9,5.5,58,1,37,1,0,5,8,31.5,0,Failed
+2919,22,Indonesia,Beginner,14,10.3,67,1,52,0,1,8,6,43.8,0,Failed
+2920,19,UK,Beginner,3,3.2,54,3,41,1,0,4,3,37.9,0,Failed
+2921,52,India,Beginner,13,5.7,69,3,46,1,0,4,5,40.0,0,Failed
+2922,16,Brazil,No prior experience,4,10.1,63,0,42,0,0,2,2,30.8,0,Failed
+2923,16,Nigeria,Beginner,5,7.9,53,2,39,0,1,6,6,56.9,0,Failed
+2924,35,Other,Advanced,13,6.9,71,2,35,1,1,4,3,57.4,0,Failed
+2925,34,Brazil,Beginner,13,7.8,58,1,49,1,1,4,4,59.5,0,Failed
+2926,44,USA,Intermediate,7,7.5,60,1,41,1,1,8,9,62.5,1,Passed
+2927,25,Bangladesh,Beginner,6,2.5,56,0,38,1,1,7,10,36.4,0,Failed
+2928,33,Brazil,Intermediate,5,6.0,65,0,46,1,0,5,5,53.1,0,Failed
+2929,43,India,Advanced,8,11.8,69,2,41,0,1,10,7,94.9,1,Passed
+2930,50,Germany,No prior experience,14,5.0,69,3,35,1,1,4,9,50.6,0,Failed
+2931,46,Germany,Beginner,1,6.0,64,1,37,0,1,4,5,53.0,0,Failed
+2932,42,Other,Beginner,7,5.4,62,2,40,0,0,7,1,36.1,0,Failed
+2933,26,Germany,Beginner,12,6.7,57,2,34,1,1,6,2,42.6,0,Failed
+2934,53,Other,No prior experience,6,5.3,61,2,37,0,0,3,3,21.9,0,Failed
+2935,20,India,Intermediate,11,8.5,56,1,53,0,0,5,3,49.3,0,Failed
+2936,23,UK,No prior experience,5,7.6,55,3,34,1,0,4,1,14.4,0,Failed
+2937,49,Germany,Beginner,7,9.3,57,0,48,0,0,4,9,27.0,0,Failed
+2938,27,Indonesia,Beginner,3,3.8,67,3,57,1,1,5,9,45.9,0,Failed
+2939,53,Nigeria,No prior experience,1,6.0,62,2,35,1,1,7,4,36.0,0,Failed
+2940,16,Bangladesh,Advanced,9,6.3,57,1,32,0,0,4,9,59.0,0,Failed
+2941,46,Germany,Intermediate,2,8.4,54,1,47,0,1,4,4,41.2,0,Failed
+2942,19,Other,Beginner,13,4.6,49,2,40,1,1,6,8,52.9,0,Failed
+2943,20,India,Beginner,10,9.7,62,1,27,0,1,3,3,34.0,0,Failed
+2944,45,Germany,No prior experience,15,10.6,53,2,40,0,1,6,9,23.7,0,Failed
+2945,39,Brazil,Intermediate,3,4.0,66,3,40,1,1,2,4,43.1,0,Failed
+2946,18,Germany,No prior experience,8,5.5,67,1,31,1,1,4,8,25.1,0,Failed
+2947,26,Other,Beginner,12,5.4,66,2,33,0,0,5,2,26.9,0,Failed
+2948,19,USA,Intermediate,10,14.9,59,3,45,1,0,2,7,76.5,1,Passed
+2949,41,USA,No prior experience,9,5.7,70,3,48,1,0,4,2,31.1,0,Failed
+2950,42,Germany,Intermediate,13,12.0,57,4,34,0,1,5,5,74.1,1,Passed
+2951,42,Bangladesh,No prior experience,3,3.2,77,1,45,1,1,8,9,32.6,0,Failed
+2952,21,India,Advanced,6,4.0,55,2,40,0,1,5,5,64.0,1,Passed
+2953,30,Indonesia,No prior experience,7,4.9,54,3,50,0,0,3,4,31.6,0,Failed
+2954,45,Indonesia,Beginner,15,4.5,74,1,32,1,1,6,8,49.3,0,Failed
+2955,52,Germany,No prior experience,1,6.2,59,0,35,1,1,1,5,26.1,0,Failed
+2956,52,Germany,Intermediate,14,4.9,58,0,38,0,1,2,9,33.7,0,Failed
+2957,52,USA,Beginner,7,4.5,50,0,30,1,0,7,9,17.9,0,Failed
+2958,50,Other,No prior experience,4,10.5,75,0,51,0,0,5,2,18.1,0,Failed
+2959,38,Bangladesh,Beginner,5,10.7,49,4,39,0,1,6,10,67.9,1,Passed
+2960,21,Germany,Beginner,8,9.8,67,1,33,0,1,6,9,61.2,1,Passed
+2961,19,Indonesia,Beginner,4,8.6,58,2,36,0,0,6,8,40.5,0,Failed
+2962,33,India,Intermediate,15,7.3,62,0,38,0,0,6,10,56.8,0,Failed
+2963,24,UK,Beginner,4,5.5,55,3,35,1,1,1,7,53.3,0,Failed
+2964,44,Brazil,No prior experience,8,4.1,61,0,54,0,1,1,6,11.4,0,Failed
+2965,28,Germany,No prior experience,15,8.1,55,1,48,0,0,9,4,21.2,0,Failed
+2966,32,Other,Beginner,5,3.5,63,0,55,1,1,6,7,42.5,0,Failed
+2967,47,Germany,Beginner,13,4.0,73,0,39,0,0,6,6,25.6,0,Failed
+2968,37,Other,Beginner,6,10.5,73,1,39,1,1,1,8,48.5,0,Failed
+2969,19,Bangladesh,No prior experience,12,12.7,56,3,58,0,1,7,1,38.2,0,Failed
+2970,20,UK,Beginner,11,8.2,55,0,43,0,0,4,3,28.0,0,Failed
+2971,52,Nigeria,Advanced,14,10.3,49,1,47,1,0,7,8,68.6,1,Passed
+2972,28,India,No prior experience,5,6.3,69,2,34,0,0,6,2,0.0,0,Failed
+2973,49,India,Beginner,1,3.0,66,6,45,0,1,7,9,62.8,1,Passed
+2974,37,Other,Intermediate,7,8.8,76,2,46,0,0,8,2,70.1,1,Passed
+2975,38,USA,Intermediate,6,8.7,58,2,41,0,1,2,9,60.5,1,Passed
+2976,18,Other,No prior experience,2,7.2,73,2,31,1,1,6,7,30.7,0,Failed
+2977,49,USA,Beginner,11,6.3,65,2,44,0,1,1,4,44.5,0,Failed
+2978,47,Pakistan,Intermediate,7,9.9,53,2,43,0,1,5,3,52.3,0,Failed
+2979,36,Indonesia,No prior experience,6,4.0,62,4,43,0,1,2,8,29.3,0,Failed
+2980,36,India,Beginner,5,4.7,63,2,35,0,1,3,10,53.1,0,Failed
+2981,26,Bangladesh,No prior experience,8,4.0,71,1,42,1,1,3,7,22.5,0,Failed
+2982,54,Other,Beginner,5,7.3,58,1,39,1,1,2,10,49.8,0,Failed
+2983,19,Bangladesh,Beginner,11,3.7,62,3,37,0,0,5,1,40.1,0,Failed
+2984,16,UK,Intermediate,2,4.9,74,1,46,0,1,2,7,52.4,0,Failed
+2985,43,Bangladesh,No prior experience,6,4.9,60,3,30,0,0,9,1,18.1,0,Failed
+2986,39,Germany,Beginner,14,6.2,45,3,48,0,1,6,1,39.9,0,Failed
+2987,50,Indonesia,Beginner,12,2.5,73,1,40,0,1,4,5,13.2,0,Failed
+2988,28,Germany,Beginner,1,7.3,59,0,49,0,0,3,10,46.9,0,Failed
+2989,49,Brazil,Intermediate,5,10.7,62,2,45,1,0,5,5,57.7,0,Failed
+2990,26,Other,Beginner,14,7.4,55,3,34,0,0,8,2,41.7,0,Failed
+2991,51,India,Advanced,6,11.6,51,0,33,1,0,11,7,70.8,1,Passed
+2992,32,Other,Beginner,15,11.0,52,2,40,0,1,9,3,51.3,0,Failed
+2993,50,Indonesia,Beginner,7,9.3,55,2,39,1,1,6,1,45.6,0,Failed
+2994,33,Nigeria,Intermediate,14,7.2,53,4,34,1,0,4,7,57.0,0,Failed
+2995,37,Nigeria,No prior experience,2,7.1,47,0,36,0,0,3,4,6.7,0,Failed
+2996,39,Brazil,No prior experience,1,9.3,60,2,41,1,1,4,4,27.9,0,Failed
+2997,34,Indonesia,Intermediate,6,5.8,63,2,35,0,0,3,3,41.9,0,Failed
+2998,52,Pakistan,Beginner,3,1.4,63,2,45,1,1,7,7,26.9,0,Failed
+2999,54,Pakistan,Intermediate,5,8.5,51,2,35,1,0,4,2,27.8,0,Failed
+3000,36,Pakistan,Advanced,12,3.6,57,1,48,0,1,5,7,59.8,0,Failed
